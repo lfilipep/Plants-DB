@@ -1,0 +1,13 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Morus alba,"White Mulberry, Common Mulberry,",Tree,18.0,4-10,M,LMH,SN,M,4,3,4.0,Morus microphylla
+1,Morus alba multicaulis,White Mulberry,Tree,18.0,4-8,,LMH,SN,M,4,3,2.0,Morus microphylla
+2,Morus australis,"Korean Mulberry, Aino Mulberry",Tree,7.5,6-9,F,LMH,SN,M,2,2,1.0,Morus microphylla
+3,Morus bombycis,Kuwa,Tree,8.0,5-9,,LMH,SN,M,2,2,1.0,Morus microphylla
+4,Morus cathayana,Hua Sang,Tree,15.0,5-9,,LMH,SN,M,2,0,,Morus microphylla
+5,Morus macroura,Himalayan Mulberry,Tree,10.0,7-10,,LMH,SN,M,2,1,2.0,Morus microphylla
+6,Morus mesozygia,African mulberry,Tree,30.0,10-12,F,LMH,N,M,2,3,4.0,Morus microphylla
+7,Morus mongolica,Mongolian Mulberry,Tree,7.5,4-8,,LMH,SN,M,2,1,2.0,Morus microphylla
+8,Morus nigra,Black Mulberry,Tree,10.0,5-10,S,LMH,SN,M,5,3,3.0,Morus microphylla
+9,Morus rubra,"Red Mulberry, Common Mulberry, White Mulberry",Tree,15.0,4-9,,LMH,SN,M,3,2,2.0,Morus microphylla
+10,Morus serrata,Himalayan Mulberry,Tree,20.0,-,,LMH,SN,M,2,1,2.0,Morus microphylla
+11,Morus species,Mulberry,Tree,10.0,0-0,M,LMH,SN,M,4,0,4.0,Morus microphylla

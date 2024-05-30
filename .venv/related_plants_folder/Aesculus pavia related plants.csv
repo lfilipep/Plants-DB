@@ -1,0 +1,10 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Aesculus californica,"Californian Buckeye, California Horsechestnut",Tree,12.0,6-10,M,LMH,N,DM,3,1,2,Aesculus pavia
+1,Aesculus chinensis,Chinese Horse Chestnut,Tree,25.0,5-9,S,LMH,SN,M,3,1,3,Aesculus pavia
+2,Aesculus flava,"Sweet Buckeye, Yellow buckeye",Tree,20.0,4-8,M,LMH,SN,M,4,0,3,Aesculus pavia
+3,Aesculus glabra,"Ohio Buckeye, Fetid Buckeye",Tree,20.0,4-7,M,LMH,SN,M,2,1,3,Aesculus pavia
+4,Aesculus hippocastanum,"Horse Chestnut, European Horsechestnut, Common Horsechestnut",Tree,30.0,4-7,F,LMH,SN,DM,3,4,3,Aesculus pavia
+5,Aesculus indica,Indian Horse Chestnut,Tree,30.0,6-9,,LMH,SN,M,3,1,3,Aesculus pavia
+6,Aesculus parviflora,Bottlebrush buckeye,Shrub,4.0,4-9,S,LMH,FSN,M,2,1,3,Aesculus pavia
+7,Aesculus spp,Horse chestnut,Tree,30.0,4-9,F,LMH,SN,DM,4,4,4,Aesculus pavia
+8,Aesculus turbinata,Japanese Horse Chestnut,Tree,20.0,5-7,M,LMH,SN,M,2,0,3,Aesculus pavia

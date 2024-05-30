@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Cornus alba,Tartarian Dogwood,Shrub,3.0,3-7,F,LMH,SN,Mwe,0,0,1.0,Cornus suecica
+1,Cornus alternifolia,"Green Osier, Alternateleaf dogwood, Alternate Leaf Dogwood, Golden Shadows Pagoda Dogwood, Green Osi",Shrub,6.0,3-8,F,LMH,N,DM,0,2,2.0,Cornus suecica
+2,Cornus amomum,Silky Dogwood,Shrub,3.0,4-8,M,LMH,SN,M,1,2,1.0,Cornus suecica
+3,Cornus asperifolia drummondii,Roughleaf Dogwood,Shrub,4.0,5-9,F,LMH,N,M,0,0,3.0,Cornus suecica
+4,Cornus australis,,Shrub,4.0,6-9,,LMH,SN,M,1,0,3.0,Cornus suecica
+5,Cornus canadensis,"Creeping Dogwood, Bunchberry dogwood, Bunchberry",Perennial,0.3,2-7,F,LMH,SN,M,4,2,2.0,Cornus suecica
+6,Cornus capitata,Bentham's Cornel,Tree,12.0,7-10,M,LMH,SN,M,4,1,3.0,Cornus suecica
+7,Cornus chinensis,,Tree,10.0,7-10,,LMH,SN,M,2,3,,Cornus suecica
+8,Cornus controversa,"Giant Dogwood, Wedding Cake Tree,",Tree,15.0,5-8,F,LMH,SN,M,2,1,2.0,Cornus suecica
+9,Cornus coreana,,Tree,20.0,5-9,,LMH,SN,M,0,0,2.0,Cornus suecica
+10,Cornus elliptica,,Tree,10.0,7-10,M,LMH,SN,M,4,1,2.0,Cornus suecica
+11,Cornus florida,Flowering Dogwood,Shrub,6.0,5-9,M,LMH,SN,M,2,2,3.0,Cornus suecica
+12,Cornus hemsleyi,,Shrub,4.0,-,,LMH,SN,M,0,0,2.0,Cornus suecica
+13,Cornus hongkongensis,,Shrub,15.0,-,,LMH,SN,M,1,0,2.0,Cornus suecica
+14,Cornus iberica,,Shrub,4.0,-,,LMH,SN,M,2,0,3.0,Cornus suecica
+15,Cornus kousa,"Japanese Dogwood, Kousa dogwood, Chinese Dogwood,",Tree,10.0,5-8,S,LMH,SN,M,5,0,2.0,Cornus suecica
+16,Cornus kousa chinensis,Japanese Dogwood,Tree,10.0,5-8,,LMH,SN,M,5,0,2.0,Cornus suecica
+17,Cornus macrophylla,Large-Leaf Dogwood,Tree,15.0,5-9,,LMH,SN,M,2,2,2.0,Cornus suecica
+18,Cornus mas,"Cornelian Cherry, Cornelian Cherry Dogwood",Shrub,5.0,4-8,M,LMH,SN,M,4,2,3.0,Cornus suecica
+19,Cornus monbeigii,,Shrub,5.0,6-9,,LMH,SN,M,1,2,2.0,Cornus suecica
+20,Cornus multinervosa,,Tree,8.0,-,,LMH,SN,M,2,0,2.0,Cornus suecica
+21,Cornus nuttallii,"Mountain Dogwood, Pacific dogwood, Western Dogwood",Tree,10.0,6-8,M,LMH,SN,DM,1,2,3.0,Cornus suecica
+22,Cornus oblonga,Oblong-Petal Dogwood,Tree,6.0,8-11,,LMH,SN,M,0,3,2.0,Cornus suecica
+23,Cornus occidentalis,Western Dogwood,Shrub,6.0,5-9,,LMH,SN,M,1,1,,Cornus suecica
+24,Cornus officinalis,"Shan Zhu Yu, Asiatic dogwood, Japanese Cornel Dogwood",Shrub,10.0,5-8,M,LMH,SN,M,4,3,0.0,Cornus suecica
+25,Cornus poliophylla,,Shrub,4.0,6-9,,LMH,SN,M,1,2,2.0,Cornus suecica
+26,Cornus quinquenervis,,Shrub,3.0,4-8,,LMH,SN,M,2,0,,Cornus suecica
+27,Cornus rugosa,Round-Leaved Dogwood,Shrub,3.0,4-8,,LMH,SN,DM,0,1,,Cornus suecica
+28,Cornus sanguinea,"Dogwood, Bloodtwig dogwood",Shrub,3.0,4-8,,LMH,SN,M,2,1,3.0,Cornus suecica
+29,Cornus sericea,"Red Osier Dogwood, Western dogwood",Shrub,2.5,2-7,F,LMH,SN,MWe,2,2,4.0,Cornus suecica

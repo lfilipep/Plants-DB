@@ -1,0 +1,9 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Hordeum deficiens,,Annual,0.0,-,,LMH,N,M,3,0,2.0,Hordeum bulbosum
+1,Hordeum distichon,Two-Rowed Barley,Annual,1.2,4-8,,LMH,N,M,4,3,2.0,Hordeum bulbosum
+2,Hordeum hexastichon,"Six-Row Barley, Common barley",Annual,1.2,0-0,,LMH,N,M,3,0,2.0,Hordeum bulbosum
+3,Hordeum intermedium,,Annual,1.0,-,,LMH,N,M,2,0,2.0,Hordeum bulbosum
+4,Hordeum jubatum,"Foxtail Barley, Intermediate barley",Perennial,0.3,4-8,,LMH,N,DM,1,1,0.0,Hordeum bulbosum
+5,Hordeum murinum,"Mouse Barley, Smooth barley, Hare barley, Wall barley",Annual,0.5,0-0,,LMH,N,DM,2,1,,Hordeum bulbosum
+6,Hordeum trifurcatum,Egyptian Barley,Annual,1.0,-,,LMH,N,DM,2,0,2.0,Hordeum bulbosum
+7,Hordeum vulgare,"Barley, Common barley",Annual,1.0,4-8,,LMH,N,M,4,3,2.0,Hordeum bulbosum

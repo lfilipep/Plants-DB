@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Abelmoschus esculentus,Okra,Annual,1.0,5-11,,LMH,N,M,4,3,2.0,Malva moschata
+1,Abelmoschus manihot,Aibika,Perennial,3.0,8-11,F,LMH,N,M,4,1,2.0,Malva moschata
+2,Abelmoschus moschatus,"Musk Mallow,Musk Okra",Perennial,2.0,8-11,F,LMH,N,M,2,3,3.0,Malva moschata
+3,Abroma augusta,Cotton Abroma. Perennial Indian Hemp.,Shrub,3.0,10-12,F,LMH,N,M,0,3,4.0,Malva moschata
+4,Abutilon megapotamicum,Trailing Abutilon,Shrub,2.0,7-10,F,LMH,SN,M,4,0,0.0,Malva moschata
+5,Abutilon ochsenii,,Shrub,4.0,7-10,,LMH,SN,M,3,0,,Malva moschata
+6,Abutilon pictum,"Abutilon, Parlour Maple, Flowering Maple, Spotted",Shrub,5.0,8-10,M,LMH,SN,M,3,0,,Malva moschata
+7,Abutilon purpurascens,,Shrub,2.4,8-11,,LMH,SN,DM,2,0,,Malva moschata
+8,Abutilon species,,Shrub,3.0,7-10,,LMH,SN,M,3,0,,Malva moschata
+9,Abutilon theophrasti,"China Jute, Velvetleaf, Butterprint Buttonweed Jute, China Mallow, Indian Velvet Leaf",Annual,1.0,0-0,,LMH,SN,DM,3,2,4.0,Malva moschata
+10,Abutilon vitifolium,,Shrub,8.0,7-10,,LMH,SN,M,3,0,,Malva moschata
+11,Abutilon x hybridum,"Chinese Lantern, Flowering Maple",Shrub,3.0,9-11,F,LMH,SN,M,3,0,0.0,Malva moschata
+12,Abutilon x milleri,Trailing Abutilon,Shrub,3.0,7-10,,LMH,SN,M,3,0,,Malva moschata
+13,Abutilon x suntense,,Shrub,8.0,7-10,F,LMH,SN,M,3,0,,Malva moschata
+14,Adansonia digitata,"Baobab, Judas Fruit, Monkey Bread Tree",Tree,20.0,10-12,S,LMH,N,DM,3,3,4.0,Malva moschata
+15,Alcea rosea,Hollyhock,Perennial,2.4,5-9,F,LMH,N,DM,3,2,3.0,Malva moschata
+16,Althaea cannabina,Palm-leaf marshmallow,Perennial,1.8,4-8,,LMH,N,DM,0,0,1.0,Malva moschata
+17,Althaea officinalis,"Marsh Mallow, Common marshmallow",Perennial,1.2,3-7,,LMH,N,DM,5,5,3.0,Malva moschata
+18,Bombax ceiba,"Red Silk Cotton Tree, Kapok Tree",Tree,25.0,10-12,M,LMH,N,DM,2,2,4.0,Malva moschata
+19,Burretiodendron hsienmu,Hsienmu wood,Tree,35.0,10-12,S,LMH,N,M,0,0,4.0,Malva moschata
+20,Callirhoe digitata,"Finger Poppy Mallow, Winecup",Perennial,0.9,4-8,,L,N,DM,2,0,,Malva moschata
+21,Callirhoe involucrata,"Poppy Mallow, Purple poppymallow, Winecup, Finger Poppy Mallow",Perennial,0.2,4-8,M,L,N,DM,3,2,0.0,Malva moschata
+22,Callirhoe leiocarpa,Tall Poppy-Mallow,Annual,0.9,5-9,,L,N,DM,2,0,,Malva moschata
+23,Ceiba aesculifolia,Pochote,Tree,25.0,10-12,M,LMH,N,DM,2,1,4.0,Malva moschata
+24,Ceiba pentandra,"Kapok Tree, Cotton Tree, Suma'ma",Tree,50.0,10-12,F,MH,N,DM,3,3,5.0,Malva moschata
+25,Clappertonia ficifolia,Bolo Bolo,Shrub,2.5,10-12,F,LM,N,MWe,0,1,4.0,Malva moschata
+26,Cola acuminata,"Cola Nut, Kola, Bissy Nut",Tree,20.0,10-12,M,LMH,N,M,3,4,2.0,Malva moschata
+27,Cola nitida,"Cola Nut, Kola, Bissy Nuts",Tree,20.0,10-12,S,LMH,SN,DM,3,4,2.0,Malva moschata
+28,Durio dulcis,"Durian Marangang, Merangang, Red Durian, Tutong, Lahong",Tree,30.0,11-12,M,LMH,N,M,4,0,2.0,Malva moschata
+29,Durio zibethinus,Durian,Tree,30.0,10-12,M,LMH,N,M,5,1,2.0,Malva moschata

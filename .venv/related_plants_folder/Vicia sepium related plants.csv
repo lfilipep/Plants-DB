@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Artemisia ludoviciana,"White Sage, Louisiana Sage, Prairie Sage, Western Mugwort",Perennial,1.0,4-9,M,LM,SN,DM,2,2,2.0,Vicia sepium
+1,Artemisia ludoviciana gnaphalodes,White Sage,Perennial,1.0,4-8,,LM,SN,DM,0,2,1.0,Vicia sepium
+2,Avena ludoviciana,Oats,Annual,0.0,-,,LMH,N,DM,2,0,2.0,Vicia sepium
+3,Lactuca ludoviciana,"Western Wild Lettuce, Biannual lettuce",Biennial,1.2,0-0,,LM,SN,M,2,2,,Vicia sepium
+4,Orobanche ludoviciana,"Broomrape, Louisiana broomrape",Perennial,1.5,0-0,,LMH,FSN,M,1,1,0.0,Vicia sepium
+5,Vicia americana,"American Vetch, Mat vetch",Perennial,1.0,4-7,,LMH,SN,M,2,1,4.0,Vicia sepium
+6,Vicia amoena,,Perennial,1.0,-,,LMH,SN,M,1,0,,Vicia sepium
+7,Vicia amurensis,,Perennial,1.5,-,,LMH,SN,M,1,0,,Vicia sepium
+8,Vicia articulata,One-Flower Vetch,Annual,0.6,-,,LMH,SN,M,1,0,3.0,Vicia sepium
+9,Vicia benghalensis,Purple Vetch,Annual/Perennial,0.6,-,F,LMH,SN,M,0,0,3.0,Vicia sepium
+10,Vicia caroliniana,"Carolina vetch, Carolina wood vetch",Perennial,0.6,3-9,M,LMH,FSN,M,0,2,4.0,Vicia sepium
+11,Vicia cracca,"Tufted Vetch, Bird vetch, Cow vetch",Perennial Climber,1.8,4-8,,LMH,SN,M,1,1,3.0,Vicia sepium
+12,Vicia ervilia,Bitter Vetch,Annual,0.6,-,,LMH,SN,M,1,0,,Vicia sepium
+13,Vicia faba equina,Horsebean,Annual,1.0,4-8,F,LMH,SN,M,3,0,3.0,Vicia sepium
+14,Vicia faba major,"Broad Bean, Fava Bean",Annual,1.0,4-10,F,LMH,SN,M,4,1,3.0,Vicia sepium
+15,Vicia faba minuta,Tick Bean,Annual,1.0,4-8,F,LMH,SN,M,3,0,3.0,Vicia sepium
+16,Vicia gigantea,Giant Vetch,Perennial,1.0,4-8,,LMH,SN,M,2,1,3.0,Vicia sepium
+17,Vicia grandiflora kitaibeliana,large yellow vetch,Annual,0.0,-,,LMH,SN,M,2,0,,Vicia sepium
+18,Vicia heptajuga,,Perennial,0.0,-,,LMH,SN,M,1,0,,Vicia sepium
+19,Vicia hirsuta,"Hairy Tare, Tiny vetch",Annual,0.5,4-9,,LMH,SN,M,2,0,3.0,Vicia sepium
+20,Vicia hirticalycina,,Perennial,0.0,-,,LMH,SN,M,1,0,,Vicia sepium
+21,Vicia japonica,,Perennial,1.5,-,,LMH,SN,M,1,0,,Vicia sepium
+22,Vicia monantha,"Hard Vetch, Barn vetch",Annual,0.0,0-0,,LMH,SN,M,2,0,3.0,Vicia sepium
+23,Vicia narbonensis,"French Vetch, Purple broad vetch",Annual,1.0,0-0,,LMH,SN,M,2,0,,Vicia sepium
+24,Vicia nipponica,,Perennial,0.8,-,,LMH,SN,M,1,0,,Vicia sepium
+25,Vicia noeana,,Annual,0.6,-,,LMH,SN,M,1,0,,Vicia sepium
+26,Vicia pisiformis,"Pea Vetch, Pale-flower vetch",Perennial,1.8,0-0,,LMH,SN,M,1,0,,Vicia sepium
+27,Vicia pseudo-orobus,,Perennial,1.5,-,,LMH,SN,DM,1,0,,Vicia sepium
+28,Vicia sativa,"Winter Tares, Garden vetch, Subterranean vetch",Annual Climber,1.2,4-8,F,LMH,SN,M,3,0,3.0,Vicia sepium
+29,Vicia sativa leucosperma,Winter Tares,Annual Climber,1.2,4-8,F,LMH,SN,M,3,0,3.0,Vicia sepium

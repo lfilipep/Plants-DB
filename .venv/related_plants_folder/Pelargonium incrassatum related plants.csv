@@ -1,0 +1,18 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Pelargonium acetosum,,Shrub,0.6,-,,LM,N,DM,1,1,,Pelargonium incrassatum
+1,Pelargonium australe,Ivy Geranium,Perennial,0.3,8-11,,LM,N,DM,1,1,,Pelargonium incrassatum
+2,Pelargonium bowkeri,,Perennial,0.0,-,,LM,N,DM,1,1,,Pelargonium incrassatum
+3,Pelargonium capitatum,Rose-Scented Geranium,Shrub,0.6,8-11,,LM,N,DM,0,3,3.0,Pelargonium incrassatum
+4,Pelargonium crispum,Lemon Geranium,Shrub,0.7,8-11,,LM,SN,DM,2,2,3.0,Pelargonium incrassatum
+5,Pelargonium exstipulatum,Pennyroyal Geranium,Shrub,1.0,8-11,,LM,N,DM,1,2,2.0,Pelargonium incrassatum
+6,Pelargonium fragrans,Nutmeg Geranium,Shrub,0.3,8-11,,LM,N,DM,1,2,3.0,Pelargonium incrassatum
+7,Pelargonium fulgidum,,Shrub,0.7,8-11,,LM,N,DM,0,1,2.0,Pelargonium incrassatum
+8,Pelargonium glutinosum,Pheasant's Foot Geranium,Shrub,1.5,8-11,,LM,N,DM,0,1,3.0,Pelargonium incrassatum
+9,Pelargonium graveolens,"Rose Geranium, Sweet scented geranium",Shrub,1.2,10-11,M,LM,N,DM,2,3,3.0,Pelargonium incrassatum
+10,Pelargonium odoratissimum,Apple Geranium,Perennial,0.2,8-11,,LM,SN,DM,2,3,3.0,Pelargonium incrassatum
+11,Pelargonium peltatum,"Ivy-Leaved Geranium, Hanging Geranium, Ivy Geranium",Shrub,1.5,9-10,M,LM,N,DM,1,1,3.0,Pelargonium incrassatum
+12,Pelargonium quercifolium,Oak-Leaved Geranium,Shrub,1.5,8-11,,LM,N,DM,0,2,3.0,Pelargonium incrassatum
+13,Pelargonium radens,Rasp-leaf pelargonium,Shrub,1.0,8-11,,LM,N,DM,0,2,3.0,Pelargonium incrassatum
+14,Pelargonium tomentosum,Peppermint Geranium,Shrub,0.5,8-11,,LM,S,DM,1,2,3.0,Pelargonium incrassatum
+15,Pelargonium triste,,Perennial,0.5,8-11,,LM,N,DM,1,1,2.0,Pelargonium incrassatum
+16,Pelargonium vitifolium,Grapeleaf geranium,Shrub,1.0,8-11,,LM,N,DM,0,1,3.0,Pelargonium incrassatum

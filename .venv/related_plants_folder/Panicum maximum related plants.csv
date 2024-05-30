@@ -1,0 +1,9 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Panicum antidotale,"Blue Panic Grass, Blue panicum",Perennial,3.0,0-0,,LMH,N,M,1,1,0.0,Panicum maximum
+1,Panicum capillare,"Old Witch Grass, Witchgrass",Annual,0.6,4-8,,LMH,N,M,2,1,1.0,Panicum maximum
+2,Panicum decompositum,"Native Millet, Australian millet",Perennial,0.3,0-0,,LMH,N,M,2,0,,Panicum maximum
+3,Panicum miliaceum,European Millet,Annual,1.0,10-12,,LMH,N,DM,3,2,2.0,Panicum maximum
+4,Panicum obtusum,Vine Mesquite,Perennial,0.8,-,,LMH,N,M,2,0,2.0,Panicum maximum
+5,Panicum sonorum,"Sauwi, Mexican panicgrass",Annual,1.0,0-0,,LMH,N,DM,2,0,,Panicum maximum
+6,Panicum turgidum,"Desert Grass. Turgid panic grass, Afezu",Perennial,1.5,10-12,F,LM,N,DM,2,0,2.0,Panicum maximum
+7,Panicum urvilleanum,Desert Panicgrass,Perennial,1.0,-,,LMH,N,DM,2,0,,Panicum maximum

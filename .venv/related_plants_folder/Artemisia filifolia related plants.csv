@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Artemisia abrotanum,Southernwood,Shrub,1.2,4-8,,LMH,SN,DM,1,3,3.0,Artemisia filifolia
+1,Artemisia absinthium,"Wormwood, Absinthium.",Perennial,1.0,4-9,M,LM,SN,DM,1,3,2.0,Artemisia filifolia
+2,Artemisia annua,"Qing Hao, Sweet sagewort",Annual,3.0,6-9,F,LM,SN,DM,1,4,2.0,Artemisia filifolia
+3,Artemisia anomala,,Perennial,1.0,-,,LMH,SN,M,0,2,,Artemisia filifolia
+4,Artemisia argyi,,Perennial,1.5,-,,LM,SN,DM,0,2,,Artemisia filifolia
+5,Artemisia biennis,Biennial Wormwood,Annual/Biennial,1.0,0-0,,LM,SN,DM,1,1,1.0,Artemisia filifolia
+6,Artemisia campestris,Field Southernwood,Perennial,1.5,4-8,,LM,SN,DM,0,2,1.0,Artemisia filifolia
+7,Artemisia campestris glutinosa,,Perennial,1.5,-,,LM,SN,DM,0,0,1.0,Artemisia filifolia
+8,Artemisia capillaris,Yin Chen Hao,Shrub,0.5,6-9,,LM,SN,DM,1,3,,Artemisia filifolia
+9,Artemisia caruifolia,,Annual,1.0,-,,LM,SN,DM,1,3,1.0,Artemisia filifolia
+10,Artemisia cina,"Cina, Santonica",Shrub,1.0,0-0,,LM,S,DM,0,3,,Artemisia filifolia
+11,Artemisia dracunculoides,"Russian Tarragon, Tarragon, French Tarragon",Perennial,1.0,5-8,M,LM,SN,DM,2,1,1.0,Artemisia filifolia
+12,Artemisia dracunculus,"Tarragon, French Tarragon",Perennial,0.6,5-9,M,LM,SN,DM,4,2,3.0,Artemisia filifolia
+13,Artemisia frigida,"Fringed Wormwood, Prairie sagewort",Perennial,0.3,3-10,,LM,N,DM,2,2,3.0,Artemisia filifolia
+14,Artemisia glacialis,Glacier Wormwood,Perennial,0.2,4-8,,LMH,N,DM,1,2,,Artemisia filifolia
+15,Artemisia gmelinii,"Russian Wormwood, Gmelin's wormwood",Perennial,1.5,3-7,,LMH,N,DM,1,1,2.0,Artemisia filifolia
+16,Artemisia indica,,Annual/Perennial,1.2,6-9,,LM,SN,DM,1,3,2.0,Artemisia filifolia
+17,Artemisia japonica,,Perennial,1.0,7-10,,LMH,SN,DM,1,2,1.0,Artemisia filifolia
+18,Artemisia keiskeana,,Perennial,0.6,-,,LMH,SN,DM,2,1,2.0,Artemisia filifolia
+19,Artemisia laciniata,Siberian wormwood,Perennial,0.0,0-0,,LMH,SN,DM,1,0,,Artemisia filifolia
+20,Artemisia lactiflora,White Mugwort,Perennial,1.5,4-8,S,LMH,SN,M,0,2,,Artemisia filifolia
+21,Artemisia lancea,,Perennial,1.2,-,,LMH,SN,DM,1,1,,Artemisia filifolia
+22,Artemisia ludoviciana,"White Sage, Louisiana Sage, Prairie Sage, Western Mugwort",Perennial,1.0,4-9,M,LM,SN,DM,2,2,2.0,Artemisia filifolia
+23,Artemisia ludoviciana gnaphalodes,White Sage,Perennial,1.0,4-8,,LM,SN,DM,0,2,1.0,Artemisia filifolia
+24,Artemisia maritima,Sea Wormwood,Shrub,0.6,6-9,,LM,N,DM,1,2,1.0,Artemisia filifolia
+25,Artemisia mexicana,Mexican White Sagebrush,Perennial,1.0,-,,LM,N,DM,0,1,,Artemisia filifolia
+26,Artemisia michauxiana,"Mountain Sagewort, Michaux's wormwood",Perennial,0.5,3-7,,LM,SN,DM,1,1,,Artemisia filifolia
+27,Artemisia monophylla,,Perennial,1.0,-,,LMH,SN,DM,1,0,,Artemisia filifolia
+28,Artemisia montana,,Perennial,1.8,-,,LMH,SN,DM,1,0,,Artemisia filifolia

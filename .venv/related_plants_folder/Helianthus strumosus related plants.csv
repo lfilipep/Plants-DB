@@ -1,0 +1,12 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Helianthus annuus,"Sunflower, Common sunflower",Annual,3.0,6-9,F,LMH,SN,DM,5,2,5.0,Helianthus strumosus
+1,Helianthus cusickii,Cusick's sunflower,Perennial,0.6,7-10,F,LMH,N,DM,3,1,0.0,Helianthus strumosus
+2,Helianthus decapetalus,Thinleaf sunflower,Perennial,1.2,2-8,M,LMH,SN,M,0,0,2.0,Helianthus strumosus
+3,Helianthus doronicoides,,Perennial,1.8,4-8,,LMH,N,M,2,0,,Helianthus strumosus
+4,Helianthus giganteus,Giant Sunflower,Perennial,3.6,4-8,F,LMH,N,M,3,0,0.0,Helianthus strumosus
+5,Helianthus hybrids,Perennial Sunflower,Perennial,3.6,4-11,F,LMH,N,DM,4,2,2.0,Helianthus strumosus
+6,Helianthus laetiflorus,"Showy Sunflower, Cheerful sunflower",Perennial,2.0,4-8,,LMH,N,M,2,0,,Helianthus strumosus
+7,Helianthus lenticularis,Wild Sunflower,Annual,3.0,-,,LMH,N,M,3,0,,Helianthus strumosus
+8,Helianthus maximilianii,"Maximillian Sunflower, Maximillian Daisy",Perennial,2.4,5-10,M,LMH,N,M,3,0,0.0,Helianthus strumosus
+9,Helianthus pauciflorus,"Stiff Sunflower, Prairie Sunflower",Perennial,1.5,3-7,F,LMH,N,DM,4,0,1.0,Helianthus strumosus
+10,Helianthus petiolaris,Prairie Sunflower,Annual,3.0,4-8,,LMH,N,DM,2,1,0.0,Helianthus strumosus

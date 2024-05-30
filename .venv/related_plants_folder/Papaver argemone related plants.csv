@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Argemone albiflora,"White Prickly Poppy, Bluestem pricklypoppy",Annual,1.5,6-9,,L,N,DM,0,1,,Papaver argemone
+1,Argemone mexicana,"Prickly Poppy, Mexican pricklypoppy",Perennial,0.6,7-10,,L,N,DM,1,3,2.0,Papaver argemone
+2,Chelidonium majus,"Greater Celandine, Swallow Wort, Greater Celandine",Perennial,0.5,5-8,F,LMH,FSN,M,1,3,2.0,Papaver argemone
+3,Corydalis ambigua,,Perennial,0.2,5-9,,LM,S,M,1,3,,Papaver argemone
+4,Corydalis aurea,Scrambled Eggs,Annual/Biennial,0.5,5-9,,LM,S,M,0,2,,Papaver argemone
+5,Corydalis cava,,Perennial,0.2,5-9,,LM,S,M,0,3,,Papaver argemone
+6,Corydalis edulis,,Perennial,0.0,-,,LM,S,M,1,0,,Papaver argemone
+7,Corydalis falconeri,,Perennial,0.0,-,,LM,S,M,0,0,1.0,Papaver argemone
+8,Corydalis govaniana,,Perennial,0.0,-,,LM,SN,M,0,2,,Papaver argemone
+9,Corydalis incisa,Incised fumewort,Annual/Biennial,0.3,6-10,,LM,S,M,1,1,0.0,Papaver argemone
+10,Corydalis intermedia,,Perennial,0.2,-,,LM,S,M,0,1,,Papaver argemone
+11,Corydalis juncea,,Perennial,0.0,-,,LM,SN,M,1,0,,Papaver argemone
+12,Corydalis ochotensis,,Biennial,1.0,-,,LM,SN,M,1,0,,Papaver argemone
+13,Corydalis pallida,,Biennial,0.3,-,,LM,SN,M,1,0,,Papaver argemone
+14,Corydalis solida,"Fumewort, Spring fumewort",Perennial,0.2,5-9,,LM,S,M,1,3,,Papaver argemone
+15,Corydalis ternata,Three-Leaf Corydalis,Perennial,0.2,-,,LM,SN,M,0,2,,Papaver argemone
+16,Corydalis vaginans,,Annual/Biennial,0.0,4-8,,LM,SN,M,0,1,,Papaver argemone
+17,Corydalis yanhusuo,Yan Hu Suo,Perennial,0.0,-,,LM,SN,M,0,3,,Papaver argemone
+18,Dicentra canadensis,Squirrel Corn,Perennial,0.2,4-8,,LM,FS,M,1,2,,Papaver argemone
+19,Dicentra cucullaria,Dutchman's Breeches,Perennial,0.1,5-9,M,LM,FS,M,0,2,,Papaver argemone
+20,Dicentra eximia,"Dwarf bleeding heart, turkey-corn",Perennial,0.4,3-9,M,LMH,FS,M,0,0,4.0,Papaver argemone
+21,Dicentra spectabilis,"Bleeding Heart, Japanese Bleeding Heart, Common Bleeding Heart",Perennial,0.6,3-9,M,LM,SN,M,1,0,,Papaver argemone
+22,Eschscholzia californica,Californian Poppy,Perennial,0.3,6-11,F,LMH,N,DM,1,3,2.0,Papaver argemone
+23,Glaucium flavum,"Horned Poppy, Yellow hornpoppy",Perennial,0.6,6-9,S,LMH,N,DM,2,1,2.0,Papaver argemone
+24,Macleaya cordata,Plume Poppy,Perennial,2.0,4-10,F,LMH,SN,M,0,1,1.0,Papaver argemone
+25,Meconopsis aculeata,,Perennial,0.6,6-9,,LMH,S,M,1,2,,Papaver argemone
+26,Meconopsis grandis,Blue Poppy,Perennial,1.0,4-8,,LMH,S,M,1,0,,Papaver argemone
+27,Meconopsis napaulensis,Himalayan Poppy,Perennial,2.0,7-10,,LMH,S,M,1,1,,Papaver argemone
+28,Papaver dubium,"Long-Head Poppy, Blindeyes",Annual,0.5,6-9,,LMH,N,M,0,1,0.0,Papaver argemone

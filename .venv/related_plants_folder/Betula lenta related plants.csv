@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Alnus acuminata,Alder,Tree,25.0,10-12,F,LMH,SN,M,0,2,3,Betula lenta
+1,Alnus cordata,Italian Alder,Tree,25.0,5-9,F,MH,SN,DMWe,0,0,4,Betula lenta
+2,Alnus glutinosa,"Alder, European alder , Common Alder, Black Alder",Tree,25.0,3-7,F,MH,SN,MWe,0,3,5,Betula lenta
+3,Alnus hirsuta,,Tree,18.0,3-7,,MH,SN,MWe,0,0,2,Betula lenta
+4,Alnus incana,"Grey Alder, Speckled alder, Thinleaf alder, White Alder",Tree,18.0,2-6,F,MH,SN,DMWe,0,0,3,Betula lenta
+5,Alnus japonica,Japanese Alder,Tree,22.0,4-8,F,MH,SN,DMWe,0,1,2,Betula lenta
+6,Alnus jorullensis,"Mexican alder, Evergreen Alder",Tree,25.0,7-12,F,LMH,SN,MWe,0,0,3,Betula lenta
+7,Alnus maritima,"Seaside Alder, Beach Alder",Tree,9.0,3-7,M,MH,N,MWe,0,0,3,Betula lenta
+8,Alnus maximowiczii,,Tree,9.0,4-8,,MH,SN,MWe,0,0,2,Betula lenta
+9,Alnus nepalensis,Nepalese Alder,Tree,22.0,8-11,F,MH,SN,MWe,0,1,3,Betula lenta
+10,Alnus nitida,West Himalayan Alder,Tree,30.0,7-10,,MH,SN,DMWe,0,1,3,Betula lenta
+11,Alnus rhombifolia,White Alder,Tree,12.0,8-11,F,MH,SN,MWe,1,2,2,Betula lenta
+12,Alnus rubra,"Red Alder, Oregon Alder",Tree,20.0,6-8,F,MH,SN,MWe,2,2,4,Betula lenta
+13,Alnus rugosa,Speckled Alder,Tree,22.0,2-6,F,MH,SN,MWe,0,2,3,Betula lenta
+14,Alnus serrulata,"Smooth Alder, Hazel alder",Shrub,4.5,3-9,,MH,N,MWe,0,2,2,Betula lenta
+15,Alnus sinuata,Sitka Alder,Shrub,4.0,2-9,F,MH,SN,MWe,1,1,3,Betula lenta
+16,Alnus tenuifolia,"Mountain Alder, Thinleaf alder",Tree,9.0,5-7,F,MH,SN,MWe,1,2,3,Betula lenta
+17,Alnus viridis crispa,American Green Alder,Shrub,3.0,4-8,,MH,SN,MWe,1,2,3,Betula lenta
+18,Betula alleghaniensis,"Yellow Birch, Swamp Birch",Tree,12.0,3-7,F,LMH,SN,M,3,2,4,Betula lenta
+19,Betula alnoides,,Tree,40.0,7-10,F,LMH,SN,M,2,1,3,Betula lenta
+20,Betula ermanii,Gold Birch,Tree,25.0,3-7,F,LMH,SN,M,0,1,3,Betula lenta
+21,Betula glandulosa,Scrub Birch,Shrub,2.0,0-0,,LMH,SN,M,2,1,3,Betula lenta
+22,Betula kenaica,Kenai Birch,Tree,12.0,0-0,F,LMH,SN,M,3,1,3,Betula lenta
+23,Betula nana,Dwarf Birch,Shrub,0.3,0-0,,LMH,SN,M,2,2,3,Betula lenta
+24,Betula nigra,"River Birch, Black Birch, Red Birch, Water Birch, River Birch",Tree,20.0,3-9,F,LMH,SN,M,3,2,2,Betula lenta
+25,Betula occidentalis,Water Birch,Tree,9.0,0-0,F,LMH,SN,M,3,2,3,Betula lenta
+26,Betula papyrifera,"Paper Birch, Mountain paper birch, Kenai birch",Tree,20.0,0-0,F,LMH,N,DM,3,2,4,Betula lenta
+27,Betula pendula,"Silver Birch, European white birch, Common Birch, Warty Birch, European White Birch",Tree,20.0,2-6,F,LMH,N,DM,3,3,5,Betula lenta
+28,Betula platyphylla,"White Birch, Asian white birch,",Tree,20.0,3-6,F,LMH,N,DM,2,2,2,Betula lenta

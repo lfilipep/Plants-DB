@@ -1,0 +1,16 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Thymus caespititius,Cretan Thyme,Shrub,0.1,6-9,,LM,N,DM,2,2,2,Thymus pulegioides
+1,Thymus camphoratus,Camphor Thyme,Shrub,0.4,6-9,,LM,N,DM,0,2,2,Thymus pulegioides
+2,Thymus capitatus,"Headed Savory, Thymus",Shrub,0.3,6-9,,LM,N,DM,2,2,2,Thymus pulegioides
+3,Thymus cilicicus,Cilician Thyme,Shrub,0.2,6-9,,LM,N,DM,1,2,2,Thymus pulegioides
+4,Thymus herba-barona,Caraway Thyme,Shrub,0.1,8-10,S,LM,N,DM,3,2,4,Thymus pulegioides
+5,Thymus hirtus,,Shrub,0.0,-,,LM,N,DM,2,2,2,Thymus pulegioides
+6,Thymus mastichina,Mastic Thyme,Shrub,0.3,6-9,,LM,N,DM,2,2,2,Thymus pulegioides
+7,Thymus pannonicus,Eurasian thyme,Perennial,0.2,4-8,,LM,N,DM,2,2,2,Thymus pulegioides
+8,Thymus praecox,"Mother of thyme, Creeping thyme, Woolly Thyme",Shrub,0.1,5-8,M,LM,N,DM,2,2,3,Thymus pulegioides
+9,Thymus praecox arcticus,Wild Thyme,Shrub,0.1,4-8,,LM,N,DM,3,2,5,Thymus pulegioides
+10,Thymus pseudolanuginosus,Woolly Thyme,Shrub,0.1,3-9,M,LM,N,DM,2,2,2,Thymus pulegioides
+11,Thymus quinquecostatus,,Shrub,0.1,4-8,,LM,N,DM,2,2,2,Thymus pulegioides
+12,Thymus serpyllum,Wild Thyme,Shrub,0.1,5-9,M,LM,N,DM,4,3,5,Thymus pulegioides
+13,Thymus vulgaris,"Common Thyme, Garden thyme, Wild Thyme",Shrub,0.2,5-11,M,LM,N,DM,4,3,5,Thymus pulegioides
+14,Thymus x citriodorus,"Lemon Thyme, Creeping Lemon Thyme, Lemon-Scented Thyme",Shrub,0.1,5-10,M,LM,N,DM,4,2,5,Thymus pulegioides

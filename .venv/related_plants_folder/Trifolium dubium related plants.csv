@@ -1,0 +1,20 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Trifolium bifidum,"Piñole Clover, Notchleaf clover",Annual,0.5,0-0,,LMH,N,M,2,0,3.0,Trifolium dubium
+1,Trifolium ciliatum,Foothill Clover,Annual,0.5,0-0,,LMH,N,M,2,0,3.0,Trifolium dubium
+2,Trifolium cyathiferum,Cup Clover,Annual,0.5,0-0,,LMH,N,M,1,0,2.0,Trifolium dubium
+3,Trifolium dichotomum,Branched Indian Clover,Annual,0.6,0-0,,LMH,N,M,2,0,2.0,Trifolium dubium
+4,Trifolium fimbriatum,"Springbank Clover, Cows clover",Perennial,1.0,0-0,,LMH,N,M,3,0,2.0,Trifolium dubium
+5,Trifolium fucatum,"Sour Clover, Bull clover",Annual,0.6,0-0,,LMH,N,M,2,0,2.0,Trifolium dubium
+6,Trifolium fucatum virescens,,Annual,0.6,0-0,,LMH,N,M,2,0,2.0,Trifolium dubium
+7,Trifolium gracilentum,"Pin-Point Clover, Palmer's clover",Annual,0.6,0-0,,LMH,N,M,2,0,2.0,Trifolium dubium
+8,Trifolium hybridum,Alsike Clover,Perennial,0.6,0-0,,LMH,N,M,2,1,2.0,Trifolium dubium
+9,Trifolium incarnatum,Crimson Clover,Annual,0.5,3-9,M,LMH,N,M,2,0,4.0,Trifolium dubium
+10,Trifolium lupinaster,Lupine clover,Perennial,0.5,0-0,,LMH,N,M,1,0,2.0,Trifolium dubium
+11,Trifolium macrocephalum,"Bighead Clover, Largehead clover",Perennial,0.3,4-8,,LMH,N,M,1,0,3.0,Trifolium dubium
+12,Trifolium microcephalum,Smallhead Clover,Annual,0.6,-,,LMH,N,M,1,0,,Trifolium dubium
+13,Trifolium obtusiflorum,Clammy Clover,Annual,1.0,0-0,,LMH,N,M,2,0,2.0,Trifolium dubium
+14,Trifolium ornithopodioides,"Birdsfoot Fenugreek, Bird clover",Annual/Perennial,0.2,0-0,,LMH,N,MWe,1,0,3.0,Trifolium dubium
+15,Trifolium pratense,Red Clover,Perennial,0.6,5-9,M,LMH,N,M,3,3,4.0,Trifolium dubium
+16,Trifolium repens,"White Clover, Dutch Clover, Purple Dutch Clover, Shamrock, White Clover",Perennial,0.1,4-8,M,LMH,N,M,3,2,4.0,Trifolium dubium
+17,Trifolium subterraneum,Subterranean Clover,Annual,0.2,7-10,,LMH,N,M,1,0,4.0,Trifolium dubium
+18,Trifolium tridentatum,Tomcat Clover,Annual,0.6,0-0,,LMH,N,M,2,0,2.0,Trifolium dubium

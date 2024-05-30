@@ -1,0 +1,11 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Calochortus aureus,"Mariposa Lily, Golden mariposa lily",Bulb,0.3,3-7,,LM,N,DM,2,0,,Calochortus luteus
+1,Calochortus barbatus,,Bulb,0.6,3-7,,LM,N,DM,1,0,,Calochortus luteus
+2,Calochortus clavatus,"Clubhair mariposa lily, Arroyo de la Cruz mariposa lily",Bulb,1.0,8-10,M,LM,N,DM,1,0,,Calochortus luteus
+3,Calochortus elegans,"Star Tulip, Elegant mariposa lily",Bulb,0.2,3-7,,LM,N,DM,1,0,,Calochortus luteus
+4,Calochortus gunnisonii,"Mariposa Lily, Gunnison's mariposa lily",Bulb,0.3,3-7,,LM,N,DM,2,1,,Calochortus luteus
+5,Calochortus macrocarpus,"Sagebrush Mariposa Lily, Nez Perce mariposa lily",Bulb,0.5,3-7,,LM,N,DM,2,1,,Calochortus luteus
+6,Calochortus nuttallii,Sego Lily,Bulb,0.2,3-7,,LM,N,DM,2,0,,Calochortus luteus
+7,Calochortus pulchellus,"Mount Diablo Globelily, Mt. diablo fairy-lantern",Bulb,0.3,3-7,,LM,SN,DM,2,0,,Calochortus luteus
+8,Calochortus tolmiei,Tolmie Startulip,Bulb,0.3,3-7,,LM,SN,DM,2,0,,Calochortus luteus
+9,Calochortus uniflorus,"Large-Flowered Star Tulip, Monterey mariposa lily",Bulb,0.3,3-7,,LM,N,DM,1,0,,Calochortus luteus

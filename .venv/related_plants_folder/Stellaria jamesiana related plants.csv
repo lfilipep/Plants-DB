@@ -1,0 +1,10 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Stellaria alsine,"Bog Stitchwort, Bog chickweed",Perennial,0.3,0-0,,LMH,SN,M,1,2,,Stellaria jamesiana
+1,Stellaria dichotoma,American chickweed,Perennial,0.3,-,,LMH,SN,M,0,2,,Stellaria jamesiana
+2,Stellaria diversiflora,,Perennial,0.3,-,,LMH,SN,M,1,0,,Stellaria jamesiana
+3,Stellaria graminea,Lesser stitchwort,Perennial,0.5,4-8,F,LMH,SN,M,3,1,2.0,Stellaria jamesiana
+4,Stellaria media,"Chickweed, Common chickweed",Annual,0.1,4-11,F,LMH,SN,M,3,3,2.0,Stellaria jamesiana
+5,Stellaria neglecta,"Greater Chickweed, Common chickweed",Annual,0.1,0-0,,LMH,SN,M,1,0,,Stellaria jamesiana
+6,Stellaria nipponica,,Perennial,0.2,-,,LMH,N,DM,1,0,,Stellaria jamesiana
+7,Stellaria pubera,Star chickweed,Perennial,0.2,5-8,F,MH,FS,M,3,1,3.0,Stellaria jamesiana
+8,Stellaria radians,,Perennial,0.0,-,,LMH,SN,M,1,0,,Stellaria jamesiana

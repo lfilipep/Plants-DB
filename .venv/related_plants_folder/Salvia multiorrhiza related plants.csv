@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Cistus salviifolius,"Rock Rose, Salvia cistus, Sage Leaf Rock Rose",Shrub,0.6,8-11,F,LM,N,DM,1,0,3.0,Salvia multiorrhiza
+1,Salvia apiana,"White Sage, Compact white sage",Perennial,3.0,7-10,,LM,N,DM,3,1,2.0,Salvia multiorrhiza
+2,Salvia ballotaeflora,,Annual,0.0,-,,LM,N,DM,1,0,,Salvia multiorrhiza
+3,Salvia carduacea,Thistle Sage,Annual/Perennial,0.7,7-10,,LM,N,DM,2,0,,Salvia multiorrhiza
+4,Salvia carnosa,Purple Sage,Shrub,0.8,6-9,,LM,N,DM,1,2,,Salvia multiorrhiza
+5,Salvia clevelandii,"Blue Sage, Fragrant sage, Chaparral Sage",Shrub,0.6,8-11,M,LM,N,DM,1,0,,Salvia multiorrhiza
+6,Salvia columbariae,"Chia, Ziegler's sage",Annual/Perennial,0.7,6-9,,LM,N,DM,3,2,,Salvia multiorrhiza
+7,Salvia dorisiana,Sage Fruity Pineapple,Perennial,1.3,9-12,F,LMH,SN,M,3,0,3.0,Salvia multiorrhiza
+8,Salvia elegans,"Pineapple Sage, Pineapple-scented Sage,",Perennial,1.0,8-11,M,LM,N,DM,3,1,2.0,Salvia multiorrhiza
+9,Salvia fruticosa,"Greek Sage, Greek oregano",Shrub,1.0,8-11,,LM,N,DM,2,3,2.0,Salvia multiorrhiza
+10,Salvia glabrescens,,Perennial,0.3,-,,LM,SN,DM,1,0,,Salvia multiorrhiza
+11,Salvia glutinosa,"Jupiter's Distaff, Sticky Sage",Perennial,1.2,4-8,,LM,SN,DM,1,0,3.0,Salvia multiorrhiza
+12,Salvia hispanica,"Mexican Chia, Chia",Annual,1.0,8-11,,LM,N,DM,3,0,,Salvia multiorrhiza
+13,Salvia japonica,,Perennial,0.8,7-10,,LM,SN,DM,1,0,2.0,Salvia multiorrhiza
+14,Salvia lanata,,Perennial,0.3,6-9,,LM,N,DM,1,1,,Salvia multiorrhiza
+15,Salvia lanigera,Wrinkle-Leaved Sage,Shrub,0.0,-,,LM,N,DM,1,0,,Salvia multiorrhiza
+16,Salvia lavandulifolia,Spanish Sage,Shrub,0.3,4-8,,LM,N,DM,2,3,2.0,Salvia multiorrhiza
+17,Salvia leucantha,Mexican Bush Sage,Shrub,1.2,8-10,F,LMH,N,M,0,1,3.0,Salvia multiorrhiza
+18,Salvia lyrata,"Cancer Weed, Lyreleaf Sage",Perennial,0.6,4-9,M,LM,N,DM,0,2,0.0,Salvia multiorrhiza
+19,Salvia mellifera,Californian Black Sage,Shrub,2.0,7-10,,LM,N,DM,1,2,,Salvia multiorrhiza
+20,Salvia microphylla,Blackcurrant Sage,Perennial,1.2,7-10,,LM,N,DM,2,2,,Salvia multiorrhiza
+21,Salvia moorcroftiana,,Perennial,0.9,6-9,,LM,N,DM,1,1,,Salvia multiorrhiza
+22,Salvia multicaulis,,Shrub,0.3,7-10,,LM,N,DM,1,0,,Salvia multiorrhiza
+23,Salvia officinalis,"Sage, Kitchen sage, Small Leaf Sage, Garden Sage",Shrub,0.6,5-10,M,LM,N,DM,4,5,5.0,Salvia multiorrhiza
+24,Salvia plebeia,,Biennial,0.5,-,,LM,N,MWe,1,1,,Salvia multiorrhiza
+25,Salvia pomifera,Apple Sage,Shrub,1.0,7-10,,LM,N,DM,2,2,,Salvia multiorrhiza
+26,Salvia pratensis,"Meadow Clary, Introduced sage",Perennial,1.0,3-7,,LM,N,DM,1,0,0.0,Salvia multiorrhiza
+27,Salvia reflexa,"Mintweed, Lanceleaf sage",Annual,0.8,0-0,,LM,N,DM,1,0,0.0,Salvia multiorrhiza
+28,Salvia sclarea,"Clary, Europe sage, Clary Sage",Biennial/Perennial,1.0,5-9,M,LMH,N,DM,2,2,3.0,Salvia multiorrhiza

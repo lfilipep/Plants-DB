@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Aechmea magdalenae,"Pingwing. Ixtle, Pita plant",Perennial,2.5,10-12,S,LMH,FS,M,3,0,3.0,Melia azederach
+1,Ananas comosus,Pineapple,Perennial,1.0,9-11,F,LMH,SN,M,5,2,4.0,Melia azederach
+2,Azadirachta indica,Neem,Tree,15.0,10-12,F,MH,SN,DM,2,4,5.0,Melia azederach
+3,Bromelia karatas,"Ananas pingouin, Karatas, Camburito",Perennial,3.0,10-12,F,LMH,N,M,3,2,3.0,Melia azederach
+4,Bromelia pinguin,Pinuela. Pinguin,Perennial,1.0,9-12,F,LMH,SN,DM,3,0,2.0,Melia azederach
+5,Bromelia serra,Bayonet bromeliad,Perennial,0.4,10-12,F,LMH,FSN,M,1,0,3.0,Melia azederach
+6,Bumelia lanuginosa,Chittamwood,Tree,15.0,5-9,,LMH,N,M,2,0,2.0,Melia azederach
+7,Bumelia lycioides,Shittamwood,Tree,8.0,6-9,,LMH,N,M,2,0,2.0,Melia azederach
+8,Bumelia tenax,"Ironwood, Tough bully",Tree,8.0,8-11,,LMH,N,M,2,0,2.0,Melia azederach
+9,Carapa guianensis,Andiroba,Tree,35.0,10-12,F,LMH,FSN,MWe,0,4,4.0,Melia azederach
+10,Cedrela fissilis,"Cedro, Cigar Box Tree",Tree,25.0,10-12,F,LMH,SN,M,0,2,4.0,Melia azederach
+11,Cedrela odorata,"Cedar Wood, West Indian Cedar, SpanishCedar, Cigar-box Cedar, Cedro Hembra",Tree,30.0,9-12,F,LMH,SN,M,1,2,4.0,Melia azederach
+12,Cetraria islandica,"Iceland Moss, Island cetraria lichen, Oriental cetraria lichen",Lichen,0.1,0-0,S,LMH,SN,M,3,3,2.0,Melia azederach
+13,Chukrasia tabularis,"Chickrassy, Chittagong Wood, Indian Redwood.",Tree,30.0,9-12,M,LM,N,M,1,2,4.0,Melia azederach
+14,Dysoxylum acutangulum,Membalo,Tree,40.0,10-12,S,LM,N,M,0,0,4.0,Melia azederach
+15,Dysoxylum fraserianum,"Australian rosewood, rose-mahogany, rosewood, turnipwood.",Tree,30.0,10-12,S,LMH,N,M,0,0,4.0,Melia azederach
+16,Dysoxylum spectabile,,Tree,0.0,-,,LMH,SN,M,0,1,2.0,Melia azederach
+17,Entandrophragma angolense,Tiama Mahogany,Tree,50.0,10-12,S,LMH,SN,M,1,2,4.0,Melia azederach
+18,Entandrophragma candollei,West African Cedar,Tree,50.0,10-12,S,LMH,N,M,0,2,4.0,Melia azederach
+19,Entandrophragma cylindricum,Sapele Mahogany,Tree,50.0,10-12,S,LMH,SN,M,0,2,4.0,Melia azederach
+20,Entandrophragma utile,Sipo Mahogany,Tree,45.0,10-12,S,LMH,N,M,0,2,4.0,Melia azederach
+21,Greigia sphacelata,,Perennial,0.9,9-11,,LMH,SN,M,1,0,,Melia azederach
+22,Guarea guidonia,"Muskwood , Carrapeta, Cedro Macho",Tree,15.0,10-12,S,LMH,SN,M,0,2,4.0,Melia azederach
+23,Khaya anthotheca,"White Mahogany, East African Mahogany",Tree,50.0,9-12,F,MH,N,M,0,2,4.0,Melia azederach
+24,Khaya senegalensis,Dryzone Mahogany,Tree,25.0,10-12,F,LMH,SN,MWe,2,3,4.0,Melia azederach
+25,Lansium domesticum,"Langsat, Lansa, Lanzon",Tree,15.0,11-12,S,MH,SN,M,4,2,3.0,Melia azederach
+26,Leplaea cedrata,Scented Guarea,Tree,45.0,10-12,S,LMH,FSN,M,0,2,4.0,Melia azederach
+27,Leplaea thompsonii,Black Guarea,Tree,35.0,10-12,S,LMH,FSN,M,0,2,4.0,Melia azederach
+28,Melianthus major,Honey Flower,Shrub,3.0,7-10,M,LMH,SN,M,3,1,1.0,Melia azederach

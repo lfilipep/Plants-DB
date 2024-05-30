@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Acaenia anserinifolia,Pirri-Pirri Bur,Perennial,0.1,5-9,F,LMH,SN,M,1,1,3.0,Rosa gigantea
+1,Aciphylla squarrosa,Speargrass,Perennial,2.5,4-8,,LM,N,DM,2,0,1.0,Rosa gigantea
+2,Adenostoma fasciculatum,Greasewood,Shrub,3.0,7-10,,LMH,N,DM,0,1,2.0,Rosa gigantea
+3,Adenostoma sparsifolium,Redshank,Shrub,6.0,7-10,,LMH,N,DM,1,1,2.0,Rosa gigantea
+4,Agrimonia eupatoria,"Agrimony, Churchsteeples",Perennial,0.6,0-0,,LMH,SN,DM,2,3,1.0,Rosa gigantea
+5,Agrimonia parviflora,Harvestlice,Perennial,2.0,-,,LMH,SN,DM,0,2,,Rosa gigantea
+6,Agrimonia pilosa,Hairy Agrimony,Perennial,0.6,-,,LMH,SN,DM,2,3,,Rosa gigantea
+7,Agrimonia striata,Roadside agrimony,,0.0,0-0,,LMH,SN,M,0,2,0.0,Rosa gigantea
+8,Alchemilla alpina,"Alpine Lady's Mantle, Mountain Lady's Mantle",Perennial,0.2,3-7,M,LMH,SN,DM,2,3,,Rosa gigantea
+9,Alchemilla mollis,Lady's-mantle,Perennial,0.6,3-8,M,LMH,FSN,M,0,0,3.0,Rosa gigantea
+10,Alchemilla xanthochlora,Lady's Mantle,Perennial,0.3,0-0,,LMH,SN,DM,2,3,3.0,Rosa gigantea
+11,Amelanchier alnifolia,"Saskatoon, Saskatoon serviceberry, Serviceberry",Shrub,4.0,4-6,M,LMH,SN,M,5,2,3.0,Rosa gigantea
+12,Amelanchier alnifolia cusickii,Cusick's Serviceberry,Shrub,3.0,0-0,,LMH,SN,M,4,1,0.0,Rosa gigantea
+13,Amelanchier alnifolia semiintegrifolia,Pacific Serviceberry,Shrub,3.0,0-0,S,LMH,SN,M,5,1,1.0,Rosa gigantea
+14,Amelanchier arborea,"Downy Serviceberry, Alabama serviceberry, Juneberry, Common Serviceberry, Downy Serviceberry",Tree,10.0,5-8,S,LMH,SN,M,3,1,2.0,Rosa gigantea
+15,Amelanchier asiatica,Korean Juneberry,Tree,8.0,4-8,,LMH,SN,M,3,0,,Rosa gigantea
+16,Amelanchier bartramiana,Oblongfruit serviceberry,Shrub,3.0,4-8,,LMH,SN,M,3,0,0.0,Rosa gigantea
+17,Amelanchier basalticola,Dwarf Service-berry,Shrub,3.0,4-8,,LMH,SN,M,4,0,0.0,Rosa gigantea
+18,Amelanchier canadensis,"Juneberry, Canadian serviceberry, Serviceberry Downy, Shadblow, Shadbush, Serviceberry",Shrub,6.0,4-7,M,LMH,SN,M,4,1,4.0,Rosa gigantea
+19,Amelanchier confusa,,Shrub,3.0,4-8,,LMH,SN,M,5,0,0.0,Rosa gigantea
+20,Amelanchier humilis,Low serviceberry,Shrub,1.8,4-8,,LMH,SN,M,3,0,,Rosa gigantea
+21,Amelanchier huroensis,,Tree,6.0,5-9,,LMH,SN,M,3,0,,Rosa gigantea
+22,Amelanchier interior,Pacific serviceberry,Tree,9.0,5-9,,LMH,SN,M,3,0,,Rosa gigantea
+23,Amelanchier intermedia,"June berry,",Shrub,6.0,4-8,,LMH,SN,M,3,0,0.0,Rosa gigantea
+24,Amelanchier laevis,"Allegheny Shadberry, Allegheny serviceberry, Smooth Serviceberry",Shrub,9.0,5-8,M,LMH,SN,M,5,1,2.0,Rosa gigantea
+25,Amelanchier lamarckii,Apple Serviceberry,Shrub,6.0,3-3,,LMH,SN,M,5,0,0.0,Rosa gigantea
+26,Amelanchier obovalis,"Southern Juneberry, Coastal serviceberry",Tree,1.5,5-9,,LMH,SN,M,3,0,1.0,Rosa gigantea
+27,Amelanchier ovalis,"Snowy Mespilus, Dwarf Garden Serviceberry",Shrub,5.0,5-7,S,LMH,N,M,2,0,,Rosa gigantea
+28,Amelanchier ovalis integrifolia,,Shrub,4.0,5-9,,LMH,SN,M,2,0,,Rosa gigantea
+29,Amelanchier pallida,Pale Serviceberry,Shrub,4.0,-,,LMH,SN,M,3,1,,Rosa gigantea

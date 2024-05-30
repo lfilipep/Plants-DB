@@ -1,0 +1,15 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Picea asperata,Chinese Spruce,Tree,40.0,-,M,LMH,N,DM,2,0,2,Picea abies
+1,Picea brachytyla,Sargent Spruce,Tree,40.0,7-10,F,LMH,N,M,2,0,2,Picea abies
+2,Picea breweriana,"Weeping Spruce, Brewer spruce",Tree,15.0,5-9,S,LMH,N,M,2,0,2,Picea abies
+3,Picea engelmannii,"Mountain Spruce, Engelmann spruce",Tree,20.0,3-7,M,LMH,N,MWe,2,2,2,Picea abies
+4,Picea glauca,"White Spruce, Black Hills Spruce, Canadian Spruce",Tree,15.0,2-6,F,LMH,N,MWe,2,2,3,Picea abies
+5,Picea glehnii,Sakhalin Spruce,Tree,30.0,4-7,F,LMH,N,MWe,2,0,2,Picea abies
+6,Picea jezoensis,Yezo Spruce,Tree,35.0,-,M,LMH,N,M,2,1,3,Picea abies
+7,Picea mariana,"Black Spruce, Swamp Spruce",Tree,20.0,3-5,S,LMH,N,MWe,2,2,3,Picea abies
+8,Picea omorika,Serbian Spruce,Tree,25.0,4-7,F,LMH,N,MWe,2,0,2,Picea abies
+9,Picea orientalis,Caucasian Spruce,Tree,20.0,4-7,F,LMH,SN,M,2,0,3,Picea abies
+10,Picea pungens,"Blue Spruce, Colorado Spruce",Tree,20.0,3-7,M,LMH,N,DM,2,0,3,Picea abies
+11,Picea purpurea,Purple-Coned Spruce,Tree,45.0,4-7,M,LMH,N,M,2,0,2,Picea abies
+12,Picea rubens,Red Spruce,Tree,30.0,6-7,F,LMH,N,M,2,1,3,Picea abies
+13,Picea sitchensis,Sitka Spruce,Tree,50.0,6-7,F,LMH,N,MWe,2,2,2,Picea abies

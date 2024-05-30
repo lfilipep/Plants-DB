@@ -1,0 +1,17 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Alnus acuminata,Alder,Tree,25.0,10-12,F,LMH,SN,M,0,2,3,Alnus nitida
+1,Alnus cordata,Italian Alder,Tree,25.0,5-9,F,MH,SN,DMWe,0,0,4,Alnus nitida
+2,Alnus glutinosa,"Alder, European alder , Common Alder, Black Alder",Tree,25.0,3-7,F,MH,SN,MWe,0,3,5,Alnus nitida
+3,Alnus hirsuta,,Tree,18.0,3-7,,MH,SN,MWe,0,0,2,Alnus nitida
+4,Alnus incana,"Grey Alder, Speckled alder, Thinleaf alder, White Alder",Tree,18.0,2-6,F,MH,SN,DMWe,0,0,3,Alnus nitida
+5,Alnus japonica,Japanese Alder,Tree,22.0,4-8,F,MH,SN,DMWe,0,1,2,Alnus nitida
+6,Alnus jorullensis,"Mexican alder, Evergreen Alder",Tree,25.0,7-12,F,LMH,SN,MWe,0,0,3,Alnus nitida
+7,Alnus maritima,"Seaside Alder, Beach Alder",Tree,9.0,3-7,M,MH,N,MWe,0,0,3,Alnus nitida
+8,Alnus maximowiczii,,Tree,9.0,4-8,,MH,SN,MWe,0,0,2,Alnus nitida
+9,Alnus nepalensis,Nepalese Alder,Tree,22.0,8-11,F,MH,SN,MWe,0,1,3,Alnus nitida
+10,Alnus rhombifolia,White Alder,Tree,12.0,8-11,F,MH,SN,MWe,1,2,2,Alnus nitida
+11,Alnus rubra,"Red Alder, Oregon Alder",Tree,20.0,6-8,F,MH,SN,MWe,2,2,4,Alnus nitida
+12,Alnus rugosa,Speckled Alder,Tree,22.0,2-6,F,MH,SN,MWe,0,2,3,Alnus nitida
+13,Alnus serrulata,"Smooth Alder, Hazel alder",Shrub,4.5,3-9,,MH,N,MWe,0,2,2,Alnus nitida
+14,Alnus sinuata,Sitka Alder,Shrub,4.0,2-9,F,MH,SN,MWe,1,1,3,Alnus nitida
+15,Alnus tenuifolia,"Mountain Alder, Thinleaf alder",Tree,9.0,5-7,F,MH,SN,MWe,1,2,3,Alnus nitida

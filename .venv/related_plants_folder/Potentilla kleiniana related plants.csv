@@ -1,0 +1,20 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Potentilla anserina,Silverweed,Perennial,0.3,4-8,F,LMH,SN,M,3,3,2.0,Potentilla kleiniana
+1,Potentilla bicolor,,Perennial,1.0,5-9,,LMH,SN,M,1,0,,Potentilla kleiniana
+2,Potentilla chinensis,Chinese Cinquefoil,Perennial,0.6,-,,LMH,SN,M,1,1,,Potentilla kleiniana
+3,Potentilla cryptotaeniae,,Perennial,1.0,-,,LMH,SN,M,0,1,,Potentilla kleiniana
+4,Potentilla discolor,,Perennial,0.3,-,,LMH,SN,M,2,1,,Potentilla kleiniana
+5,Potentilla egedei,Pacific Silverweed,Perennial,0.5,4-8,,LMH,SN,M,2,1,,Potentilla kleiniana
+6,Potentilla erecta,"Tormentil, Erect cinquefoil",Perennial,0.3,4-8,,LMH,SN,M,1,3,1.0,Potentilla kleiniana
+7,Potentilla fragarioides,,Perennial,0.3,-,,LMH,SN,M,1,1,,Potentilla kleiniana
+8,Potentilla fruticosa,"Shrubby Cinquefoil, Potentilla",Shrub,1.2,2-6,M,LMH,SN,M,1,1,3.0,Potentilla kleiniana
+9,Potentilla glandulosa,"Gland Cinquefoil, Sticky cinquefoil, Arizona cinquefoil, Ashland cinquefoil, Ewan's cinquefoil, Hans",Perennial,0.6,6-9,,LMH,SN,M,1,1,,Potentilla kleiniana
+10,Potentilla hippiana,Woolly Cinquefoil,Perennial,0.6,5-9,,LMH,SN,M,0,1,,Potentilla kleiniana
+11,Potentilla multifida,,Perennial,0.3,3-7,,LMH,SN,M,2,0,,Potentilla kleiniana
+12,Potentilla nepalensis,"Nepal Cinquefoil, Cinquefoil",Perennial,0.6,5-10,M,LMH,SN,M,2,1,,Potentilla kleiniana
+13,Potentilla norvegica,Norwegian Cinquefoil,Annual/Perennial,0.3,3-7,,LMH,SN,M,0,1,,Potentilla kleiniana
+14,Potentilla palustris,Marsh Cinquefoil,Perennial,0.5,3-7,,LMH,SN,We,1,1,1.0,Potentilla kleiniana
+15,Potentilla recta,"Rough-Fruited Cinquefoil, Erect cinquefoil",Perennial,0.6,4-8,,LMH,SN,M,2,1,0.0,Potentilla kleiniana
+16,Potentilla reptans,"Cinquefoil, Creeping cinquefoil",Perennial,1.0,4-8,,LMH,N,DM,1,2,2.0,Potentilla kleiniana
+17,Potentilla rupestris,Rock Cinquefoil,Perennial,0.5,4-8,,LMH,SN,DM,1,0,,Potentilla kleiniana
+18,Potentilla simplex,"Old Field Cinquefoil, Common cinquefoil",Perennial,0.1,3-7,,LMH,SN,M,0,1,0.0,Potentilla kleiniana

@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Anagallis arvensis,Scarlet Pimpernel,Annual,0.1,6-9,,LMH,N,DM,2,2,3.0,Primula vulgaris
+1,Androsace sarmentosa,Rock Jasmine,Perennial,0.1,3-7,,LM,SN,DM,0,2,3.0,Primula vulgaris
+2,Ardisia crenata,"Coralberry, Hen's eyes, Spiceberry",Shrub,2.0,7-10,S,LMH,S,M,0,1,1.0,Primula vulgaris
+3,Ardisia crispa,,Shrub,1.2,6-9,,LMH,S,M,1,1,0.0,Primula vulgaris
+4,Ardisia japonica,Marlberry,Shrub,0.5,8-10,M,LMH,S,M,0,3,2.0,Primula vulgaris
+5,Ardisia sieboldii,Duo Zhi Zi Jin Niu,Shrub,6.0,0-0,,LMH,S,M,1,0,0.0,Primula vulgaris
+6,Cyclamen hederifolium,"Cyclamen, Alpine Violet, Persian Violet",Perennial,0.1,6-9,M,LM,FSN,M,0,1,3.0,Primula vulgaris
+7,Dodecatheon hendersonii,"Sailor-Caps, Mosquito bills",Perennial,0.3,5-9,,LMH,FS,M,1,0,,Primula vulgaris
+8,Embelia ribes,"False black pepper, White-flowered Embelia",Climber,15.0,10-12,F,LMH,S,M,3,4,2.0,Primula vulgaris
+9,Glaux maritima,"Black Saltwort, Sea milkwort",Perennial,0.3,0-0,,LMH,N,M,2,1,,Primula vulgaris
+10,Hottonia palustris,Water Violet,Perennial,0.9,5-9,F,LMH,N,Wa,0,1,,Primula vulgaris
+11,Lysimachia barystachys,Manchurian yellow loosestrife,Perennial,0.6,4-8,,LMH,SN,M,1,0,,Primula vulgaris
+12,Lysimachia christiniae,Jin Qian Cao,Perennial,0.3,-,,LMH,SN,M,0,2,,Primula vulgaris
+13,Lysimachia clethroides,"Gooseneck Loosestrife, Gooseneck yellow loosestrife, Japanese Loosestrife, Shepherd's Crook",Perennial,1.0,3-8,F,LMH,SN,M,1,0,,Primula vulgaris
+14,Lysimachia eleutheroides,,Perennial,0.0,-,,LMH,SN,M,3,0,,Primula vulgaris
+15,Lysimachia foenum-graecum,Ling Xiang Cao,Perennial,0.5,-,,LMH,SN,M,0,1,1.0,Primula vulgaris
+16,Lysimachia fortunei,,Perennial,0.5,6-9,,LMH,SN,MWeWa,1,0,,Primula vulgaris
+17,Lysimachia nemorum,Yellow Pimpernel,Perennial,0.5,5-9,,LMH,SN,MWe,0,1,,Primula vulgaris
+18,Lysimachia nummularia,"Creeping Jenny, Moneywort, Creeping Charlie",Perennial,0.2,4-8,F,LMH,SN,MWeWa,1,2,3.0,Primula vulgaris
+19,Lysimachia paridiformis,,Perennial,0.3,6-9,,LMH,SN,MWeWa,0,2,,Primula vulgaris
+20,Lysimachia quadrifolia,Whorled Yellow Loosestrife,Perennial,0.6,-,,LMH,SN,M,1,1,,Primula vulgaris
+21,Lysimachia sikokiana,,Perennial,0.6,-,,LMH,SN,M,0,1,,Primula vulgaris
+22,Lysimachia vulgaris,"Yellow Loosestrife, Garden yellow loosestrife",Perennial,1.2,4-8,,LMH,SN,MWeWa,1,2,2.0,Primula vulgaris
+23,Primula auricula,,Perennial,0.2,3-7,,LMH,S,M,0,1,2.0,Primula vulgaris
+24,Primula denticulata,Drumstick Primula,Perennial,0.3,4-8,,LMH,SN,MWe,2,0,2.0,Primula vulgaris
+25,Primula elatior,Oxlip,Perennial,0.3,3-7,,MH,FS,M,2,2,,Primula vulgaris
+26,Primula involucrata,,Perennial,0.3,4-8,,LMH,S,MWe,0,2,,Primula vulgaris
+27,Primula macrophylla,,Perennial,0.3,5-9,,LMH,N,M,0,2,,Primula vulgaris
+28,Primula parryi,Parry's primrose,Perennial,0.3,4-8,,LMH,FS,M,0,0,1.0,Primula vulgaris
+29,Primula reticulata,,Perennial,0.4,5-9,,LMH,SN,M,0,1,,Primula vulgaris

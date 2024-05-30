@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Blackstonia perfoliata,Yellow Wort,Annual,0.5,-,,LM,N,DM,0,0,1.0,Gentiana lutea
+1,Centaurium erythraea,"Centaury - Feverwort, European centaury",Annual/Biennial,0.3,0-0,,LM,SN,DM,1,3,1.0,Gentiana lutea
+2,Centaurium spicatum,Spiked centaury,Annual/Biennial,0.6,0-0,,LM,SN,DM,0,1,,Gentiana lutea
+3,Fagraea fragrans,"Ironwood, Tembusu",Tree,25.0,10-12,S,LMH,N,MWe,0,2,4.0,Gentiana lutea
+4,Frasera caroliniensis,American Columbo,Perennial,2.5,0-0,,LM,SN,M,0,2,,Gentiana lutea
+5,Frasera speciosa,"Green Gentian, Elkweed",Biennial/Perennial,1.5,3-7,,LM,SN,M,1,2,1.0,Gentiana lutea
+6,Gentiana acaulis,Gentian,Perennial,0.1,3-7,S,LMH,SN,M,0,3,,Gentiana lutea
+7,Gentiana andrewsii,"Closed Bottle Gentian, Dakota gentian",Perennial,0.6,5-9,,LMH,SN,M,0,3,,Gentiana lutea
+8,Gentiana crassicaulis,,Perennial,0.4,7-10,,LMH,SN,M,0,3,,Gentiana lutea
+9,Gentiana cruciata,,Perennial,0.4,-,,LMH,SN,M,1,2,,Gentiana lutea
+10,Gentiana dahurica,,Perennial,0.3,4-8,,LMH,SN,M,0,3,,Gentiana lutea
+11,Gentiana decumbens,,Perennial,0.3,4-8,,LMH,SN,M,0,1,,Gentiana lutea
+12,Gentiana kurroo,,Perennial,0.2,6-9,,LMH,SN,M,0,3,,Gentiana lutea
+13,Gentiana macrophylla,Qin Jiao,Perennial,0.6,5-9,,LMH,SN,M,1,3,,Gentiana lutea
+14,Gentiana manshurica,,Perennial,0.3,-,,LMH,SN,M,0,3,,Gentiana lutea
+15,Gentiana pannonica,,Perennial,0.6,4-8,,LMH,SN,M,1,3,,Gentiana lutea
+16,Gentiana pneumonanthe,Marsh Gentian,Perennial,0.3,-,,LMH,SN,M,0,2,2.0,Gentiana lutea
+17,Gentiana puberulenta,Downy gentian,Perennial,0.4,5-9,,LMH,SN,M,0,3,,Gentiana lutea
+18,Gentiana punctata,Spotted Gentian,Perennial,0.6,4-8,,LMH,SN,M,1,3,,Gentiana lutea
+19,Gentiana purpurea,,Perennial,0.6,4-8,,LMH,SN,M,1,3,,Gentiana lutea
+20,Gentiana saponaria,Harvestbells,Perennial,0.8,4-8,,LMH,SN,MWe,0,3,,Gentiana lutea
+21,Gentiana scabra,Long Dan Cao,Perennial,0.3,4-8,,LMH,SN,M,1,3,,Gentiana lutea
+22,Gentiana scabra buergeri,,Perennial,0.5,4-8,,LMH,SN,M,1,3,,Gentiana lutea
+23,Gentiana straminea,,Perennial,0.3,4-8,,LMH,SN,M,0,3,,Gentiana lutea
+24,Gentiana thunbergii,,Annual/Biennial,0.2,-,,LMH,SN,M,1,2,,Gentiana lutea
+25,Gentiana triflora,,Perennial,0.5,4-8,,LMH,SN,M,0,2,,Gentiana lutea
+26,Gentiana tubiflora,,Perennial,0.1,5-9,,LMH,SN,M,0,2,,Gentiana lutea
+27,Gentianella amarella,"Felwort, Autumn dwarf gentian",Biennial,0.3,0-0,,LMH,SN,M,0,3,,Gentiana lutea
+28,Gentianella diemensis,,Annual/Perennial,0.3,-,,LMH,SN,M,0,1,,Gentiana lutea

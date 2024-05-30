@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Aciphylla colensoi,Wild Spaniard,Perennial,0.9,6-9,,LM,N,DM,2,0,,Lens culinaris
+1,Allium canadense mobilense,Canadian Garlic,Bulb,0.5,4-8,,LM,SN,MWe,5,2,1.0,Lens culinaris
+2,Allium suaveolens,,Bulb,0.5,4-8,,LMH,SN,M,3,2,1.0,Lens culinaris
+3,Alnus jorullensis,"Mexican alder, Evergreen Alder",Tree,25.0,7-12,F,LMH,SN,MWe,0,0,3.0,Lens culinaris
+4,Alnus nepalensis,Nepalese Alder,Tree,22.0,8-11,F,MH,SN,MWe,0,1,3.0,Lens culinaris
+5,Anethum graveolens,Dill,Annual,0.8,2-11,M,LM,N,M,4,3,2.0,Lens culinaris
+6,Apium graveolens,"Wild Celery. Ajmod, Ajwain-ka-patta (Indian)",Biennial,0.6,5-9,,LMH,S,M,3,3,2.0,Lens culinaris
+7,Apium graveolens dulce,Celery,Biennial,0.6,-,,LM,SN,M,4,2,2.0,Lens culinaris
+8,Apium graveolens rapaceum,Celeriac,Biennial,0.6,5-9,,LMH,S,M,4,2,2.0,Lens culinaris
+9,Apium graveolens secalinum,Leaf Celery,Biennial,0.6,-,,LM,SN,M,4,2,2.0,Lens culinaris
+10,Aristotelia chilensis,Macqui,Shrub,3.0,7-10,,LMH,N,M,3,1,0.0,Lens culinaris
+11,Arundinella nepalensis,,Perennial,2.0,6-9,,LMH,N,M,0,0,3.0,Lens culinaris
+12,Asparagus sauveolens,,Perennial,1.0,-,,LMH,SN,M,1,0,,Lens culinaris
+13,Boscia senegalensis,"Aizen, Boscia",Shrub,8.0,10-12,M,LMH,FSN,M,4,2,3.0,Lens culinaris
+14,Chenopodium graveolens,Foetid Goosefoot,Annual,0.9,-,,LMH,N,M,2,1,1.0,Lens culinaris
+15,Chrysothamnus graveolens,Rubber Rabbitbrush,Shrub,2.5,7-10,,LM,N,DM,0,0,3.0,Lens culinaris
+16,Coriaria napalensis,Masuri Berry,Shrub,2.5,7-10,,LMH,SN,M,2,1,2.0,Lens culinaris
+17,Cyathodes colensoi,,Shrub,0.3,7-10,S,LMH,S,M,2,0,3.0,Lens culinaris
+18,Daphniphyllum himalense,,Tree,6.0,7-10,,LMH,FS,M,1,1,2.0,Lens culinaris
+19,Eleutherococcus seoulensis,,Shrub,0.0,-,,LMH,SN,M,1,0,,Lens culinaris
+20,Entandrophragma angolense,Tiama Mahogany,Tree,50.0,10-12,S,LMH,SN,M,1,2,4.0,Lens culinaris
+21,Erythrophleum suaveolens,"Erun, ordealtree, Sasswood Tree",Tree,20.0,10-12,S,LMH,N,M,0,3,4.0,Lens culinaris
+22,Eucalyptus camaldulensis,"Red River Gum, Murray Red Gum, River Red Eucalyptus",Tree,30.0,8-12,F,LMH,N,DMWe,1,3,4.0,Lens culinaris
+23,Fuchsia colensoi,,Shrub,10.0,8-11,,LMH,SN,M,2,0,2.0,Lens culinaris
+24,Gaultheria macrostigma,,Shrub,0.5,7-10,,LM,S,M,2,0,3.0,Lens culinaris
+25,Geranium nepalense,Nepalese Crane's Bill,Perennial,1.0,6-9,,LMH,N,M,1,2,1.0,Lens culinaris
+26,Glycyrrhiza malensis,,Perennial,0.0,0-0,,LM,SN,M,2,0,3.0,Lens culinaris
+27,Glycyrrhiza uralensis,Gan Cao,Perennial,0.6,5-9,,LMH,SN,M,3,4,3.0,Lens culinaris
+28,Guiera senegalensis,"Moshi medicine, guier du Senegal",Shrub,2.5,10-12,S,LM,N,DM,1,4,4.0,Lens culinaris
+29,Hedera nepalensis,Nepal Ivy,Climber,15.0,7-10,M,LMH,FSN,MWe,0,2,,Lens culinaris

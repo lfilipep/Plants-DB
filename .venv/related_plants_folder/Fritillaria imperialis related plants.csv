@@ -1,0 +1,11 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Fritillaria affinis,"Chocolate Lily, Checker lily",Bulb,0.6,4-8,,LM,SN,M,3,0,0.0,Fritillaria imperialis
+1,Fritillaria atropurpurea,"Purple Fritillary, Spotted fritillary",Bulb,0.6,4-8,,LM,SN,DM,2,1,,Fritillaria imperialis
+2,Fritillaria camschatcensis,"Kamchatka Lily, Kamchatka fritillary",Bulb,0.5,4-8,,LM,SN,M,4,0,,Fritillaria imperialis
+3,Fritillaria cirrhosa,Chuan Bei Mu,Bulb,0.5,4-8,,LM,SN,M,2,3,,Fritillaria imperialis
+4,Fritillaria meleagris,"Snakehead Fritillary, Chequered lily, Checkered Fritillary",Bulb,0.3,3-7,M,LMH,SN,M,0,1,,Fritillaria imperialis
+5,Fritillaria pallidiflora,Pale-Flowered Fritillary,Bulb,0.6,3-7,,LM,SN,M,0,3,,Fritillaria imperialis
+6,Fritillaria pudica,Yellow Fritillary,Bulb,0.2,3-7,,LM,SN,DM,3,0,,Fritillaria imperialis
+7,Fritillaria roylei,,Bulb,0.6,4-8,,LM,SN,M,0,2,,Fritillaria imperialis
+8,Fritillaria sewerzowii,,Bulb,0.3,4-8,,LM,SN,DM,0,1,,Fritillaria imperialis
+9,Fritillaria thunbergii,Zhe Bei Mu,Bulb,0.6,7-10,,LM,SN,M,2,3,,Fritillaria imperialis

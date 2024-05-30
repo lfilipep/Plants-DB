@@ -1,0 +1,9 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Cymopterus acaulis,"Plains Springparsley, Fendler's springparsley, Greeley springparsley, Higgins' springparsley",Perennial,0.1,0-0,,LMH,SN,DM,4,0,1.0,Cymopterus montanus
+1,Cymopterus bulbosus,Bulbous Springparsley,Perennial,0.0,-,,LMH,SN,DM,1,1,,Cymopterus montanus
+2,Cymopterus fendleri,Fendler's Springparsley,Perennial,0.0,-,,LMH,SN,DM,2,0,,Cymopterus montanus
+3,Cymopterus globosus,Globe Springparsley,Perennial,0.0,-,,LMH,N,DM,2,0,2.0,Cymopterus montanus
+4,Cymopterus longipes,Longstalk Spring Parsley,Perennial,0.0,-,,LMH,SN,M,1,0,,Cymopterus montanus
+5,Cymopterus newberryi,Sweetroot Spring Parsley,Perennial,0.0,0-0,,LMH,SN,M,2,1,0.0,Cymopterus montanus
+6,Cymopterus purpurascens,"Gamote, Widewing springparsley",Perennial,0.3,6-9,M,LMH,N,D,4,0,1.0,Cymopterus montanus
+7,Cymopterus purpurescens,Widewing Springparsley,Perennial,0.0,-,,LMH,N,DM,3,0,,Cymopterus montanus

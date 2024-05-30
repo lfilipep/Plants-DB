@@ -1,0 +1,8 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Calocedrus decurrens,"Incense Cedar, California Incense Cedar",Tree,15.0,5-8,S,LMH,SN,DM,1,1,2.0,Cedrus libani
+1,Cedrus atlantica,"Atlas Deodar, Atlantic cedar",Tree,25.0,5-9,M,LMH,N,DM,0,2,3.0,Cedrus libani
+2,Cedrus deodara,"Deodar, Deodar cedar",Tree,33.0,7-9,M,LMH,N,DM,0,2,3.0,Cedrus libani
+3,Cyathodes oxycedrus,,,0.0,-,,LMH,SN,M,0,0,,Cedrus libani
+4,Juniperus oxycedrus,"Prickly Juniper, Cade juniper",Tree,15.0,8-10,M,LMH,N,DM,0,1,2.0,Cedrus libani
+5,Libocedrus bidwillii,,Tree,20.0,7-10,S,LMH,SN,M,0,0,2.0,Cedrus libani
+6,Libocedrus plumosa,Kawaka,Tree,9.0,7-10,S,LMH,SN,M,0,0,2.0,Cedrus libani

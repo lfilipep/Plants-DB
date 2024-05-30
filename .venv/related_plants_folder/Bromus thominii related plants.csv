@@ -1,0 +1,9 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Bromus breviaristatus,Mountain Brome,Perennial,0.8,-,,LMH,SN,DM,1,0,,Bromus thominii
+1,Bromus carinatus,Californian Brome,Annual/Biennial,0.8,4-8,,LMH,SN,DM,1,0,1.0,Bromus thominii
+2,Bromus inermis,"Smooth Brome, Pumpelly's brome",Perennial,1.2,3-7,,LMH,SN,DM,0,0,2.0,Bromus thominii
+3,Bromus japonicus,"Japanese Chess, Field brome",Annual/Biennial,0.8,7-10,,LMH,SN,DM,1,0,,Bromus thominii
+4,Bromus mango,"Mango, Mango brome",Biennial,1.0,0-0,,LMH,SN,M,2,0,,Bromus thominii
+5,Bromus marginatus,Mountain Brome,Perennial,1.0,-,,LMH,SN,DM,1,0,1.0,Bromus thominii
+6,Bromus ramosus,Hairy Brome,Perennial,1.5,4-8,,LMH,SN,DM,0,1,,Bromus thominii
+7,Bromus rigidus,Ripgut Brome,Annual,1.0,6-9,,LMH,N,DM,1,0,,Bromus thominii

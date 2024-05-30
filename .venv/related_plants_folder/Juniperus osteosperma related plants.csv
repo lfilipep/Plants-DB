@@ -1,0 +1,21 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Juniperus ashei,"Ashe Juniper, Mountain Cedar",Tree,6.0,7-9,S,LMH,N,DM,1,0,2.0,Juniperus osteosperma
+1,Juniperus californica,"Californian Juniper, Chuperosa",Tree,12.0,8-10,S,LMH,N,DM,2,1,2.0,Juniperus osteosperma
+2,Juniperus chinensis,"Chinese Juniper, Sargent juniper",Tree,15.0,4-10,S,LMH,N,DM,0,2,3.0,Juniperus osteosperma
+3,Juniperus communis,"Juniper, Common juniper",Shrub,9.0,4-10,S,LMH,SN,DM,3,3,4.0,Juniperus osteosperma
+4,Juniperus communis nana,Juniper,Shrub,0.5,4-10,S,LMH,SN,DM,3,3,4.0,Juniperus osteosperma
+5,Juniperus conferta,Shore Juniper,Shrub,0.2,6-10,S,LMH,SN,DM,2,0,3.0,Juniperus osteosperma
+6,Juniperus deppeana,Alligator Juniper,Tree,18.0,7-9,S,LMH,N,DM,3,0,2.0,Juniperus osteosperma
+7,Juniperus drupacea,Syrian Juniper,Tree,15.0,6-9,M,LMH,N,DM,3,0,,Juniperus osteosperma
+8,Juniperus excelsa,Grecian Juniper,Tree,20.0,5-9,,LMH,N,DM,2,1,3.0,Juniperus osteosperma
+9,Juniperus horizontalis,"Creeping Juniper, Horizontal Juniper",Shrub,1.0,4-9,M,LMH,N,DM,2,1,3.0,Juniperus osteosperma
+10,Juniperus monosperma,One-Seed Juniper,Tree,18.0,4-8,M,LMH,N,DM,3,2,3.0,Juniperus osteosperma
+11,Juniperus occidentalis,Western Juniper,Tree,18.0,4-8,S,LMH,N,DM,3,2,3.0,Juniperus osteosperma
+12,Juniperus oxycedrus,"Prickly Juniper, Cade juniper",Tree,15.0,8-10,M,LMH,N,DM,0,1,2.0,Juniperus osteosperma
+13,Juniperus recurva,Himalayan Juniper,Tree,12.0,6-9,S,LMH,N,M,1,1,1.0,Juniperus osteosperma
+14,Juniperus rigida,"Temple Juniper, Needle Juniper",Tree,8.0,6-7,S,LMH,N,DM,2,1,3.0,Juniperus osteosperma
+15,Juniperus sabina,"Savine, Tam Juniper",Shrub,4.0,4-7,S,LMH,N,DM,0,2,4.0,Juniperus osteosperma
+16,Juniperus scopulorum,"Rocky Mountain Juniper, Weeping Rocky Mountian Juniper, Colorado Red Cedar",Tree,10.0,3-7,S,LMH,N,DM,3,2,4.0,Juniperus osteosperma
+17,Juniperus silicicola,"Southern Redcedar, Juniper, Southern Red Cedar",Tree,20.0,7-10,S,LMH,N,DM,2,2,3.0,Juniperus osteosperma
+18,Juniperus squamata,Flaky Juniper,Shrub,4.0,4-7,S,LMH,N,DM,0,1,3.0,Juniperus osteosperma
+19,Juniperus tetragona,,Tree,0.0,7-10,,LMH,N,DM,2,0,2.0,Juniperus osteosperma

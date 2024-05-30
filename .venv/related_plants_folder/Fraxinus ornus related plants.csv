@@ -1,0 +1,16 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Fraxinus americana,White Ash,Tree,25.0,4-9,F,LMH,SN,DM,1,2,4.0,Fraxinus ornus
+1,Fraxinus angustifolia,Narrow-Leaved Ash,Tree,25.0,5-9,,LMH,N,DM,1,0,,Fraxinus ornus
+2,Fraxinus bungeana,Xiao Ye Qin,Shrub,5.0,4-8,,LMH,N,DM,0,2,2.0,Fraxinus ornus
+3,Fraxinus chinensis rhynchophylla,Hua Qu Liu,Tree,25.0,5-9,,LMH,N,M,0,2,2.0,Fraxinus ornus
+4,Fraxinus excelsior,"Ash, European ash, Common Ash",Tree,30.0,5-8,F,LMH,N,MWe,2,2,3.0,Fraxinus ornus
+5,Fraxinus floribunda,Himalayan Ash,Tree,40.0,7-10,,LMH,N,M,2,2,2.0,Fraxinus ornus
+6,Fraxinus hookeri,,Tree,0.0,-,,LMH,N,M,0,0,1.0,Fraxinus ornus
+7,Fraxinus latifolia,Oregon Ash,Tree,20.0,5-9,,LMH,N,M,0,1,3.0,Fraxinus ornus
+8,Fraxinus longicuspis,,Tree,8.0,5-9,,LMH,N,M,0,1,1.0,Fraxinus ornus
+9,Fraxinus nigra,Black Ash,Tree,25.0,2-5,M,LMH,N,MWe,0,1,3.0,Fraxinus ornus
+10,Fraxinus pennsylvanica,"Red Ash, Green ash, Water Ash",Tree,20.0,3-9,F,LMH,N,M,1,1,3.0,Fraxinus ornus
+11,Fraxinus quadrangulata,Blue Ash,Tree,20.0,4-8,M,LMH,N,M,0,0,3.0,Fraxinus ornus
+12,Fraxinus sieboldiana,Ash,Tree,8.0,6-9,M,LMH,N,M,0,0,2.0,Fraxinus ornus
+13,Fraxinus texensis,Texas White Ash,Tree,12.0,5-9,F,LMH,SN,DM,0,0,2.0,Fraxinus ornus
+14,Fraxinus velutina,"Arizona Ash, Velvet ash, Modesto Ash, Fantex Ash",Tree,12.0,7-10,F,LMH,N,M,0,0,3.0,Fraxinus ornus

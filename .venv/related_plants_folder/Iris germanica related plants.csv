@@ -1,0 +1,27 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Albizia lebbeck,"Siris Tree, Woman's Tongue, East Indian Walnut",Tree,15.0,10-11,F,LMH,N,M,1,2,4.0,Iris germanica
+1,Albizia lucidior,Potka siris tree,Tree,15.0,10-12,F,LMH,SN,M,0,0,3.0,Iris germanica
+2,Albizia procera,"White Siris, Tall Albizia, Forest Siris",Tree,25.0,10-12,F,LMH,N,M,1,2,4.0,Iris germanica
+3,Bobartia indica,Rush Iris,Perennial,0.6,7-10,S,L,N,DM,0,0,1.0,Iris germanica
+4,Gynandriris sisyrinchium,Spanish Nut,Perennial,0.2,7-10,,MH,SN,DM,1,0,,Iris germanica
+5,Iris cristata,"Crested Iris, Dwarf crested iris",Perennial,0.2,5-9,M,LM,SN,M,1,1,,Iris germanica
+6,Iris decora,,Perennial,0.3,-,,LM,N,DM,0,1,,Iris germanica
+7,Iris douglasiana,"Mountain Iris, Douglas iris",Perennial,0.3,6-9,,LM,SN,DMWe,0,0,1.0,Iris germanica
+8,Iris ensata,Japanese Water Iris,Perennial,0.6,5-8,M,LM,N,MWe,1,1,2.0,Iris germanica
+9,Iris filifolia,,Bulb,0.5,-,,LM,N,DM,1,0,,Iris germanica
+10,Iris foetidissima,"Stinking Gladwin, Stinking iris, Gladwin Iris",Perennial,1.0,7-10,M,LMH,FSN,DMWe,0,2,3.0,Iris germanica
+11,Iris germanica florentina,"Orris, Orris-root",Perennial,0.9,5-10,M,LM,SN,M,1,3,3.0,Iris germanica
+12,Iris japonica,,Perennial,0.6,-,,LM,SN,DM,1,2,3.0,Iris germanica
+13,Iris kemaonensis,,Perennial,0.5,-,,LM,SN,DM,0,2,,Iris germanica
+14,Iris macrosiphon,Bowltube Iris,Perennial,0.2,-,,LM,SN,M,0,1,1.0,Iris germanica
+15,Iris missouriensis,Rocky Mountain Iris,Perennial,0.8,0-0,,LM,SN,MWe,1,2,1.0,Iris germanica
+16,Iris pallida,"Dalmation Iris, Sweet iris, Fragrant Iris, Zebra Iris",Perennial,1.0,4-10,M,LM,SN,DM,2,1,3.0,Iris germanica
+17,Iris pseudacorus,"Yellow Flag, Paleyellow iris",Perennial,1.5,5-8,M,LM,SN,MWeWa,1,2,2.0,Iris germanica
+18,Iris purdyi,Purdy's Iris,Perennial,0.4,-,,LM,SN,DM,0,0,1.0,Iris germanica
+19,Iris sanguinea,Blood iris,Perennial,0.8,5-9,,LM,SN,MWe,0,1,1.0,Iris germanica
+20,Iris setosa,"Beachhead Iris, Canada beachhead iris, Wild flag",Perennial,0.6,4-8,M,LM,SN,MWe,1,1,1.0,Iris germanica
+21,Iris sibirica,Siberian Iris,Perennial,0.6,4-9,F,LM,SN,MWe,1,1,1.0,Iris germanica
+22,Iris tectorum,"Roof Iris, Wall iris, Japanese Roof, White Root Iris",Perennial,0.3,5-9,M,LM,SN,DM,1,0,,Iris germanica
+23,Iris tenax,"Tough-Leaf Iris, Klamath iris",Perennial,0.3,0-0,,LM,SN,DM,0,1,2.0,Iris germanica
+24,Iris versicolor,"Blue Flag, Harlequin blueflag",Perennial,0.6,4-8,,LM,SN,MWe,0,3,2.0,Iris germanica
+25,Solanum tuberosum,"Potato, Irish potato",Perennial,1.0,7-10,,LMH,N,M,5,2,3.0,Iris germanica

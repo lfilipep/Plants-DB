@@ -1,0 +1,22 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Carya aquatica,Water Hickory,Tree,20.0,5-9,S,LMH,N,M,1,0,2.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+1,Carya buckleyi,Black hickory,Tree,10.0,5-9,S,LMH,N,M,2,0,2.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+2,Carya cathayensis,Chinese Hickory,Tree,18.0,5-9,S,LMH,N,M,3,0,3.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+3,Carya cordiformis,"Bitternut, Bitternut hickory, Swamp Hickory",Tree,25.0,4-9,S,LMH,N,M,3,1,3.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+4,Carya floridana,Scrub Hickory,Tree,20.0,-,,LMH,N,DM,2,0,1.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+5,Carya glabra,"Sweet Pignut, Pignut hickory, Broom Hickory, Pignut Hickory",Tree,30.0,4-9,S,LMH,N,DM,3,0,3.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+6,Carya glabra megacarpa,Coastal Pignut Hickory,Tree,30.0,4-8,S,LMH,N,M,3,0,,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+7,Carya hybrids,Hybrid and neohybrid hickories,Tree,40.0,4-11,M,LMH,N,DM,4,3,3.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+8,Carya illinoinensis,Pecan,Tree,50.0,5-9,M,LMH,N,M,4,1,2.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+9,Carya laciniosa,Shellbark Hickory,Tree,30.0,5-9,S,LMH,N,M,3,1,3.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+10,Carya myristiciformis,Nutmeg Hickory,Tree,30.0,8-11,S,LMH,N,M,2,0,2.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+11,Carya ovalis,Sweet Pignut,Tree,30.0,5-9,S,LMH,N,M,3,0,2.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+12,Carya ovata,Shagbark Hickory,Tree,30.0,4-8,S,LMH,N,DM,3,1,4.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+13,Carya pallida,Sand Hickory,Tree,30.0,5-9,S,LMH,N,M,3,1,2.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+14,Carya texana,Black Hickory,Tree,15.0,5-9,S,LMH,N,M,2,0,2.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+15,Carya tomentosa,"Mockernut,White Heart Hickory, Mockernut Hickory",Tree,30.0,4-9,M,LMH,N,DM,3,1,4.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+16,Carya x laneyi,,Tree,20.0,4-8,S,LMH,N,M,3,0,2.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+17,Platycarya strobilacea,,Tree,12.0,6-9,,LMH,SN,M,1,0,2.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+18,Pterocarya fraxinifolia,Caucasian Wingnut,Tree,30.0,6-9,,MH,N,M,1,1,3.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+19,Pterocarya rhoifolia,Japanese Wingnut,Tree,30.0,5-9,,MH,N,M,1,0,2.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.
+20,Pterocarya stenoptera,Chinese wingnut,Tree,20.0,6-9,,MH,N,M,0,2,1.0,Carya carolinae-septentrionalis - (Ashe.)Engelm.&Graebn.

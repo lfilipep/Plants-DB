@@ -1,0 +1,11 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Castanea alnifolia,Bush Chinkapin,Shrub,1.0,6-9,,LMH,N,DM,3,0,2,Castanea seguinii
+1,Castanea crenata,Japanese Chestnut,Tree,9.0,4-8,,LMH,SN,DM,3,0,3,Castanea seguinii
+2,Castanea dentata,American Sweet Chestnut,Tree,30.0,4-8,,LMH,SN,DM,3,1,3,Castanea seguinii
+3,Castanea henryi,,Tree,25.0,5-9,,LMH,SN,DM,3,0,3,Castanea seguinii
+4,Castanea mollissima,Chinese Chestnut,Tree,25.0,4-8,M,LMH,SN,DM,3,2,3,Castanea seguinii
+5,Castanea ozarkensis,Ozark Chinkapin,Tree,18.0,5-9,,LMH,SN,DM,3,0,1,Castanea seguinii
+6,Castanea pumila,"Chinquapin, Ozark chinkapin",Shrub,4.0,4-8,S,LMH,N,DM,4,2,2,Castanea seguinii
+7,Castanea pumila ashei,Chinquapin,Shrub,5.0,6-9,,LMH,N,DM,4,1,2,Castanea seguinii
+8,Castanea sativa,"Sweet Chestnut, European chestnut",Tree,30.0,5-7,M,LMH,N,DM,5,2,5,Castanea seguinii
+9,Castanea species,Chestnut Hybrids,Tree,30.0,4-9,F,LMH,SN,DM,4,2,4,Castanea seguinii

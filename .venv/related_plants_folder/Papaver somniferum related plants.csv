@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Argemone albiflora,"White Prickly Poppy, Bluestem pricklypoppy",Annual,1.5,6-9,,L,N,DM,0,1,,Papaver somniferum
+1,Argemone mexicana,"Prickly Poppy, Mexican pricklypoppy",Perennial,0.6,7-10,,L,N,DM,1,3,2.0,Papaver somniferum
+2,Chelidonium majus,"Greater Celandine, Swallow Wort, Greater Celandine",Perennial,0.5,5-8,F,LMH,FSN,M,1,3,2.0,Papaver somniferum
+3,Corydalis ambigua,,Perennial,0.2,5-9,,LM,S,M,1,3,,Papaver somniferum
+4,Corydalis aurea,Scrambled Eggs,Annual/Biennial,0.5,5-9,,LM,S,M,0,2,,Papaver somniferum
+5,Corydalis cava,,Perennial,0.2,5-9,,LM,S,M,0,3,,Papaver somniferum
+6,Corydalis edulis,,Perennial,0.0,-,,LM,S,M,1,0,,Papaver somniferum
+7,Corydalis falconeri,,Perennial,0.0,-,,LM,S,M,0,0,1.0,Papaver somniferum
+8,Corydalis govaniana,,Perennial,0.0,-,,LM,SN,M,0,2,,Papaver somniferum
+9,Corydalis incisa,Incised fumewort,Annual/Biennial,0.3,6-10,,LM,S,M,1,1,0.0,Papaver somniferum
+10,Corydalis intermedia,,Perennial,0.2,-,,LM,S,M,0,1,,Papaver somniferum
+11,Corydalis juncea,,Perennial,0.0,-,,LM,SN,M,1,0,,Papaver somniferum
+12,Corydalis ochotensis,,Biennial,1.0,-,,LM,SN,M,1,0,,Papaver somniferum
+13,Corydalis pallida,,Biennial,0.3,-,,LM,SN,M,1,0,,Papaver somniferum
+14,Corydalis solida,"Fumewort, Spring fumewort",Perennial,0.2,5-9,,LM,S,M,1,3,,Papaver somniferum
+15,Corydalis ternata,Three-Leaf Corydalis,Perennial,0.2,-,,LM,SN,M,0,2,,Papaver somniferum
+16,Corydalis vaginans,,Annual/Biennial,0.0,4-8,,LM,SN,M,0,1,,Papaver somniferum
+17,Corydalis yanhusuo,Yan Hu Suo,Perennial,0.0,-,,LM,SN,M,0,3,,Papaver somniferum
+18,Dicentra canadensis,Squirrel Corn,Perennial,0.2,4-8,,LM,FS,M,1,2,,Papaver somniferum
+19,Dicentra cucullaria,Dutchman's Breeches,Perennial,0.1,5-9,M,LM,FS,M,0,2,,Papaver somniferum
+20,Dicentra eximia,"Dwarf bleeding heart, turkey-corn",Perennial,0.4,3-9,M,LMH,FS,M,0,0,4.0,Papaver somniferum
+21,Dicentra spectabilis,"Bleeding Heart, Japanese Bleeding Heart, Common Bleeding Heart",Perennial,0.6,3-9,M,LM,SN,M,1,0,,Papaver somniferum
+22,Eschscholzia californica,Californian Poppy,Perennial,0.3,6-11,F,LMH,N,DM,1,3,2.0,Papaver somniferum
+23,Glaucium flavum,"Horned Poppy, Yellow hornpoppy",Perennial,0.6,6-9,S,LMH,N,DM,2,1,2.0,Papaver somniferum
+24,Macleaya cordata,Plume Poppy,Perennial,2.0,4-10,F,LMH,SN,M,0,1,1.0,Papaver somniferum
+25,Meconopsis aculeata,,Perennial,0.6,6-9,,LMH,S,M,1,2,,Papaver somniferum
+26,Meconopsis grandis,Blue Poppy,Perennial,1.0,4-8,,LMH,S,M,1,0,,Papaver somniferum
+27,Meconopsis napaulensis,Himalayan Poppy,Perennial,2.0,7-10,,LMH,S,M,1,1,,Papaver somniferum
+28,Papaver argemone,"Prickly Poppy, Long pricklyhead poppy",Annual,0.4,7-10,,LMH,N,M,0,1,,Papaver somniferum
+29,Papaver dubium,"Long-Head Poppy, Blindeyes",Annual,0.5,6-9,,LMH,N,M,0,1,0.0,Papaver somniferum

@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Vaccinium vitis-idaea,"Cowberry, Lingonberry, Northern mountain cranberry, Cranberry",Shrub,0.3,3-8,M,LM,SN,M,3,2,3,Vitis rotundifolia
+1,Vitis acerifolia,"Bush Grape, Mapleleaf grape",Climber,10.0,5-9,,LMH,SN,DM,2,0,1,Vitis rotundifolia
+2,Vitis aestivalis,"Summer Grape, Long grape",Climber,20.0,3-7,F,LMH,SN,DM,3,1,1,Vitis rotundifolia
+3,Vitis aestivalis argentifolia,Summer Grape,Climber,25.0,3-7,F,LMH,SN,DM,3,0,1,Vitis rotundifolia
+4,Vitis aestivalis var. linsecomii,Post-Oak Grape,Climber,5.0,-,,LMH,SN,DM,2,0,1,Vitis rotundifolia
+5,Vitis amurensis,"Amur River Grape, Amur grape",Climber,15.0,4-8,M,LMH,SN,DM,2,1,1,Vitis rotundifolia
+6,Vitis arizonica,Canyon Grape,Climber,5.0,5-9,,LMH,SN,DM,2,0,1,Vitis rotundifolia
+7,Vitis baileyana,Graybark Grape,Climber,10.0,5-9,,LMH,SN,DM,2,0,1,Vitis rotundifolia
+8,Vitis belaii,Grape,Climber,0.0,-,,LMH,SN,DM,4,0,1,Vitis rotundifolia
+9,Vitis berlandieri,Spanish Grape,Climber,10.0,6-9,,LMH,SN,DM,3,0,1,Vitis rotundifolia
+10,Vitis californica,"California Grape, California wild grape",Climber,9.0,6-9,M,LMH,SN,DM,2,0,2,Vitis rotundifolia
+11,Vitis cinerea,"Sweet Winter Grape, Graybark grape, Florida grape, Heller's grape",Climber,0.0,4-8,,LMH,SN,DM,3,0,1,Vitis rotundifolia
+12,Vitis cinerea floridana,Currant Grape,Climber,0.0,4-8,,LMH,SN,DM,3,0,2,Vitis rotundifolia
+13,Vitis coignetiae,Crimson Glory Vine,Climber,20.0,4-8,F,LMH,SN,DM,2,0,3,Vitis rotundifolia
+14,Vitis cordifolia,Frost Grape,Climber,20.0,4-8,F,LMH,SN,DM,2,0,1,Vitis rotundifolia
+15,Vitis davidii,Spiny Vitis,Climber,15.0,6-9,,LMH,SN,DM,2,0,3,Vitis rotundifolia
+16,Vitis flexuosa,,Climber,8.0,5-9,,LMH,SN,DM,2,1,1,Vitis rotundifolia
+17,Vitis girdiana,"Valley Grape, Desert wild grape",Climber,12.0,7-10,,LMH,SN,DM,2,0,2,Vitis rotundifolia
+18,Vitis labrusca,"Northern Fox Grape, Fox grape",Climber,15.0,4-9,F,LMH,SN,DM,3,1,2,Vitis rotundifolia
+19,Vitis labruscana,,Climber,15.0,4-8,,LMH,SN,DM,3,0,1,Vitis rotundifolia
+20,Vitis lanata,Grape,Climber,0.0,8-11,,LMH,SN,DM,3,1,1,Vitis rotundifolia
+21,Vitis monticola,Sweet Mountain Grape,Climber,10.0,5-9,,LMH,SN,DM,3,0,1,Vitis rotundifolia
+22,Vitis munsoniana,"Bird Grape, Munson's grape",Climber,0.0,0-0,,LMH,SN,DM,3,0,1,Vitis rotundifolia
+23,Vitis mustangensis,Mustang Grape,Climber,10.0,4-8,,LMH,SN,DM,3,0,1,Vitis rotundifolia
+24,Vitis palmata,"Red Grape, Catbird grape",Climber,20.0,4-8,,LMH,SN,DM,2,0,1,Vitis rotundifolia
+25,Vitis parvifolia,,Climber,0.0,6-9,,LMH,SN,DM,2,1,1,Vitis rotundifolia
+26,Vitis riparia,Riverbank Grape,Climber,15.0,2-6,F,LMH,SN,DM,3,0,2,Vitis rotundifolia
+27,Vitis romanetii,,Climber,10.0,5-9,,LMH,N,DM,2,0,1,Vitis rotundifolia
+28,Vitis rupestris,Sand Grape,Climber,2.0,-,,LMH,SN,DM,3,0,2,Vitis rotundifolia

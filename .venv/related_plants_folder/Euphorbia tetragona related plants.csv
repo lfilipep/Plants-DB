@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Acalypha australis,Asian copperleaf,Annual,0.5,0-0,,LMH,SN,M,0,1,,Euphorbia tetragona
+1,Alchornea castaneifolia,Iporuru,Tree,8.0,10-12,F,LMH,SN,MWe,0,4,2.0,Euphorbia tetragona
+2,Alchornea cordifolia,Christmas Bush,Shrub,8.0,10-12,M,LMH,N,DMWe,2,4,3.0,Euphorbia tetragona
+3,Aleurites cordata,Japan Wood-Oil Tree,Tree,7.0,9-11,,LM,SN,M,0,0,2.0,Euphorbia tetragona
+4,Aleurites fordii,"Tung Tree, Tung Oil Tree, Wood Oil Tree China",Tree,7.0,8-10,F,LM,SN,M,1,3,3.0,Euphorbia tetragona
+5,Aleurites moluccanus,"Candle Nut, Country Walnut",Tree,20.0,10-12,F,LMH,N,DM,3,3,4.0,Euphorbia tetragona
+6,Caryodendron orinocense,"Taccy Nut, Nuez de Barinas",Tree,25.0,10-12,F,LMH,N,M,3,1,2.0,Euphorbia tetragona
+7,Chrozophora tinctoria,"Dyer's Croton, Giradol",Perennial,0.0,0-0,,LMH,SN,M,1,0,2.0,Euphorbia tetragona
+8,Cnidoscolus aconitifolius,"Tree Spinach, Tread Softly, Cabbage Star, Chaya",Shrub,5.0,9-11,F,LMH,SN,M,4,3,3.0,Euphorbia tetragona
+9,Cnidoscolus elasticus,Highland chilte,Shrub,1.0,9-11,F,LMH,N,DM,0,0,4.0,Euphorbia tetragona
+10,Croton lechleri,"Sangre De Grado, Dragon's blood",Tree,12.0,10-12,F,LMH,N,M,0,4,1.0,Euphorbia tetragona
+11,Croton megalocarpus,Croton tree,Tree,25.0,10-12,F,LM,N,M,0,2,4.0,Euphorbia tetragona
+12,Croton palanostigma,"Sangre De Grado, Dragon's blood",Tree,12.0,10-12,F,LM,N,M,0,4,2.0,Euphorbia tetragona
+13,Croton salutaris,"Sangre De Grado, Dragon's blood",Tree,12.0,10-12,F,LM,N,M,0,4,0.0,Euphorbia tetragona
+14,Croton tiglium,"Croton Oil Plant. Croton, Purging croton.",Tree,7.0,10-12,M,LMH,N,DM,0,3,2.0,Euphorbia tetragona
+15,Euphorbia abyssinica,Candelabra Spurge,Tree,7.5,10-12,M,LM,SN,D,0,2,3.0,Euphorbia tetragona
+16,Euphorbia antisyphilitica,Candelilla,Shrub,1.0,7-10,,LM,N,DM,2,0,4.0,Euphorbia tetragona
+17,Euphorbia corollata,"Wild Spurge, Flowering spurge",Perennial,1.0,4-8,,LM,SN,DM,0,2,2.0,Euphorbia tetragona
+18,Euphorbia drummondii,Caustic Weed,Annual,0.2,-,,LM,N,DM,0,1,,Euphorbia tetragona
+19,Euphorbia esula,Leafy Spurge. Green spurge,Perennial,1.0,3-9,F,LMH,SN,DM,0,0,4.0,Euphorbia tetragona
+20,Euphorbia helioscopia,Madwoman's Milk,Annual,0.4,-,,LM,N,DM,1,2,,Euphorbia tetragona
+21,Euphorbia hirta,"Asthma Weed, Pill-Bearing Spurge",Annual,0.3,-,,LM,N,DM,1,3,,Euphorbia tetragona
+22,Euphorbia humifusa,,Annual,0.2,-,,LM,N,DM,1,2,,Euphorbia tetragona
+23,Euphorbia intisy,"Intisy, Pencil Plant",Shrub,5.0,10-12,F,LM,SN,D,0,0,3.0,Euphorbia tetragona
+24,Euphorbia ipecacuanhae,American Ipec,,0.0,-,,LMH,SN,M,0,1,,Euphorbia tetragona
+25,Euphorbia lactea,Mottled Spurge,Shrub,5.0,10-11,M,LMH,SN,DM,0,0,4.0,Euphorbia tetragona
+26,Euphorbia lathyris,"Caper Spurge, Moleplant",Annual/Biennial,1.0,5-9,,LMH,SN,DM,1,2,3.0,Euphorbia tetragona
+27,Euphorbia marginata,"Mountain Snow, Ghost Spurge, Ghost Weed",Annual,0.6,4-8,F,LM,N,DM,1,1,3.0,Euphorbia tetragona
+28,Euphorbia neriifolia,"Fleshy spurge, Hedge Euphorbia, Oleander spurge",Shrub,4.0,10-12,F,LM,SN,D,2,2,2.0,Euphorbia tetragona
+29,Euphorbia pekinensis,Da Ji,Perennial,0.6,-,,LM,N,DM,0,3,,Euphorbia tetragona

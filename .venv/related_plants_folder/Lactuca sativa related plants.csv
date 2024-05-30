@@ -1,0 +1,21 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Lactuca biennis,Tall Blue Lettuce,,0.0,-,,LMH,SN,M,0,1,,Lactuca sativa
+1,Lactuca canadensis,Canada Lettuce,Biennial,3.0,-,,LM,SN,M,2,3,,Lactuca sativa
+2,Lactuca capensis,,Perennial,0.5,-,,LM,SN,M,1,2,,Lactuca sativa
+3,Lactuca debilis,,Perennial,0.0,-,,LM,SN,M,3,2,,Lactuca sativa
+4,Lactuca formosana,,,0.0,-,,LM,SN,M,1,2,,Lactuca sativa
+5,Lactuca indica,Indian Lettuce,Perennial,1.2,-,,LM,SN,M,3,2,,Lactuca sativa
+6,Lactuca indica dracoglossa,,Annual/Biennial,1.0,-,,LM,SN,M,2,2,,Lactuca sativa
+7,Lactuca indica laciniata,,Perennial,1.2,-,,LM,SN,M,3,2,,Lactuca sativa
+8,Lactuca ludoviciana,"Western Wild Lettuce, Biannual lettuce",Biennial,1.2,0-0,,LM,SN,M,2,2,,Lactuca sativa
+9,Lactuca perennis,Perennial Lettuce,Perennial,0.6,5-9,,LM,N,DM,3,2,,Lactuca sativa
+10,Lactuca pulchella,Blue Lettuce,Perennial,1.0,-,,LM,SN,M,2,2,,Lactuca sativa
+11,Lactuca quercina,Wild Lettuce,Annual/Biennial,1.0,-,,LM,SN,M,2,3,,Lactuca sativa
+12,Lactuca raddeana,,Annual/Biennial,0.6,-,,LM,SN,M,2,2,,Lactuca sativa
+13,Lactuca sativa angustana,Celtuce,Annual/Biennial,0.6,5-9,,LM,SN,M,3,3,2.0,Lactuca sativa
+14,Lactuca sativa capitata,Cabbage Lettuce,Annual/Biennial,0.9,5-9,,LM,SN,M,3,3,2.0,Lactuca sativa
+15,Lactuca sativa crispa,Cutting Lettuce,Annual/Biennial,0.9,5-9,,LM,SN,M,3,3,2.0,Lactuca sativa
+16,Lactuca sativa longifolia,Cos Lettuce,Annual/Biennial,0.9,5-9,,LM,SN,M,3,3,2.0,Lactuca sativa
+17,Lactuca serriola,Prickly Lettuce,Biennial,1.5,6-9,,LM,N,M,2,3,2.0,Lactuca sativa
+18,Lactuca sibirica,Prickly lettuce,Perennial,1.0,0-0,,LM,SN,M,2,2,,Lactuca sativa
+19,Lactuca triangulata,,Biennial/Perennial,1.0,-,,LM,SN,M,1,2,,Lactuca sativa

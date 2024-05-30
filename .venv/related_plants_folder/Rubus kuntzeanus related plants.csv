@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Actinidia rubus,,Climber,0.0,-,,LMH,SN,M,3,0,,Rubus kuntzeanus
+1,Rubus abbrevians,Vermont blackberry,Shrub,0.0,0-0,,LMH,SN,M,3,0,1.0,Rubus kuntzeanus
+2,Rubus acaulis,Dwarf Raspberry,Perennial,0.1,-,,LMH,SN,M,3,1,1.0,Rubus kuntzeanus
+3,Rubus acer,,Shrub,1.2,-,,LMH,SN,M,1,0,1.0,Rubus kuntzeanus
+4,Rubus adenophorus,,Shrub,2.5,5-9,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+5,Rubus adenotrichus,Mora Comun,Shrub,2.0,-,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+6,Rubus affinis,,Shrub,3.0,4-8,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+7,Rubus alexeterius,,Shrub,2.0,-,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+8,Rubus allegheniensis,"Alleghany Blackberry, Graves' blackberry",Shrub,3.0,3-7,M,LMH,SN,M,3,2,1.0,Rubus kuntzeanus
+9,Rubus almus,"Mayes Dewberry, Garden dewberry",Shrub,2.0,7-10,,LMH,SN,M,3,0,1.0,Rubus kuntzeanus
+10,Rubus amabilis,,Shrub,2.0,5-9,,LMH,SN,M,3,0,1.0,Rubus kuntzeanus
+11,Rubus ampelinus,,Shrub,3.0,-,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+12,Rubus arcticus,"Arctic Bramble, Arctic raspberry, Dwarf raspberry",Perennial,0.2,2-7,,LMH,N,M,5,0,1.0,Rubus kuntzeanus
+13,Rubus argutus,"Highbush Blackberry, Sawtooth blackberry",Shrub,2.5,0-0,,LMH,SN,M,2,1,1.0,Rubus kuntzeanus
+14,Rubus arizonicus,Arizona Dewberry,Shrub,0.2,-,,LMH,SN,M,2,0,3.0,Rubus kuntzeanus
+15,Rubus australis,,Climber,0.0,8-11,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+16,Rubus avipes,,Shrub,2.0,-,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+17,Rubus baileyanus,Bailey's dewberry,Shrub,1.0,0-0,,LMH,SN,DM,2,0,1.0,Rubus kuntzeanus
+18,Rubus barbatus,,Shrub,0.0,-,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+19,Rubus bellobatus,Kittatinny Blackberry,Shrub,2.0,5-9,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+20,Rubus biflorus,,Shrub,3.5,-,,LMH,SN,M,3,0,1.0,Rubus kuntzeanus
+21,Rubus bifrons,"Himalayan berry, Hybrid European blackberry, Hybrid blackberry",Shrub,1.5,0-0,,LMH,SN,M,1,0,1.0,Rubus kuntzeanus
+22,Rubus bloxamii,,Shrub,0.0,-,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+23,Rubus buergeri,,Shrub,3.0,5-9,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+24,Rubus caesius,"Dewberry, European dewberry",Shrub,0.2,4-8,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+25,Rubus calycinus,Wild Raspberry,Perennial,1.0,-,,LMH,SN,M,1,0,1.0,Rubus kuntzeanus
+26,Rubus canadensis,"American Dewberry, Smooth blackberry",Shrub,2.5,3-7,,LMH,SN,M,4,1,1.0,Rubus kuntzeanus
+27,Rubus candicans,,Shrub,0.0,-,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+28,Rubus caucasicus,,Shrub,0.0,-,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus
+29,Rubus caudatus,,,0.0,-,,LMH,SN,M,2,0,1.0,Rubus kuntzeanus

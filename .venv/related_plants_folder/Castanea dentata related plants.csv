@@ -1,0 +1,11 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Castanea alnifolia,Bush Chinkapin,Shrub,1.0,6-9,,LMH,N,DM,3,0,2,Castanea dentata
+1,Castanea crenata,Japanese Chestnut,Tree,9.0,4-8,,LMH,SN,DM,3,0,3,Castanea dentata
+2,Castanea henryi,,Tree,25.0,5-9,,LMH,SN,DM,3,0,3,Castanea dentata
+3,Castanea mollissima,Chinese Chestnut,Tree,25.0,4-8,M,LMH,SN,DM,3,2,3,Castanea dentata
+4,Castanea ozarkensis,Ozark Chinkapin,Tree,18.0,5-9,,LMH,SN,DM,3,0,1,Castanea dentata
+5,Castanea pumila,"Chinquapin, Ozark chinkapin",Shrub,4.0,4-8,S,LMH,N,DM,4,2,2,Castanea dentata
+6,Castanea pumila ashei,Chinquapin,Shrub,5.0,6-9,,LMH,N,DM,4,1,2,Castanea dentata
+7,Castanea sativa,"Sweet Chestnut, European chestnut",Tree,30.0,5-7,M,LMH,N,DM,5,2,5,Castanea dentata
+8,Castanea seguinii,Chinese Chinquapin,Tree,10.0,5-9,M,LMH,N,DM,3,0,3,Castanea dentata
+9,Castanea species,Chestnut Hybrids,Tree,30.0,4-9,F,LMH,SN,DM,4,2,4,Castanea dentata

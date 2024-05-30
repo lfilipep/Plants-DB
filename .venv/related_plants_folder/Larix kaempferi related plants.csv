@@ -1,0 +1,9 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Larix decidua,"Larch, European Larch, Common Larch",Tree,45.0,3-6,F,LM,N,M,2,3,3,Larix kaempferi
+1,Larix gmelinii,"Dahurian Larch, Kurile larch",Tree,30.0,0-0,S,LM,N,M,0,0,3,Larix kaempferi
+2,Larix laricina,"Tamarack, Hackmatack, American Larch",Tree,18.0,2-5,M,LM,N,MWe,2,2,3,Larix kaempferi
+3,Larix lyallii,Sub-Alpine Larch,Tree,25.0,3-7,,LMH,SN,M,1,0,3,Larix kaempferi
+4,Larix occidentalis,Western Larch,Tree,45.0,2-6,F,LM,N,M,2,2,3,Larix kaempferi
+5,Larix potaninii,Larch,Tree,35.0,4-8,M,LM,N,M,0,0,3,Larix kaempferi
+6,Larix sibirica,Siberian Larch,Tree,30.0,-,,LMH,SN,M,0,0,3,Larix kaempferi
+7,Larix x marschlinsii,Dunkeld Hybrid Larch,Tree,50.0,2-6,F,LM,N,M,0,0,3,Larix kaempferi

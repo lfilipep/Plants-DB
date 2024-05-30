@@ -1,0 +1,5 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Sonchus asper,"Prickly Sow Thistle, Spiny sowthistle",Annual,0.5,0-0,,LMH,SN,M,2,1,0.0,Sonchus arvensis
+1,Sonchus brachyotus,,Perennial,0.6,-,,LMH,,M,1,1,,Sonchus arvensis
+2,Sonchus kirkii,Shore Sow Thistle,,0.0,-,,LMH,SN,M,1,0,,Sonchus arvensis
+3,Sonchus oleraceus,"Sow Thistle, Common sowthistle",Biennial,1.0,0-0,,LMH,N,M,2,2,2.0,Sonchus arvensis

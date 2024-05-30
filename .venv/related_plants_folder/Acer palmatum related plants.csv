@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Acer acuminatum,,Tree,6.0,5-9,,LMH,SN,M,1,0,2,Acer palmatum
+1,Acer argutum,,Tree,8.0,4-8,,LMH,SN,M,2,0,1,Acer palmatum
+2,Acer caesium,,Tree,15.0,5-9,,LMH,SN,M,0,1,3,Acer palmatum
+3,Acer campestre,"Field Maple, Hedge maple",Tree,15.0,4-8,F,LMH,SN,M,2,1,3,Acer palmatum
+4,Acer carpinifolium,Hornbeam Maple,Shrub,10.0,4-7,S,LMH,SN,M,2,0,1,Acer palmatum
+5,Acer circinatum,Vine Maple,Tree,12.0,6-9,S,LMH,SN,M,2,1,2,Acer palmatum
+6,Acer crataegifolium,Hawthorn-Leaved Maple,Tree,10.0,5-9,,LMH,SN,M,0,0,1,Acer palmatum
+7,Acer distylum,,Tree,15.0,6-9,,LMH,SN,M,2,0,1,Acer palmatum
+8,Acer ginnala,Amur Maple,Tree,10.0,3-8,F,LMH,SN,M,1,0,3,Acer palmatum
+9,Acer glabrum,"Rock Maple, Rocky Mountain maple, Douglas maple, Greene's maple, New Mexico maple, Torrey maple",Tree,9.0,3-8,S,LMH,SN,M,2,1,2,Acer palmatum
+10,Acer interius,Box Elder,Tree,20.0,-,,LMH,SN,M,2,0,1,Acer palmatum
+11,Acer macrophyllum,"Oregon Maple, Bigleaf maple, Oregon Maple",Tree,30.0,5-9,F,LMH,SN,M,3,1,3,Acer palmatum
+12,Acer mono,Maple,Tree,15.0,3-8,S,LMH,SN,M,2,1,2,Acer palmatum
+13,Acer negundo,Box Elder,Tree,21.0,3-8,F,LMH,SN,M,3,1,3,Acer palmatum
+14,Acer oblongum,,Tree,9.0,6-9,,LMH,SN,M,0,0,3,Acer palmatum
+15,Acer pectinatum,Maple,Tree,10.0,3-6,S,LMH,SN,M,0,0,2,Acer palmatum
+16,Acer pensylvanicum,"Moosewood, Striped maple, Moosewood, Pennsylvania Maple",Tree,4.5,3-7,,LMH,N,M,0,1,2,Acer palmatum
+17,Acer platanoides,"Norway Maple, Harlequin Maple",Tree,21.0,3-7,F,LMH,SN,M,2,0,3,Acer palmatum
+18,Acer pseudoplatanus,"Sycamore, Great Maple, Scottish Maple, Planetree Maple",Tree,30.0,4-7,F,LMH,SN,M,2,1,4,Acer palmatum
+19,Acer rubrum,"Red Maple, Drummond's maple, Swamp Maple",Tree,30.0,4-10,F,LMH,SN,M,3,1,3,Acer palmatum
+20,Acer saccharinum,"Silver Maple, River Maple, Soft Maple",Tree,30.0,3-9,F,LMH,SN,M,3,1,4,Acer palmatum
+21,Acer saccharum,"Sugar Maple, Florida Maple, Hard Maple, Rock Maple",Tree,30.0,4-8,S,LMH,SN,M,4,2,4,Acer palmatum
+22,Acer saccharum grandidentatum,"Big-Tooth Maple, Canyon Maple, Rocky Mountain Sugar Maple",Tree,12.0,5-8,,LMH,SN,M,4,0,3,Acer palmatum
+23,Acer saccharum nigrum,Black Maple,Tree,25.0,4-6,S,LMH,SN,M,4,1,2,Acer palmatum
+24,Acer spicatum,Mountain Maple,Tree,10.0,3-6,S,LMH,N,M,2,2,3,Acer palmatum
+25,Acer sterculiaceum,,Tree,6.0,7-10,,LMH,SN,M,0,0,2,Acer palmatum
+26,Acer tataricum,Tatarian Maple,Tree,9.0,3-7,M,LMH,SN,M,2,0,1,Acer palmatum
+27,Acer truncatum,"Shantung Maple, Purpleblow Maple",Tree,8.0,3-8,S,LMH,SN,M,1,0,1,Acer palmatum
+28,Acer ukurunduense caudatum,,Tree,20.0,-,S,LMH,SN,M,1,0,3,Acer palmatum

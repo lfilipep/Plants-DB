@@ -1,0 +1,26 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Allium pendulinum,,Bulb,0.3,-,,LM,S,M,3,2,1.0,Linum catharticum
+1,Apium graveolens secalinum,Leaf Celery,Biennial,0.6,-,,LM,SN,M,4,2,2.0,Linum catharticum
+2,Conioselinum pacificum,Pacific Hemlock-Parsley,Perennial,0.0,-,,LM,N,M,2,1,,Linum catharticum
+3,Conioselinum vaginatum,,Perennial,0.8,-,,LMH,SN,M,0,1,,Linum catharticum
+4,Gymnanthemum amygdalinum,Bitterleaf,Shrub,8.0,10-12,M,LMH,N,DM,4,3,2.0,Linum catharticum
+5,Lilium pardalinum,"Panther Lily, Leopard lily, Pitkin Marsh lily, Vollmer's lilyShasta lily, Wiggins' lily",Bulb,2.0,5-9,M,LMH,SN,MWe,2,0,2.0,Linum catharticum
+6,Linum bienne,Pale Flax,Annual/Perennial,0.6,6-9,,LM,N,M,0,0,2.0,Linum catharticum
+7,Linum crepitans,,Annual,0.6,-,,LM,N,M,0,0,1.0,Linum catharticum
+8,Linum humile,,Annual,0.6,-,,LM,N,M,1,0,1.0,Linum catharticum
+9,Linum hybrids,Perennial Flax,Perennial,0.8,7-11,F,LMH,N,M,4,4,4.0,Linum catharticum
+10,Linum marginale,Native Flax,Perennial,0.6,-,,LM,N,M,1,0,1.0,Linum catharticum
+11,Linum monogynum,,Perennial,0.6,7-10,,LM,N,M,0,0,1.0,Linum catharticum
+12,Linum perenne,"Perennial Flax, Blue flax, Alpine flax",Perennial,0.3,5-9,M,LM,N,DM,3,2,3.0,Linum catharticum
+13,Linum strictum,,Annual,0.4,5-9,,LM,N,DM,0,1,,Linum catharticum
+14,Linum usitatissimum,"Flax, Common flax",Annual,0.7,4-8,,LM,N,M,4,3,4.0,Linum catharticum
+15,Mesembryanthemum crystallinum,"Ice Plant, Common iceplant",Perennial,0.1,8-11,,LMH,N,DM,3,1,1.0,Linum catharticum
+16,Pedicularis sceptrum carolinum,Lousewort,Perennial,1.2,-,,LMH,SN,M,1,1,,Linum catharticum
+17,Petroselinum crispum,Parsley,Biennial,0.6,0-0,M,LMH,SN,M,4,4,3.0,Linum catharticum
+18,Petroselinum crispum tuberosum,Hamburg Parsley,Biennial,0.6,0-0,,LMH,SN,M,4,3,3.0,Linum catharticum
+19,Petroselinum segetum,Corn Caraway,Biennial,1.0,-,,LMH,SN,M,1,0,,Linum catharticum
+20,Peucedanum oreoselinum,,Perennial,1.0,4-8,,LMH,N,M,0,1,1.0,Linum catharticum
+21,Pteridium aquilinum,"Bracken, Western brackenfern, Decomposition brackenfern, Hairy brackenfern",Fern,1.2,4-7,F,LMH,SN,DM,2,2,3.0,Linum catharticum
+22,Pteridium aquilinum esculentum,Bracken,Fern,1.2,4-8,,LMH,SN,DM,2,2,3.0,Linum catharticum
+23,Talinum aurantiacum,Orange Flameflower,Perennial,0.4,-,,LMH,SN,M,1,0,,Linum catharticum
+24,Talinum fruticosum,"Tahitian Spinach, Waterleaf, Ceylon Spinach",Perennial,0.5,8-11,F,LMH,SN,DM,3,2,1.0,Linum catharticum

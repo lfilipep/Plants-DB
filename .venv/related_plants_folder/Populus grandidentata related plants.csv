@@ -1,0 +1,23 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Populus alba,White Poplar,Tree,20.0,3-9,F,LMH,N,DM,1,2,3,Populus grandidentata
+1,Populus angustifolia,Narrowleaf Cottonwood,Tree,30.0,3-7,F,LMH,N,M,1,2,2,Populus grandidentata
+2,Populus 'Balsam Spire',Tacatricho 32,Tree,30.0,4-8,F,LMH,N,M,0,3,2,Populus grandidentata
+3,Populus balsamifera,"Balsam Poplar, Black cottonwood",Tree,30.0,0-0,F,LMH,N,M,1,3,3,Populus grandidentata
+4,Populus ciliata,Himalayan Poplar,Tree,20.0,0-0,F,LMH,N,M,0,2,2,Populus grandidentata
+5,Populus deltoides,"Eastern Cottonwood, Plains cottonwood, Rio Grande cottonwood, Necklace Poplar",Tree,30.0,3-9,F,LMH,N,M,2,2,4,Populus grandidentata
+6,Populus deltoides monilifera,Plains Cottonwood,Tree,30.0,0-0,F,LMH,N,M,1,2,3,Populus grandidentata
+7,Populus deltoides wislizenii,Rio Grande Cottonwood,Tree,30.0,0-0,F,LMH,N,M,2,1,3,Populus grandidentata
+8,Populus euphratica,,Tree,15.0,0-0,F,LMH,N,MWe,0,1,3,Populus grandidentata
+9,Populus fremontii,"Cottonwood, Fremont cottonwood, Fremont Poplar, Western Cottonwood",Tree,25.0,2-9,F,LMH,N,DM,1,2,3,Populus grandidentata
+10,Populus heterophylla,Swamp Cottonwood,Tree,25.0,0-0,F,LMH,N,M,0,1,2,Populus grandidentata
+11,Populus hybrids,Hybrid poplar,Tree,50.0,2-10,F,LMH,SN,DM,3,3,4,Populus grandidentata
+12,Populus maximowiczii,"Doronoki, Japanese poplar",Tree,30.0,4-8,F,LMH,N,M,0,1,2,Populus grandidentata
+13,Populus nigra,"Black Poplar, Lombardy poplar",Tree,30.0,3-9,F,LMH,N,M,1,3,4,Populus grandidentata
+14,Populus pseudosimonii,,Tree,20.0,0-0,,LMH,N,M,1,1,2,Populus grandidentata
+15,Populus sieboldii,Japanese Aspen,Tree,20.0,4-8,F,LMH,N,M,1,1,2,Populus grandidentata
+16,Populus simonii,"Simon poplar, Chinese Poplar",Tree,30.0,2-5,F,LMH,N,M,1,1,2,Populus grandidentata
+17,Populus tremula,"Aspen Poplar, European aspen, Aspen",Tree,18.0,2-5,F,LMH,SN,MWe,1,2,3,Populus grandidentata
+18,Populus tremuloides,"American Aspen - Poplar, Quaking aspen",Tree,20.0,2-5,F,LMH,N,DM,1,3,3,Populus grandidentata
+19,Populus trichocarpa,"Western Balsam Poplar, Black cottonwood",Tree,40.0,4-8,F,LMH,N,M,1,3,4,Populus grandidentata
+20,Populus x canadensis,"Canadian Poplar, Carolina Poplar",Tree,40.0,4-9,F,LMH,N,M,0,1,3,Populus grandidentata
+21,Populus x canescens,Grey Poplar,Tree,30.0,4-9,F,LMH,N,M,0,1,2,Populus grandidentata

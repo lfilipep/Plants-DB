@@ -1,0 +1,6 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Agrostis perennans,"Upland Bent, Upland bentgrass",Perennial,0.9,0-0,,LMH,SN,DM,1,0,2.0,Agrostis capillaris
+1,Eragrostis caroliniana,Tufted lovegrass,Annual,0.5,0-0,,LMH,N,DM,1,0,,Agrostis capillaris
+2,Eragrostis curvula,Weeping Love Grass,Perennial,1.2,6-9,,LMH,N,M,1,0,3.0,Agrostis capillaris
+3,Eragrostis pilosa,"Soft Love Grass, Indian lovegrass",Annual,0.6,6-9,,LM,N,M,1,1,0.0,Agrostis capillaris
+4,Eragrostis tef,Tef,Annual,1.0,8-11,,LMH,N,DM,3,0,,Agrostis capillaris

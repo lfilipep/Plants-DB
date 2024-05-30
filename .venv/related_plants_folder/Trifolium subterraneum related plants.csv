@@ -1,0 +1,20 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Trifolium bifidum,"Piñole Clover, Notchleaf clover",Annual,0.5,0-0,,LMH,N,M,2,0,3.0,Trifolium subterraneum
+1,Trifolium ciliatum,Foothill Clover,Annual,0.5,0-0,,LMH,N,M,2,0,3.0,Trifolium subterraneum
+2,Trifolium cyathiferum,Cup Clover,Annual,0.5,0-0,,LMH,N,M,1,0,2.0,Trifolium subterraneum
+3,Trifolium dichotomum,Branched Indian Clover,Annual,0.6,0-0,,LMH,N,M,2,0,2.0,Trifolium subterraneum
+4,Trifolium dubium,Suckling Clover,Annual,0.5,0-0,,LMH,N,M,0,1,3.0,Trifolium subterraneum
+5,Trifolium fimbriatum,"Springbank Clover, Cows clover",Perennial,1.0,0-0,,LMH,N,M,3,0,2.0,Trifolium subterraneum
+6,Trifolium fucatum,"Sour Clover, Bull clover",Annual,0.6,0-0,,LMH,N,M,2,0,2.0,Trifolium subterraneum
+7,Trifolium fucatum virescens,,Annual,0.6,0-0,,LMH,N,M,2,0,2.0,Trifolium subterraneum
+8,Trifolium gracilentum,"Pin-Point Clover, Palmer's clover",Annual,0.6,0-0,,LMH,N,M,2,0,2.0,Trifolium subterraneum
+9,Trifolium hybridum,Alsike Clover,Perennial,0.6,0-0,,LMH,N,M,2,1,2.0,Trifolium subterraneum
+10,Trifolium incarnatum,Crimson Clover,Annual,0.5,3-9,M,LMH,N,M,2,0,4.0,Trifolium subterraneum
+11,Trifolium lupinaster,Lupine clover,Perennial,0.5,0-0,,LMH,N,M,1,0,2.0,Trifolium subterraneum
+12,Trifolium macrocephalum,"Bighead Clover, Largehead clover",Perennial,0.3,4-8,,LMH,N,M,1,0,3.0,Trifolium subterraneum
+13,Trifolium microcephalum,Smallhead Clover,Annual,0.6,-,,LMH,N,M,1,0,,Trifolium subterraneum
+14,Trifolium obtusiflorum,Clammy Clover,Annual,1.0,0-0,,LMH,N,M,2,0,2.0,Trifolium subterraneum
+15,Trifolium ornithopodioides,"Birdsfoot Fenugreek, Bird clover",Annual/Perennial,0.2,0-0,,LMH,N,MWe,1,0,3.0,Trifolium subterraneum
+16,Trifolium pratense,Red Clover,Perennial,0.6,5-9,M,LMH,N,M,3,3,4.0,Trifolium subterraneum
+17,Trifolium repens,"White Clover, Dutch Clover, Purple Dutch Clover, Shamrock, White Clover",Perennial,0.1,4-8,M,LMH,N,M,3,2,4.0,Trifolium subterraneum
+18,Trifolium tridentatum,Tomcat Clover,Annual,0.6,0-0,,LMH,N,M,2,0,2.0,Trifolium subterraneum

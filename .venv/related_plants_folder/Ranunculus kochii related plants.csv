@@ -1,0 +1,23 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Ranunculus acris,"Meadow Buttercup, Tall buttercup, Showy buttercup",Perennial,1.0,0-0,,LMH,SN,MWe,1,2,0.0,Ranunculus kochii
+1,Ranunculus aquatilis,"Water Crowfoot, White water crowfoot",Annual/Perennial,0.0,4-8,,LMH,SN,MWeWa,1,1,,Ranunculus kochii
+2,Ranunculus arvensis,Corn Buttercup,Annual,0.5,0-0,,LMH,SN,M,0,1,0.0,Ranunculus kochii
+3,Ranunculus bulbosus,"Bulbous Buttercup, St. Anthony's turnip",Perennial,0.3,0-0,F,LMH,SN,M,1,2,0.0,Ranunculus kochii
+4,Ranunculus californicus,California Buttercup,Perennial,0.6,6-9,,LMH,SN,M,1,0,,Ranunculus kochii
+5,Ranunculus chinensis,Hui Hui Suan,Perennial,0.6,-,,LMH,SN,MWe,1,0,,Ranunculus kochii
+6,Ranunculus ficaria,"Lesser Celandine - Pilewort, Fig buttercup",Perennial,0.2,0-0,F,LMH,SN,M,1,2,3.0,Ranunculus kochii
+7,Ranunculus flammula,"Lesser Spearwort, Greater creeping spearwort",Perennial,0.6,4-8,,LMH,SN,MWeWa,0,1,,Ranunculus kochii
+8,Ranunculus hirtus,,Perennial,0.0,-,,LMH,SN,M,0,1,,Ranunculus kochii
+9,Ranunculus inamoeus,Graceful Buttercup,Perennial,0.3,-,,LMH,SN,M,1,0,,Ranunculus kochii
+10,Ranunculus japonicus,Mao Gen,Perennial,0.1,-,,LMH,SN,M,1,1,,Ranunculus kochii
+11,Ranunculus muricatus,"Rough-Seed Buttercup, Spinyfruit buttercup",Annual,0.3,0-0,,LMH,SN,M,0,1,,Ranunculus kochii
+12,Ranunculus nipponicus,,Perennial,0.0,-,,LMH,SN,WeWa,1,0,,Ranunculus kochii
+13,Ranunculus occidentalis,Western Buttercup,Perennial,0.6,-,,LMH,SN,M,1,0,,Ranunculus kochii
+14,Ranunculus pallasii,"Buttercup, Pallas' buttercup",Perennial,0.1,0-0,,LMH,SN,MWe,1,0,,Ranunculus kochii
+15,Ranunculus pennsylvanicus,Pennsylvania Buttercup,Annual/Perennial,1.0,-,,LMH,SN,MWe,1,1,2.0,Ranunculus kochii
+16,Ranunculus quelpaertensis,,Perennial,0.6,-,,LMH,SN,MWe,1,0,,Ranunculus kochii
+17,Ranunculus repens,"Creeping Buttercup, Prairie Double-flowered Buttercup, Water Buttercup, Creeping Buttercup",Perennial,0.3,3-8,F,LMH,SN,M,1,1,0.0,Ranunculus kochii
+18,Ranunculus reptans,Creeping Spearwort,Perennial,0.2,-,F,LMH,SN,MWe,1,0,,Ranunculus kochii
+19,Ranunculus rivularis,,Perennial,0.0,-,,LMH,SN,M,0,1,,Ranunculus kochii
+20,Ranunculus sceleratus,"Celery-Leaved Buttercup, Cursed buttercup",Perennial,0.6,0-0,,LMH,SN,MWeWa,1,1,1.0,Ranunculus kochii
+21,Ranunculus tachreoi,,Perennial,1.0,-,,LMH,SN,M,1,0,,Ranunculus kochii

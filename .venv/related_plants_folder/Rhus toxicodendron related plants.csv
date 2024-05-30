@@ -1,0 +1,23 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Rhus ambigua,,Climber,0.0,6-9,,LMH,SN,M,0,0,2,Rhus toxicodendron
+1,Rhus aromatica,"Lemon Sumach, Fragrant sumac",Shrub,1.2,3-9,S,LMH,N,DM,4,2,2,Rhus toxicodendron
+2,Rhus chinensis,"Chinese Gall, Chinese sumac",Tree,6.0,7-10,,LMH,N,M,2,3,2,Rhus toxicodendron
+3,Rhus copallina,"Dwarf Sumach, Winged sumac, Flameleaf Sumac, Winged Sumac, Shining Sumac",Shrub,2.0,4-10,F,LMH,N,DM,4,2,3,Rhus toxicodendron
+4,Rhus coriaria,"Elm-Leaved Sumach, Sicilian sumac",Shrub,3.0,8-11,,LMH,N,DM,2,1,2,Rhus toxicodendron
+5,Rhus diversiloba,"Western Poison Oak, Pacific poison oak",Shrub,2.5,4-8,,LMH,N,M,0,2,2,Rhus toxicodendron
+6,Rhus glabra,Smooth Sumach,Shrub,3.0,3-9,M,LMH,N,DM,4,3,3,Rhus toxicodendron
+7,Rhus integrifolia,"Lemonade Berry, Lemonade sumac",Shrub,2.0,8-10,M,LMH,N,DM,2,0,2,Rhus toxicodendron
+8,Rhus microphylla,"Desert Sumach, Littleleaf sumac",Shrub,2.0,8-11,,LMH,N,D,2,0,2,Rhus toxicodendron
+9,Rhus ovata,"Sugar Bush, Sugar sumac",Shrub,2.0,8-11,,LM,N,DM,2,1,2,Rhus toxicodendron
+10,Rhus potaninii,,Tree,12.0,4-8,,LMH,N,M,0,2,2,Rhus toxicodendron
+11,Rhus punjabensis,,Tree,12.0,5-9,,LMH,N,M,3,2,2,Rhus toxicodendron
+12,Rhus punjabensis sinica,,Tree,12.0,5-9,,LMH,N,M,3,2,2,Rhus toxicodendron
+13,Rhus radicans,Poison Ivy,Climber,2.5,4-8,F,LMH,N,M,0,1,2,Rhus toxicodendron
+14,Rhus sempervirens,,Shrub,3.5,-,,LMH,N,DM,2,1,2,Rhus toxicodendron
+15,Rhus succedanea,Wax Tree,Tree,9.0,4-9,,LMH,N,M,1,2,4,Rhus toxicodendron
+16,Rhus sylvestris,,Tree,10.0,-,,LMH,N,M,0,0,2,Rhus toxicodendron
+17,Rhus trichocarpa,,Tree,6.0,-,,LMH,N,M,0,0,2,Rhus toxicodendron
+18,Rhus trilobata,"Skunk Bush, Basketbush, Squawbush, Three Leaf Sumac",Shrub,1.8,4-6,M,LMH,N,DM,4,2,3,Rhus toxicodendron
+19,Rhus typhina,"Stag's Horn Sumach, Velvet Sumac, Staghorn Sumac",Shrub,6.0,4-8,F,LMH,N,DM,4,2,3,Rhus toxicodendron
+20,Rhus vernix,Poison Sumach,Shrub,3.0,3-7,,LMH,N,MWe,0,1,2,Rhus toxicodendron
+21,Rhus wallichii,,Tree,8.0,-,,LMH,N,M,0,1,2,Rhus toxicodendron

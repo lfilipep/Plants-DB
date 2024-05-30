@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Artemisia abrotanum,Southernwood,Shrub,1.2,4-8,,LMH,SN,DM,1,3,3.0,Artemisia tripartita
+1,Artemisia absinthium,"Wormwood, Absinthium.",Perennial,1.0,4-9,M,LM,SN,DM,1,3,2.0,Artemisia tripartita
+2,Artemisia annua,"Qing Hao, Sweet sagewort",Annual,3.0,6-9,F,LM,SN,DM,1,4,2.0,Artemisia tripartita
+3,Artemisia anomala,,Perennial,1.0,-,,LMH,SN,M,0,2,,Artemisia tripartita
+4,Artemisia argyi,,Perennial,1.5,-,,LM,SN,DM,0,2,,Artemisia tripartita
+5,Artemisia biennis,Biennial Wormwood,Annual/Biennial,1.0,0-0,,LM,SN,DM,1,1,1.0,Artemisia tripartita
+6,Artemisia campestris,Field Southernwood,Perennial,1.5,4-8,,LM,SN,DM,0,2,1.0,Artemisia tripartita
+7,Artemisia campestris glutinosa,,Perennial,1.5,-,,LM,SN,DM,0,0,1.0,Artemisia tripartita
+8,Artemisia capillaris,Yin Chen Hao,Shrub,0.5,6-9,,LM,SN,DM,1,3,,Artemisia tripartita
+9,Artemisia caruifolia,,Annual,1.0,-,,LM,SN,DM,1,3,1.0,Artemisia tripartita
+10,Artemisia cina,"Cina, Santonica",Shrub,1.0,0-0,,LM,S,DM,0,3,,Artemisia tripartita
+11,Artemisia dracunculoides,"Russian Tarragon, Tarragon, French Tarragon",Perennial,1.0,5-8,M,LM,SN,DM,2,1,1.0,Artemisia tripartita
+12,Artemisia dracunculus,"Tarragon, French Tarragon",Perennial,0.6,5-9,M,LM,SN,DM,4,2,3.0,Artemisia tripartita
+13,Artemisia filifolia,"Sand Sage, Sand sagebrush",Shrub,1.2,3-7,,LM,SN,DM,0,2,1.0,Artemisia tripartita
+14,Artemisia frigida,"Fringed Wormwood, Prairie sagewort",Perennial,0.3,3-10,,LM,N,DM,2,2,3.0,Artemisia tripartita
+15,Artemisia glacialis,Glacier Wormwood,Perennial,0.2,4-8,,LMH,N,DM,1,2,,Artemisia tripartita
+16,Artemisia gmelinii,"Russian Wormwood, Gmelin's wormwood",Perennial,1.5,3-7,,LMH,N,DM,1,1,2.0,Artemisia tripartita
+17,Artemisia indica,,Annual/Perennial,1.2,6-9,,LM,SN,DM,1,3,2.0,Artemisia tripartita
+18,Artemisia japonica,,Perennial,1.0,7-10,,LMH,SN,DM,1,2,1.0,Artemisia tripartita
+19,Artemisia keiskeana,,Perennial,0.6,-,,LMH,SN,DM,2,1,2.0,Artemisia tripartita
+20,Artemisia laciniata,Siberian wormwood,Perennial,0.0,0-0,,LMH,SN,DM,1,0,,Artemisia tripartita
+21,Artemisia lactiflora,White Mugwort,Perennial,1.5,4-8,S,LMH,SN,M,0,2,,Artemisia tripartita
+22,Artemisia lancea,,Perennial,1.2,-,,LMH,SN,DM,1,1,,Artemisia tripartita
+23,Artemisia ludoviciana,"White Sage, Louisiana Sage, Prairie Sage, Western Mugwort",Perennial,1.0,4-9,M,LM,SN,DM,2,2,2.0,Artemisia tripartita
+24,Artemisia ludoviciana gnaphalodes,White Sage,Perennial,1.0,4-8,,LM,SN,DM,0,2,1.0,Artemisia tripartita
+25,Artemisia maritima,Sea Wormwood,Shrub,0.6,6-9,,LM,N,DM,1,2,1.0,Artemisia tripartita
+26,Artemisia mexicana,Mexican White Sagebrush,Perennial,1.0,-,,LM,N,DM,0,1,,Artemisia tripartita
+27,Artemisia michauxiana,"Mountain Sagewort, Michaux's wormwood",Perennial,0.5,3-7,,LM,SN,DM,1,1,,Artemisia tripartita
+28,Artemisia monophylla,,Perennial,1.0,-,,LMH,SN,DM,1,0,,Artemisia tripartita
+29,Artemisia montana,,Perennial,1.8,-,,LMH,SN,DM,1,0,,Artemisia tripartita

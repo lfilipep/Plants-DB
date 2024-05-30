@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Malus angustifolia,"Southern Crab, Southern crab apple",Tree,7.0,3-8,M,LMH,SN,M,2,0,2.0,Malus pumila
+1,Malus baccata,"Chinese Crab, Siberian crab apple",Tree,15.0,2-7,M,LMH,SN,M,2,1,2.0,Malus pumila
+2,Malus baccata mandschurica,Manchurian Apple,Tree,7.0,0-0,,LMH,SN,M,4,0,2.0,Malus pumila
+3,Malus bracteata,,Tree,7.0,5-9,,LMH,SN,M,2,0,,Malus pumila
+4,Malus brevipes,,Tree,3.0,4-8,,LMH,SN,M,2,0,,Malus pumila
+5,Malus coronaria,"Garland Crab, Sweet crab apple",Tree,7.0,4-8,,LMH,SN,MWe,3,1,3.0,Malus pumila
+6,Malus domestica,Apple,Tree,9.0,3-8,,LMH,SN,M,5,2,4.0,Malus pumila
+7,Malus florentina,Hawthorn-leaf crab apple,Tree,8.0,4-8,,LMH,SN,MWe,2,0,,Malus pumila
+8,Malus floribunda,"Japanese Crab, Japanese flowering crab apple",Tree,10.0,4-7,M,LMH,SN,M,3,0,,Malus pumila
+9,Malus fusca,"Oregon Crab, Oregon crab apple",Tree,12.0,5-9,S,LMH,SN,M,3,2,2.0,Malus pumila
+10,Malus glabrata,,Tree,5.0,5-9,,LMH,SN,M,2,0,,Malus pumila
+11,Malus glaucescens,,Tree,5.0,4-8,,LMH,SN,M,2,0,1.0,Malus pumila
+12,Malus halliana,Hall crab apple,Tree,4.0,4-8,,LMH,SN,M,2,0,,Malus pumila
+13,Malus halliana spontanea,,Tree,4.0,4-8,,LMH,SN,M,2,0,,Malus pumila
+14,Malus hupehensis,"Chinese Crab, Chinese crab apple, Tea Crabapple, Flowering Tea Crabapple",Tree,7.0,4-8,M,LMH,SN,M,2,0,2.0,Malus pumila
+15,Malus ioensis,"Prairie Crab, Prairie crab apple, Texas crab apple, Prairie Crabapple",Tree,5.0,3-8,S,LMH,SN,M,2,0,2.0,Malus pumila
+16,Malus ioensis palmeri,Prairie Crab,Tree,5.0,-,,LMH,SN,M,2,0,,Malus pumila
+17,Malus kansuensis,,Tree,5.0,4-8,,LMH,SN,M,2,0,,Malus pumila
+18,Malus lancifolia,,Tree,6.0,4-8,,LMH,SN,M,2,0,1.0,Malus pumila
+19,Malus praecox,,Tree,0.0,-,,LMH,SN,M,2,0,,Malus pumila
+20,Malus prattii,Pratt apple,Tree,10.0,5-9,,LMH,SN,M,2,0,,Malus pumila
+21,Malus prunifolia,"Chinese Apple, Plumleaf crab apple",Tree,8.0,3-7,,LMH,SN,M,4,0,1.0,Malus pumila
+22,Malus prunifolia rinkii,Chinese Apple,Tree,8.0,3-7,,LMH,SN,M,3,0,,Malus pumila
+23,Malus pumila nervosa,Crab Apple,Tree,5.0,3-7,,LMH,SN,M,3,0,2.0,Malus pumila
+24,Malus pumila paradisiaca,Paradise Apple,Tree,5.0,3-7,,LMH,SN,M,3,0,2.0,Malus pumila
+25,Malus sargentii,"Sargent's apple, Sargent Crabapple",Shrub,4.0,4-8,S,LMH,SN,M,2,0,,Malus pumila
+26,Malus sieversii,Crabapple,Tree,8.0,4-10,,LMH,SN,M,3,0,0.0,Malus pumila
+27,Malus sikkimensis,,Tree,7.0,5-9,,LMH,SN,M,2,0,,Malus pumila
+28,Malus spectabilis,"Chinese Flowering Apple, Asiatic apple",Tree,9.0,4-8,,LMH,SN,M,3,0,,Malus pumila

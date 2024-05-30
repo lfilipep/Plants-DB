@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Adina rubella,,Shrub,1.8,-,,LMH,SN,M,0,1,,Rubia tinctorum
+1,Asperula cynanchica,Squinancy Wort,Perennial,0.4,4-8,,LMH,SN,DM,0,1,1.0,Rubia tinctorum
+2,Asperula tinctoria,Dyer's Woodruff,Perennial,0.3,4-8,,LMH,SN,DM,0,0,1.0,Rubia tinctorum
+3,Borojoa patinoi,Borojo,Tree,8.0,10-12,M,LMH,FS,M,4,2,0.0,Rubia tinctorum
+4,Carapichea ipecacuanha,Ipecac,Shrub,0.5,10-12,M,LMH,FS,M,0,4,0.0,Rubia tinctorum
+5,Cephalanthus occidentalis,"Button Bush, Common buttonbush, Button Willow, Honey Bells, Buttonbush",Shrub,7.0,4-10,,LMH,SN,MWe,0,2,1.0,Rubia tinctorum
+6,Chiococca alba,"West Indian Snow Berry, David's rot, Skunk-root, Snowberry.",Shrub,6.0,10-12,M,LMH,N,M,0,2,1.0,Rubia tinctorum
+7,Ciliosemina pedunculata,Ciliosemina,Shrub,3.0,10-12,,LMH,N,M,0,4,0.0,Rubia tinctorum
+8,Cinchona calisaya,"Peruvian Bark, Quinine",Tree,6.0,10-12,M,LM,SN,M,2,5,2.0,Rubia tinctorum
+9,Cinchona officinalis,Lojabark,Tree,8.0,10-12,M,LM,SN,M,2,5,2.0,Rubia tinctorum
+10,Cinchona pubescens,"Quinine tree, Red Bark, Cinchona, Quina, Quinquina, Quinine Bark, Peruvian Bark, Jesuit's Bark",Tree,15.0,10-12,F,LM,SN,M,2,5,2.0,Rubia tinctorum
+11,Coffea arabica,Coffee Arabica,Shrub,6.0,9-11,M,MH,SN,M,3,3,3.0,Rubia tinctorum
+12,Coprosma acerosa,Sand Coprosma,Shrub,0.5,7-10,,LM,SN,M,2,0,1.0,Rubia tinctorum
+13,Coprosma areolata,,Shrub,5.0,8-11,,LM,SN,M,1,0,1.0,Rubia tinctorum
+14,Coprosma atropurpurea,,Shrub,0.1,6-9,,LM,SN,M,1,0,1.0,Rubia tinctorum
+15,Coprosma billardieri,Native Currant,Shrub,3.0,8-11,,LM,SN,M,1,0,1.0,Rubia tinctorum
+16,Coprosma brunnea,,Shrub,0.1,7-10,,LM,SN,M,2,0,3.0,Rubia tinctorum
+17,Coprosma foetidissima,,Shrub,5.0,8-11,,LM,SN,M,1,0,1.0,Rubia tinctorum
+18,Coprosma grandifolia,,Shrub,5.0,8-11,,LM,SN,M,1,1,1.0,Rubia tinctorum
+19,Coprosma hirtella,Rough Coprosma,Shrub,2.0,8-11,,LM,SN,M,1,0,1.0,Rubia tinctorum
+20,Coprosma lucida,,Shrub,5.0,7-10,,LM,SN,M,2,0,1.0,Rubia tinctorum
+21,Coprosma moorei,,Shrub,0.1,8-11,,LM,SN,M,1,0,1.0,Rubia tinctorum
+22,Coprosma nitida,,Shrub,2.0,7-10,,LM,SN,M,2,0,1.0,Rubia tinctorum
+23,Coprosma petriei,,Shrub,0.1,6-9,,LM,SN,M,1,0,3.0,Rubia tinctorum
+24,Coprosma propinqua,,Shrub,6.0,6-9,,LM,SN,M,1,0,2.0,Rubia tinctorum
+25,Coprosma pumila,,Shrub,0.1,6-9,,LM,SN,M,1,0,1.0,Rubia tinctorum
+26,Coprosma repens,"Mirror Plant, Creeping mirrorplant",Shrub,2.0,8-11,,LM,SN,M,1,0,1.0,Rubia tinctorum
+27,Coprosma rhamnoides,,Shrub,2.0,7-10,,LM,SN,M,1,0,1.0,Rubia tinctorum
+28,Coprosma robusta,,Shrub,5.0,8-11,,LM,SN,M,1,1,1.0,Rubia tinctorum
+29,Coprosma rotundifolia,,Shrub,2.4,8-11,,LM,SN,M,1,0,1.0,Rubia tinctorum

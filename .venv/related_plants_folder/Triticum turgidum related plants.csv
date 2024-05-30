@@ -1,0 +1,18 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Triticum aestivum,"Bread Wheat, Common wheat",Annual,1.5,10-12,,LMH,N,M,4,2,2,Triticum turgidum
+1,Triticum aestivum compactum,Club Wheat,Annual,0.6,-,,LMH,N,M,2,0,3,Triticum turgidum
+2,Triticum aestivum macha,Makha Wheat,Annual,0.0,-,,LMH,N,M,2,0,3,Triticum turgidum
+3,Triticum aestivum spelta,Spelt Wheat,Annual,1.0,-,,LMH,N,M,4,0,3,Triticum turgidum
+4,Triticum aestivum sphaerococcum,Shot Wheat,Annual,0.0,-,,LMH,N,M,2,0,3,Triticum turgidum
+5,Triticum bicorne,,Annual,0.0,-,,LMH,N,M,2,0,3,Triticum turgidum
+6,Triticum georgicum,,Annual,0.0,-,,LMH,N,M,2,0,3,Triticum turgidum
+7,Triticum monococcum,Einkorn,Annual,1.0,-,,LMH,N,DM,3,0,3,Triticum turgidum
+8,Triticum monococcum aegilopoides,Wild Einkorn,Annual,1.0,-,,LMH,N,M,2,0,3,Triticum turgidum
+9,Triticum sovieticum,,Annual,0.0,-,,LMH,N,M,2,0,3,Triticum turgidum
+10,Triticum timopheevii,"Sanduri, Timopheev's wheat",Annual,0.0,0-0,,LMH,N,M,2,0,3,Triticum turgidum
+11,Triticum turgidum carthlicum,Persian Wheat,Annual,0.0,-,,LMH,N,M,2,0,3,Triticum turgidum
+12,Triticum turgidum dicoccoides,Wild Emmer,Annual,1.0,-,,LMH,N,M,2,0,3,Triticum turgidum
+13,Triticum turgidum dicoccon,Emmer,Annual,0.0,-,,LMH,N,DM,3,0,3,Triticum turgidum
+14,Triticum turgidum durum,Durum Wheat,Annual,1.0,10-12,,LMH,N,M,3,0,2,Triticum turgidum
+15,Triticum turgidum polonicum,Polish Wheat,Annual,1.3,-,,LMH,N,M,3,0,3,Triticum turgidum
+16,Triticum turgidum turanicum,Khurasan Wheat,Annual,1.2,-,,LMH,N,M,2,0,3,Triticum turgidum

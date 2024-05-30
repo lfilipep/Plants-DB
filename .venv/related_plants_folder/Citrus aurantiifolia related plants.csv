@@ -1,0 +1,9 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Citrus aurantium,"Bitter Orange, Sour orange, Bergamot orange",Tree,9.0,8-11,,MH,N,M,3,3,4.0,Citrus aurantiifolia
+1,Citrus hystrix,Kaffir Lime,Shrub,6.0,9-12,M,LMH,N,M,3,2,3.0,Citrus aurantiifolia
+2,Citrus ichangensis,Ichang Papeda,Shrub,4.5,7-10,,LMH,N,M,2,2,,Citrus aurantiifolia
+3,Citrus latifolia,Citrus Tahitian Lime,Tree,5.0,9-11,M,LMH,S,M,4,2,2.0,Citrus aurantiifolia
+4,Citrus limon,Lemon,Shrub,3.0,8-11,M,MH,N,M,4,5,5.0,Citrus aurantiifolia
+5,Citrus reticulata,"Mandarin, Tangerine, Unshu orange, Satsuma Orange,Temple Orange, Tangerine",Tree,4.5,9-11,,MH,N,M,3,3,2.0,Citrus aurantiifolia
+6,Citrus sinensis,Sweet Orange,Tree,9.0,9-11,,MH,N,M,4,3,3.0,Citrus aurantiifolia
+7,Citrus x meyeri,Lemon,Shrub,3.0,8-11,M,MH,N,M,3,5,5.0,Citrus aurantiifolia

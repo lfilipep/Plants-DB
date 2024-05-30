@@ -1,0 +1,14 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Liriodendron tulipifera,"Tulip Tree, Tulip Poplar, Yellow Poplar, Canary Whitewood",Tree,30.0,4-9,M,LMH,N,M,1,2,3.0,Magnolia kobus
+1,Magnolia acuminata,"Cucumber Tree, Cucumber Magnolia",Tree,20.0,3-8,M,LMH,SN,M,0,3,2.0,Magnolia kobus
+2,Magnolia campbellii,,Tree,20.0,7-10,,LMH,SN,M,0,0,2.0,Magnolia kobus
+3,Magnolia denudata,"Lily Tree, Yulan Magnolia",Tree,10.0,5-9,S,LMH,SN,M,1,2,,Magnolia kobus
+4,Magnolia dodecapetala,Bwapen mawon,Tree,35.0,10-12,S,LMH,N,M,0,0,4.0,Magnolia kobus
+5,Magnolia grandiflora,"Southern Magnolia, Bull Bay, Large-flowered Magnolia, Southern Magnolia",Tree,10.0,6-10,M,LMH,SN,M,2,2,3.0,Magnolia kobus
+6,Magnolia hypoleuca,Whitebark Magnolia,Tree,15.0,5-9,M,LMH,SN,M,2,2,2.0,Magnolia kobus
+7,Magnolia liliiflora,"Mu-Lan, Woody Orchid, Lily Magnolia",Shrub,3.0,4-9,M,LMH,SN,M,0,3,,Magnolia kobus
+8,Magnolia macrophylla,Bigleaf Magnolia,Tree,10.0,5-8,S,LMH,SN,M,0,1,2.0,Magnolia kobus
+9,Magnolia officinalis,Hou Po,Tree,20.0,7-10,,LMH,SN,M,0,3,2.0,Magnolia kobus
+10,Magnolia stellata,Star Magnolia,Shrub,5.0,4-8,S,LMH,SN,M,1,0,,Magnolia kobus
+11,Magnolia virginiana,"Laurel Magnolia, Sweetbay",Tree,10.0,4-8,S,LMH,SN,M,1,3,2.0,Magnolia kobus
+12,Michelia figo,"Banana Shrub, Michelia",Shrub,5.0,8-10,M,LMH,SN,M,1,0,,Magnolia kobus

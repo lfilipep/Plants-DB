@@ -1,0 +1,13 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Ulmus alata,Winged Elm,Tree,15.0,6-9,F,LMH,SN,M,2,0,2.0,Ulmus japonica
+1,Ulmus americana,"American Elm, Gray Elm, Water Elm",Tree,25.0,3-9,M,LMH,SN,M,2,2,3.0,Ulmus japonica
+2,Ulmus davidiana,Japanese Elm,Tree,15.0,4-8,,LMH,SN,M,2,0,1.0,Ulmus japonica
+3,Ulmus glabra,"Wych Elm, Table-top Scotch Elm, Scotch Elm",Tree,30.0,5-7,F,LMH,SN,M,3,2,2.0,Ulmus japonica
+4,Ulmus laciniata,,Tree,10.0,4-8,,LMH,SN,M,2,0,,Ulmus japonica
+5,Ulmus macrocarpa,,Tree,10.0,4-8,,LMH,SN,DM,2,1,1.0,Ulmus japonica
+6,Ulmus parvifolia,"Chinese Elm, Lacebark Elm",Tree,18.0,5-10,M,LMH,SN,M,2,1,2.0,Ulmus japonica
+7,Ulmus procera,English Elm,Tree,35.0,5-9,F,LMH,SN,M,3,2,3.0,Ulmus japonica
+8,Ulmus pumila,"Siberian Elm, Hybrid elm",Tree,15.0,4-9,F,LMH,SN,DM,2,2,3.0,Ulmus japonica
+9,Ulmus rubra,Slippery Elm,Tree,20.0,3-7,M,LMH,SN,M,2,5,3.0,Ulmus japonica
+10,Ulmus thomasii,Rock Elm,Tree,30.0,-,S,LMH,SN,M,1,0,2.0,Ulmus japonica
+11,Ulmus villosa,Cherry Bark Elm,Tree,25.0,4-8,,LMH,SN,M,1,0,2.0,Ulmus japonica

@@ -1,0 +1,15 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Beta trigyna,Beet,Perennial,0.9,0-0,,LMH,N,M,2,0,,Beta lomatogona
+1,Beta vulgaris altissima,Sugar Beet,Biennial,1.5,4-8,,LMH,N,M,4,2,3.0,Beta lomatogona
+2,Beta vulgaris cicla,Spinach Beet,Biennial,0.9,4-8,,LMH,N,M,4,2,,Beta lomatogona
+3,Beta vulgaris craca,Beetroot,Biennial,0.9,4-8,,LMH,N,M,4,2,,Beta lomatogona
+4,Beta vulgaris flavescens,Swiss Chard,Biennial,0.9,4-8,,LMH,N,M,4,2,2.0,Beta lomatogona
+5,Beta vulgaris maritima,Sea Beet,Annual/Perennial,1.2,4-8,,LMH,N,M,2,2,,Beta lomatogona
+6,Castanopsis tibetana,,Tree,0.0,-,,MH,S,M,2,0,,Beta lomatogona
+7,Clematis tibetana,,Climber,4.0,5-9,,LMH,SN,M,0,2,,Beta lomatogona
+8,Corylus ferox,"Himalayan Hazel, Tibetan hazelnut",Tree,10.0,7-10,,LMH,SN,M,2,0,2.0,Beta lomatogona
+9,Cotoneaster conspicuus,"Tibetan Cotoneaster, Cotoneaster",Shrub,3.0,6-8,M,LMH,SN,DM,0,0,3.0,Beta lomatogona
+10,Cyphomandra betacea,Tree Tomato,Tree,5.0,8-11,F,LMH,N,M,3,0,,Beta lomatogona
+11,Hippophae tibetana,Tibetan Sea Buckthorn,Tree,15.0,7-10,F,LMH,N,DMWe,4,3,1.0,Beta lomatogona
+12,Rubus thibetanus,,Shrub,2.5,5-9,M,LMH,SN,M,2,0,1.0,Beta lomatogona
+13,Sorbus thibetica,Tibetan whitebeam,Tree,20.0,5-9,,LMH,SN,M,3,0,0.0,Beta lomatogona

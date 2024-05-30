@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Quercus × schuettei,Schuette's oak,Tree,18.0,4-8,F,MH,N,MWe,3,0,3,Quercus falcata
+1,Quercus acuta,Japanese Evergreen Oak,Tree,25.0,6-9,M,MH,SN,M,2,2,2,Quercus falcata
+2,Quercus acutissima,Sawthorn Oak,Tree,5.0,5-9,M,MH,SN,M,2,2,3,Quercus falcata
+3,Quercus agrifolia,"Encina, California live oak, Coast Live Oak",Tree,15.0,8-11,S,MH,SN,M,3,2,2,Quercus falcata
+4,Quercus alba,"White Oak, Hybrid oak",Tree,20.0,3-9,S,MH,SN,DM,3,2,4,Quercus falcata
+5,Quercus aliena,Oriental White Oak,Tree,20.0,4-8,,MH,SN,M,2,2,2,Quercus falcata
+6,Quercus aucheri,Boz-Pirnal Oak,Shrub,5.0,7-10,S,MH,SN,DM,4,2,1,Quercus falcata
+7,Quercus bicolor,Swamp White Oak,Tree,25.0,4-8,M,MH,SN,MWe,4,2,3,Quercus falcata
+8,Quercus brantii,"Barro, Brant's oak",Tree,8.0,7-9,F,LMH,N,DM,3,2,3,Quercus falcata
+9,Quercus cerris,"Turkey Oak, European turkey oak",Tree,35.0,5-9,F,MH,SN,M,3,2,2,Quercus falcata
+10,Quercus chrysolepis,"Live Oak, Canyon live oak",Tree,25.0,8-11,S,MH,SN,M,2,2,2,Quercus falcata
+11,Quercus coccifera,Kermes Oak,Shrub,4.0,5-9,,MH,SN,M,3,2,3,Quercus falcata
+12,Quercus coccinea,Scarlet Oak,Tree,25.0,4-8,M,MH,SN,M,2,2,3,Quercus falcata
+13,Quercus dentata,"Japanese Emperor Oak, Daimyo oak",Tree,20.0,4-8,F,MH,SN,M,2,2,2,Quercus falcata
+14,Quercus douglasii,Blue Oak,Tree,12.0,8-11,S,MH,SN,DM,3,2,4,Quercus falcata
+15,Quercus durata,"California Scrub Oak, Leather oak",Shrub,4.0,7-10,,MH,SN,M,2,2,2,Quercus falcata
+16,Quercus ellipsoidalis,Northern Pin Oak,Tree,20.0,4-6,M,MH,SN,M,2,2,3,Quercus falcata
+17,Quercus emoryi,"Black Oak, Emory oak",Tree,12.0,6-9,S,MH,SN,M,3,2,3,Quercus falcata
+18,Quercus engelmannii,"Evergreen Oak, Engelmann oak, Mesa Oak",Tree,10.0,8-11,M,MH,SN,M,2,2,3,Quercus falcata
+19,Quercus floribunda,,Tree,0.0,-,,MH,SN,M,2,2,3,Quercus falcata
+20,Quercus frainetto,"Hungarian Oak, Italian Oak, Forest Green Oak",Tree,30.0,5-8,F,MH,SN,M,4,2,2,Quercus falcata
+21,Quercus fruticosa,"Gall Oak, Lusitanian Oak",Shrub,2.0,7-10,,MH,N,M,3,2,2,Quercus falcata
+22,Quercus gambelii,"Shin Oak, Gambel oak, Rocky Mountain White Oak",Shrub,4.5,4-8,S,MH,SN,DM,3,2,3,Quercus falcata
+23,Quercus garryana,"Oregon White Oak, Garry Oak",Tree,18.0,7-9,S,MH,SN,M,2,2,3,Quercus falcata
+24,Quercus glauca,"Ring-cup oak , Ring Cupped Oak, Blue Japanese Oak",Tree,15.0,8-9,S,MH,SN,M,3,2,3,Quercus falcata
+25,Quercus hispanica,,Tree,20.0,6-9,,MH,SN,M,3,2,3,Quercus falcata
+26,Quercus ilex,"Holly Oak, Evergreen Oak",Tree,25.0,7-10,S,LMH,SN,M,5,2,3,Quercus falcata
+27,Quercus ilex ballota,Holm Oak,Tree,25.0,6-9,S,LMH,SN,M,5,2,3,Quercus falcata
+28,Quercus imbricaria,"Shingle Oak, Northern Laurel Oak",Tree,20.0,4-8,M,MH,SN,M,2,2,3,Quercus falcata

@@ -1,0 +1,13 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Diospyros celebica,"Indonesian Ebony, black ebony, makassar-ebenholts",Tree,30.0,10-12,S,LMH,N,M,2,0,4,Diospyros lotus
+1,Diospyros conzattii,"Zapote negro mont's, zapotillo.",Tree,10.0,10-12,S,LMH,N,DM,4,0,2,Diospyros lotus
+2,Diospyros crassiflora,Benin Ebony,Tree,15.0,10-12,S,LMH,N,M,0,2,4,Diospyros lotus
+3,Diospyros digyna,"Black Sapote, Chocolate Pudding Tree",Tree,15.0,10-12,S,LMH,SN,M,4,1,2,Diospyros lotus
+4,Diospyros ebenum,"Ebony, Ceylon Ebony, Mauritius Ebony, Ebony Persimmon",Tree,20.0,10-12,S,LMH,N,M,1,2,4,Diospyros lotus
+5,Diospyros kaki,"Persimmon, Japanese persimmon",Tree,12.0,7-10,M,LMH,SN,M,4,3,3,Diospyros lotus
+6,Diospyros malabarica,"Indian Persimmon, Gaub, Timbiri, Mountain ebony",Tree,35.0,10-12,S,LMH,FSN,M,1,3,4,Diospyros lotus
+7,Diospyros mespiliformis,"West African Ebony, Monkey guava, jackalberry",Tree,20.0,10-12,M,LMH,N,M,4,3,4,Diospyros lotus
+8,Diospyros mun,"Mun Ebony, Vietnamese Ebony",Tree,15.0,10-12,S,LMH,N,DM,0,0,4,Diospyros lotus
+9,Diospyros quaesita,"Calamander, kalu mediriya",Tree,30.0,10-12,S,LMH,N,DM,0,2,4,Diospyros lotus
+10,Diospyros tessellaria,"Black ebony, Mauritian ebony",Tree,15.0,10-12,S,LMH,N,M,2,0,4,Diospyros lotus
+11,Diospyros texanum,Black Persimmon,Tree,12.0,-,,LMH,SN,M,2,0,3,Diospyros lotus

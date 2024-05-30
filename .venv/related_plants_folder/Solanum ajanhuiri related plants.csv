@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Solanum aethiopicum,"Mock Tomato, Ethiopian nightshade",Shrub,2.5,10-12,,LMH,N,M,3,2,2.0,Solanum ajanhuiri
+1,Solanum americanum,"American Nightshade, American black nightshade",Annual,1.0,0-0,,LMH,N,M,1,0,0.0,Solanum ajanhuiri
+2,Solanum andigenum,Andigena,Perennial,0.0,-,,LMH,N,M,2,0,,Solanum ajanhuiri
+3,Solanum aviculare,"Kangaroo Apple, New Zealand nightshade",Shrub,1.8,8-11,,LMH,N,M,2,2,2.0,Solanum ajanhuiri
+4,Solanum boreale,,Perennial,0.0,-,,LMH,N,M,1,0,,Solanum ajanhuiri
+5,Solanum boyacense,,Perennial,0.0,-,,LMH,N,M,1,0,,Solanum ajanhuiri
+6,Solanum cari,,Perennial,0.0,-,,LMH,SN,M,1,0,,Solanum ajanhuiri
+7,Solanum carolinense,"Horse Nettle, Carolina horsenettle",Perennial,1.0,3-7,,LMH,SN,M,0,2,1.0,Solanum ajanhuiri
+8,Solanum chaucha,Chaucha,Perennial,0.0,-,,LMH,SN,M,1,0,,Solanum ajanhuiri
+9,Solanum curtilobum,Rucki,Perennial,0.0,-,,LMH,SN,M,2,0,,Solanum ajanhuiri
+10,Solanum dulcamara,"Bittersweet. Bittersweet Nightshade, Climbing nightshade, Bittersweet, Deadly Nightshade, Poisonous",Perennial Climber,2.5,4-8,M,LMH,SN,M,0,3,0.0,Solanum ajanhuiri
+11,Solanum fendleri,"Wild Potato, Fendler's horsenettle, Texan horsenettle",Perennial,0.0,0-0,,LMH,N,M,3,2,,Solanum ajanhuiri
+12,Solanum jamesii,"Colorado Wild Potato, Wild potato",Perennial,0.2,8-11,,LMH,N,M,2,0,,Solanum ajanhuiri
+13,Solanum juzepczukii,Rucki,Perennial,0.0,-,,LMH,SN,M,2,0,,Solanum ajanhuiri
+14,Solanum kurzii,,Perennial,0.0,-,,LMH,SN,M,1,0,,Solanum ajanhuiri
+15,Solanum laciniatum,Kangaroo Apple,Shrub,3.0,8-11,,LMH,N,M,2,2,2.0,Solanum ajanhuiri
+16,Solanum linearifolium,Mountain Kangaroo Apple,Shrub,0.0,-,,LMH,N,M,2,0,,Solanum ajanhuiri
+17,Solanum liximitante,,Perennial,0.0,-,,LMH,SN,M,1,0,,Solanum ajanhuiri
+18,Solanum luteum,,Annual,0.0,-,,LMH,SN,M,1,0,,Solanum ajanhuiri
+19,Solanum lycopersicum,"Tomato, Garden Tomato",Annual,2.0,10-12,F,LMH,N,M,5,3,3.0,Solanum ajanhuiri
+20,Solanum lyratum,,Perennial Climber,2.0,-,,LMH,N,M,1,2,,Solanum ajanhuiri
+21,Solanum maglia,,Perennial,0.0,-,,LMH,N,M,2,0,,Solanum ajanhuiri
+22,Solanum melongena,"Aubergine, Eggplant",Perennial,1.0,8-11,,LMH,N,M,3,2,,Solanum ajanhuiri
+23,Solanum muricatum,Pepino,Shrub,1.0,8-11,,LMH,N,M,4,0,0.0,Solanum ajanhuiri
+24,Solanum nigrum,"Black Nightshade, Common Nightshade, Poisonberry, Black Nightshade",Annual,0.6,0-0,,LMH,N,DM,2,2,2.0,Solanum ajanhuiri
+25,Solanum paniculatum,"Jurubeba, Nightshade",Shrub,2.0,10-12,F,LMH,SN,M,0,4,0.0,Solanum ajanhuiri
+26,Solanum phureja,"Phureja, Nightshade",Perennial,0.0,8-11,,LMH,SN,M,3,0,,Solanum ajanhuiri
+27,Solanum piliferum,,Perennial,0.0,-,,LMH,N,M,2,0,,Solanum ajanhuiri
+28,Solanum pimpinellifolium,Currant Tomato,Annual/Biennial,1.0,10-12,F,LMH,N,M,4,2,2.0,Solanum ajanhuiri

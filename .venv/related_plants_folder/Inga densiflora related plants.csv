@@ -1,0 +1,22 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Annona vepretorum,"Araticum, Pinha da Caatinga, Araticum-da-bahia",Tree,6.0,10-12,S,LMH,N,D,4,0,2.0,Inga densiflora
+1,Archidendron jiringa,"Jengkol, Jiringa",Tree,20.0,10-12,M,LMH,SN,M,4,2,2.0,Inga densiflora
+2,Cacalia pseudo-taimingasa,,Perennial,0.0,-,,LMH,FS,M,1,0,,Inga densiflora
+3,Cyperus longus,Galingale,Perennial,1.2,6-9,F,LMH,N,MWeWa,2,1,3.0,Inga densiflora
+4,Drepanostachyum falcatum,Ringal,Bamboo,3.5,7-10,S,LM,S,M,2,0,3.0,Inga densiflora
+5,Guibourtia pellegriana,"Akume, Bubinga, Waka",Tree,25.0,10-12,S,LMH,N,M,0,0,4.0,Inga densiflora
+6,Guibourtia tessmannii,"Bubinga, Kevazingo",Tree,50.0,10-12,S,LMH,N,M,0,0,4.0,Inga densiflora
+7,Inga cinnamomea,"Inga Assu, Inga Acu",Tree,12.0,10-12,F,LMH,N,M,4,0,3.0,Inga densiflora
+8,Inga edulis,"Ice Cream Bean, Monkey Tamarind",Tree,18.0,9-12,F,LMH,SN,DMWe,4,2,3.0,Inga densiflora
+9,Inga insignis,Guaba de zorro,Tree,8.0,10-12,M,LMH,SN,DM,4,0,0.0,Inga densiflora
+10,Inga jinicuil,"Ice Cream Bean, Jinicuil",Tree,20.0,10-12,F,LMH,N,M,4,0,1.0,Inga densiflora
+11,Inga vera,"Ice cream bean, River koko, Guaba, Pois Doux",Tree,15.0,10-12,F,MH,N,M,2,2,3.0,Inga densiflora
+12,Microberlinia bisulcata,Zingana,Tree,35.0,10-12,F,LM,N,M,0,0,4.0,Inga densiflora
+13,Microberlinia brazzavillensis,Zingana,Tree,35.0,10-12,F,LMH,N,M,0,0,4.0,Inga densiflora
+14,Mimosa scabrella,"abaracaatinga, bracaatinga, bracatinga",Tree,10.0,10-12,F,LMH,N,MWe,0,0,4.0,Inga densiflora
+15,Moringa oleifera,"Horseradish Tree, Moringa,",Tree,8.0,10-12,F,LMH,N,,4,4,5.0,Inga densiflora
+16,Moringa peregrina,Moringa,Tree,8.0,10-12,M,LMH,N,DM,2,2,3.0,Inga densiflora
+17,Moringa stenopetala,"African horseradish tree, cabbagetree",Tree,9.0,10-12,M,LMH,SN,DM,4,3,4.0,Inga densiflora
+18,Sphagneticola trilobata,Singapore daisy,Perennial,0.4,9-11,F,LMH,SN,DM,0,2,2.0,Inga densiflora
+19,Syringa josikaea,Hungarian Lilac,Shrub,4.0,2-7,M,LMH,N,M,0,0,3.0,Inga densiflora
+20,Syringa vulgaris,"Lilac, Common lilac",Shrub,6.0,3-7,M,LMH,N,M,1,1,3.0,Inga densiflora

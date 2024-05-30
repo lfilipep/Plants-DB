@@ -1,0 +1,20 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Asarum europaeum,"Asarabacca, European Wild Ginger",Perennial,0.1,4-8,S,LMH,FS,M,0,2,3.0,Acca sellowiana
+1,Asarum shuttleworthii,"Asarabacca, Mottled Wild Ginger",Perennial,0.1,5-9,F,LMH,FS,M,2,0,2.0,Acca sellowiana
+2,Atriplex saccaria,Sack Saltbush,Annual,0.3,-,,LM,N,DM,2,0,,Acca sellowiana
+3,Atriplex semibaccata,"Australian Saltbush. Australian saltbush, Creeping saltbush",Shrub,0.5,9-11,F,LMH,N,DM,2,0,3.0,Acca sellowiana
+4,Capsicum baccatum,"Locoto, Aji",Perennial,2.0,8-11,,LMH,N,M,3,3,1.0,Acca sellowiana
+5,Gaylussacia baccata,Black Huckleberry,Shrub,1.0,5-9,,LMH,SN,DM,4,1,0.0,Acca sellowiana
+6,Malus baccata,"Chinese Crab, Siberian crab apple",Tree,15.0,2-7,M,LMH,SN,M,2,1,2.0,Acca sellowiana
+7,Malus baccata mandschurica,Manchurian Apple,Tree,7.0,0-0,,LMH,SN,M,4,0,2.0,Acca sellowiana
+8,Petiveria alliacea,Guinea Hen Weed,Perennial,1.0,9-12,F,LMH,SN,M,0,4,3.0,Acca sellowiana
+9,Phytolacca acinosa,Indian Poke,Perennial,1.5,7-10,,LMH,SN,M,2,3,1.0,Acca sellowiana
+10,Phytolacca americana,"Pokeweed, American pokeweed, Garnet, Pigeon Berry, Poke",Perennial,2.0,4-8,F,LMH,SN,M,3,3,2.0,Acca sellowiana
+11,Phytolacca dioica,Bella Sombra,Tree,4.0,8-11,,LMH,SN,M,2,0,1.0,Acca sellowiana
+12,Phytolacca dodecandra,"Endod, Pokeberry",Shrub,4.0,10-12,M,LMH,FSN,DM,2,3,4.0,Acca sellowiana
+13,Phytolacca esculenta,,Perennial,1.0,5-9,,LMH,SN,M,2,2,1.0,Acca sellowiana
+14,Salacca zalacca,"Salak Palm, Snake Palm",Shrub,4.0,10-12,F,LM,SN,M,5,0,3.0,Acca sellowiana
+15,Tacca leontopetaloides,"Polynesian Arrowroot, Pia",Perennial,1.0,8-12,F,LMH,SN,M,4,2,3.0,Acca sellowiana
+16,Taxus baccata,"Yew, English yew, Common Yew",Tree,15.0,5-7,S,LMH,FSN,DM,3,4,4.0,Acca sellowiana
+17,Vaccaria hispanica,"Cow Cockle, Cow soapwort",Annual,0.6,0-0,,LMH,N,M,1,3,0.0,Acca sellowiana
+18,Vicia cracca,"Tufted Vetch, Bird vetch, Cow vetch",Perennial Climber,1.8,4-8,,LMH,SN,M,1,1,3.0,Acca sellowiana

@@ -1,0 +1,14 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Diospyros lotus,Date Plum,Tree,9.0,7-9,M,LMH,SN,M,5,1,2.0,Lotus halophilus
+1,Lotus corniculatus,Bird's Foot Trefoil,Perennial,0.3,3-8,M,LMH,N,DM,1,1,4.0,Lotus halophilus
+2,Lotus edulis,,Annual,0.1,-,,LM,N,DM,3,0,,Lotus halophilus
+3,Lotus tetragonolobus,"Asparagus Pea, Winged pea",Annual,0.3,0-0,,LMH,N,DM,3,0,,Lotus halophilus
+4,Lotus uliginosus,Greater Bird's Foot Trefoil,Perennial,0.4,5-9,,LMH,N,MWe,0,0,3.0,Lotus halophilus
+5,Melilotus albus,White Melilot,Annual/Biennial,1.2,-,F,LMH,N,DM,2,2,3.0,Lotus halophilus
+6,Melilotus altissimus,"Tall Melilot, Tall yellow sweetclover",Biennial/Perennial,1.2,0-0,,LMH,SN,DM,2,0,1.0,Lotus halophilus
+7,Melilotus elegans,Elegant sweetclover,Annual,1.5,0-0,,LMH,N,DM,1,0,,Lotus halophilus
+8,Melilotus indicus,Annual Yellow Sweetclover,Annual,1.0,5-9,,LMH,N,DM,1,2,1.0,Lotus halophilus
+9,Melilotus officinalis,"Melilot, Sweetclover",Annual/Biennial,1.2,0-0,,LMH,N,DM,2,3,3.0,Lotus halophilus
+10,Melilotus suaveolens,Sweetclover,Annual/Biennial,1.0,0-0,,LMH,N,DM,1,1,,Lotus halophilus
+11,Melilotus wolgicus,Sweetclover,Biennial,1.2,0-0,,LMH,N,DM,1,0,,Lotus halophilus
+12,Nelumbo lutea,"American Water Lotus, American lotus",Perennial,1.8,4-8,,LMH,N,Wa,4,1,0.0,Lotus halophilus

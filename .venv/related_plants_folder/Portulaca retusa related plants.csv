@@ -1,0 +1,26 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Calandrinia balonensis,,Annual/Perennial,0.1,-,,L,N,DM,2,0,,Portulaca retusa
+1,Calandrinia ciliata,"Redmaids, Fringed redmaids",Annual,0.3,0-0,,LM,N,DM,2,0,0.0,Portulaca retusa
+2,Calandrinia ciliata menziesii,Redmaids,Annual,0.1,-,,L,N,DM,2,0,,Portulaca retusa
+3,Calandrinia polyandra,Parakeelya,Annual/Perennial,0.1,-,,LM,N,DM,2,0,,Portulaca retusa
+4,Calandrinia remota,,Annual/Perennial,0.1,-,,L,N,DM,2,0,,Portulaca retusa
+5,Claytonia acutifolia,Bering Sea Spring Beauty,Perennial,0.2,-,,LM,N,M,3,0,,Portulaca retusa
+6,Claytonia caroliniana,"Broad-Leaved Spring Beauty, Carolina springbeauty",Perennial,0.1,5-9,,LM,N,M,3,0,1.0,Portulaca retusa
+7,Claytonia exigua,"Pale Spring Beauty, Serpentine springbeauty",Annual,0.1,0-0,,LMH,FSN,DM,2,0,,Portulaca retusa
+8,Claytonia lanceolata,"Lanceleaf Spring Beauty, Idaho springbeauty, Pacific springbeauty, Peirson's springbeauty",Perennial,0.2,4-8,,LM,N,M,3,0,,Portulaca retusa
+9,Claytonia megarhiza,Alpine Spring Beauty,Perennial,0.2,4-8,,LM,N,M,3,0,,Portulaca retusa
+10,Claytonia perfoliata,Miner's Lettuce,Annual,0.2,6-10,,LMH,FSN,DM,4,1,2.0,Portulaca retusa
+11,Claytonia scammaniana,"Scamman's Claytonia, Scamman's springbeauty",Perennial,0.2,0-0,,LM,N,M,2,0,,Portulaca retusa
+12,Claytonia sibirica,"Pink Purslane, Siberian springbeauty",Annual/Perennial,0.2,3-7,,LMH,FSN,DM,4,1,3.0,Portulaca retusa
+13,Claytonia tuberosa,Tuberous Spring Beauty,Perennial,0.2,4-8,,LM,N,M,3,0,,Portulaca retusa
+14,Claytonia umbellata,Great Basin Spring Beauty,Perennial,0.2,-,,LM,N,M,2,0,,Portulaca retusa
+15,Claytonia virginica,"Spring Beauty, Virginia springbeauty, Hammond's claytonia, Yellow Virginia springbeauty",Perennial,0.2,5-7,M,LM,S,M,3,1,,Portulaca retusa
+16,Lewisia brachycalyx,Shortsepal lewisia,Perennial,0.2,4-8,S,LM,N,M,2,0,,Portulaca retusa
+17,Lewisia columbiana,"Columbian Bitterroot, Columbian lewisia, Wallowa lewisia",Perennial,0.2,4-8,S,LM,SN,M,2,0,,Portulaca retusa
+18,Lewisia pygmaea,"Pigmy Bitterroot, Alpine lewisia",Perennial,0.1,3-7,,LM,N,M,2,0,,Portulaca retusa
+19,Lewisia rediviva,Bitter-Root,Perennial,0.1,4-8,,LM,N,M,2,2,,Portulaca retusa
+20,Montia fontana,"Water Blinks, Annual water minerslettuce",Annual/Perennial,0.5,0-0,,LMH,SN,MWeWa,2,0,,Portulaca retusa
+21,Portulaca grandiflora,Rose Moss,Annual,0.2,-,,LM,N,DM,2,2,,Portulaca retusa
+22,Portulaca oleracea,"Green Purslane, Little hogweed",Annual,0.3,3-12,F,LM,N,M,4,3,2.0,Portulaca retusa
+23,Portulaca oleracea sativa,Golden Purslane,Annual,0.3,-,,LM,N,M,4,3,,Portulaca retusa
+24,Sesuvium portulacastrum,"Sea Purslane, Shoreline seapurslane",Perennial,0.2,8-10,,LMH,SN,M,3,2,3.0,Portulaca retusa

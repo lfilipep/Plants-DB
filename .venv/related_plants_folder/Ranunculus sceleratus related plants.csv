@@ -1,0 +1,23 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Ranunculus acris,"Meadow Buttercup, Tall buttercup, Showy buttercup",Perennial,1.0,0-0,,LMH,SN,MWe,1,2,0.0,Ranunculus sceleratus
+1,Ranunculus aquatilis,"Water Crowfoot, White water crowfoot",Annual/Perennial,0.0,4-8,,LMH,SN,MWeWa,1,1,,Ranunculus sceleratus
+2,Ranunculus arvensis,Corn Buttercup,Annual,0.5,0-0,,LMH,SN,M,0,1,0.0,Ranunculus sceleratus
+3,Ranunculus bulbosus,"Bulbous Buttercup, St. Anthony's turnip",Perennial,0.3,0-0,F,LMH,SN,M,1,2,0.0,Ranunculus sceleratus
+4,Ranunculus californicus,California Buttercup,Perennial,0.6,6-9,,LMH,SN,M,1,0,,Ranunculus sceleratus
+5,Ranunculus chinensis,Hui Hui Suan,Perennial,0.6,-,,LMH,SN,MWe,1,0,,Ranunculus sceleratus
+6,Ranunculus ficaria,"Lesser Celandine - Pilewort, Fig buttercup",Perennial,0.2,0-0,F,LMH,SN,M,1,2,3.0,Ranunculus sceleratus
+7,Ranunculus flammula,"Lesser Spearwort, Greater creeping spearwort",Perennial,0.6,4-8,,LMH,SN,MWeWa,0,1,,Ranunculus sceleratus
+8,Ranunculus hirtus,,Perennial,0.0,-,,LMH,SN,M,0,1,,Ranunculus sceleratus
+9,Ranunculus inamoeus,Graceful Buttercup,Perennial,0.3,-,,LMH,SN,M,1,0,,Ranunculus sceleratus
+10,Ranunculus japonicus,Mao Gen,Perennial,0.1,-,,LMH,SN,M,1,1,,Ranunculus sceleratus
+11,Ranunculus kochii,,Perennial,0.1,5-9,,LMH,N,M,1,0,,Ranunculus sceleratus
+12,Ranunculus muricatus,"Rough-Seed Buttercup, Spinyfruit buttercup",Annual,0.3,0-0,,LMH,SN,M,0,1,,Ranunculus sceleratus
+13,Ranunculus nipponicus,,Perennial,0.0,-,,LMH,SN,WeWa,1,0,,Ranunculus sceleratus
+14,Ranunculus occidentalis,Western Buttercup,Perennial,0.6,-,,LMH,SN,M,1,0,,Ranunculus sceleratus
+15,Ranunculus pallasii,"Buttercup, Pallas' buttercup",Perennial,0.1,0-0,,LMH,SN,MWe,1,0,,Ranunculus sceleratus
+16,Ranunculus pennsylvanicus,Pennsylvania Buttercup,Annual/Perennial,1.0,-,,LMH,SN,MWe,1,1,2.0,Ranunculus sceleratus
+17,Ranunculus quelpaertensis,,Perennial,0.6,-,,LMH,SN,MWe,1,0,,Ranunculus sceleratus
+18,Ranunculus repens,"Creeping Buttercup, Prairie Double-flowered Buttercup, Water Buttercup, Creeping Buttercup",Perennial,0.3,3-8,F,LMH,SN,M,1,1,0.0,Ranunculus sceleratus
+19,Ranunculus reptans,Creeping Spearwort,Perennial,0.2,-,F,LMH,SN,MWe,1,0,,Ranunculus sceleratus
+20,Ranunculus rivularis,,Perennial,0.0,-,,LMH,SN,M,0,1,,Ranunculus sceleratus
+21,Ranunculus tachreoi,,Perennial,1.0,-,,LMH,SN,M,1,0,,Ranunculus sceleratus

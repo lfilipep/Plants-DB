@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Astragalus aboriginorum,Indian Milkvetch,Perennial,0.3,-,,LM,N,D,2,0,,Astragalus pictus
+1,Astragalus adscendens,Persian Manna,Shrub,0.0,-,,LM,N,D,2,0,2.0,Astragalus pictus
+2,Astragalus boeticus,Swedish Coffee,Annual,0.6,7-10,,LM,N,D,2,0,,Astragalus pictus
+3,Astragalus brachycalyx,,Shrub,0.0,-,,LM,N,D,2,0,2.0,Astragalus pictus
+4,Astragalus canadensis,"Canadian Milkvetch, Shorttooth Canadian milkvetch, Morton's Canadian milkvetch",Perennial,1.0,7-10,,LM,N,D,3,2,3.0,Astragalus pictus
+5,Astragalus carduchorum,,Shrub,0.0,-,,LM,N,D,2,0,2.0,Astragalus pictus
+6,Astragalus chartostegius,,Shrub,0.0,-,,LM,N,D,1,0,,Astragalus pictus
+7,Astragalus chinensis,"Hua Huang Qi, Chinese milkvetch",Perennial,0.7,0-0,,LM,N,D,0,2,,Astragalus pictus
+8,Astragalus christianus,,Perennial,0.2,-,,LM,N,DM,2,0,,Astragalus pictus
+9,Astragalus complanatus,Bei Bian Huang Qi,Perennial,0.8,-,,LM,N,DM,0,2,,Astragalus pictus
+10,Astragalus crassicarpus,"Ground Plum, Groundplum milkvetch",Perennial,0.5,6-9,,LM,N,D,4,1,3.0,Astragalus pictus
+11,Astragalus creticus,,Shrub,0.0,-,,LM,N,D,2,0,2.0,Astragalus pictus
+12,Astragalus densissimus,,Shrub,0.5,-,,LM,N,D,2,0,2.0,Astragalus pictus
+13,Astragalus diphysus,"Specklepod Milkvetch, Freckled milkvetch",Perennial,0.0,0-0,,LM,N,D,3,0,,Astragalus pictus
+14,Astragalus echinus,,Perennial,0.5,-,,LM,N,D,1,0,,Astragalus pictus
+15,Astragalus edulis,Milkvetch,Annual,0.3,0-0,,LM,N,D,2,0,,Astragalus pictus
+16,Astragalus exscapus,,Perennial,0.3,4-8,,LM,N,D,0,1,2.0,Astragalus pictus
+17,Astragalus floridus,Duo Hua Huang Qi,Perennial,0.3,-,,LM,N,D,0,2,,Astragalus pictus
+18,Astragalus florulentus,,Shrub,0.0,-,,LM,N,D,2,0,2.0,Astragalus pictus
+19,Astragalus garbancillo,,Shrub,0.0,-,,LM,N,D,0,0,1.0,Astragalus pictus
+20,Astragalus globiflorus,,Shrub,0.2,-,,LM,N,D,2,0,2.0,Astragalus pictus
+21,Astragalus glycyphyllos,"Milk Vetch, Licorice milkvetch",Perennial,0.2,3-7,,LM,N,D,1,0,4.0,Astragalus pictus
+22,Astragalus gummifer,"Tragacanth, Gum tragacanth milkvetch",Shrub,0.3,7-10,,LM,N,D,2,3,2.0,Astragalus pictus
+23,Astragalus hamosus,European milkvetch,Annual,0.6,0-0,,LM,N,D,1,2,,Astragalus pictus
+24,Astragalus henryi,Qin Ling Huang Qi,Perennial,0.8,-,,LM,N,DM,1,0,,Astragalus pictus
+25,Astragalus hoantchy,Wu La Te Huang Qi,Perennial,0.4,-,,LM,N,DM,1,1,,Astragalus pictus
+26,Astragalus kurdicus,,Shrub,0.2,-,,LM,N,D,2,0,2.0,Astragalus pictus
+27,Astragalus leioclados,,Shrub,0.0,-,,LM,N,D,2,0,2.0,Astragalus pictus
+28,Astragalus massiliensis,,Shrub,0.3,5-9,,LM,N,D,3,0,3.0,Astragalus pictus
+29,Astragalus membranaceus,Huang Qi,Perennial,0.3,5-9,,LM,N,D,0,5,3.0,Astragalus pictus

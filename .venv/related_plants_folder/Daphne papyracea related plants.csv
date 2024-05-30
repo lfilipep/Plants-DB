@@ -1,0 +1,12 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Brachyloma ciliatum,Daphne Heath,Shrub,0.4,8-11,S,LMH,SN,M,0,0,,Daphne papyracea
+1,Chamaedaphne calyculata,Leather Leaf,Shrub,0.8,6-9,,LMH,SN,M,1,1,,Daphne papyracea
+2,Daphne bholua,,Shrub,2.0,7-10,,MH,FSN,DM,0,1,3.0,Daphne papyracea
+3,Daphne genkwa,Lilac Daphne,Shrub,1.5,4-8,,MH,SN,M,0,3,,Daphne papyracea
+4,Daphne gnidium,Flax-Leaved Daphne,Shrub,1.5,7-10,,MH,SN,DM,0,1,,Daphne papyracea
+5,Daphne involucrata,,Shrub,0.0,-,,MH,SN,M,0,0,1.0,Daphne papyracea
+6,Daphne laureola,Spurge Laurel,Shrub,1.0,6-9,,MH,FS,DM,0,1,0.0,Daphne papyracea
+7,Daphne mezereum,"Mezereon, Paradise plant, February Daphne",Shrub,1.5,4-7,M,MH,S,M,0,2,2.0,Daphne papyracea
+8,Daphne odora,"Winter Daphne, Fragrant Daphne",Shrub,1.5,7-9,S,MH,SN,M,0,2,3.0,Daphne papyracea
+9,Daphne oleoides,,Shrub,1.0,7-10,,MH,N,DM,1,1,,Daphne papyracea
+10,Daphne pseudomezereum,,Shrub,1.5,5-9,,MH,S,M,0,0,1.0,Daphne papyracea

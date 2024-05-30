@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Boehmeria cylindrica,"False Nettle, Smallspike false nettle",Perennial,1.0,0-0,,LM,SN,M,0,0,1.0,Urtica serra
+1,Boehmeria glomerulifera,,Shrub,4.0,-,,LM,SN,DM,0,0,2.0,Urtica serra
+2,Boehmeria longispica,,Shrub,1.2,-,,LM,SN,M,1,1,1.0,Urtica serra
+3,Boehmeria macrophylla,,Shrub,2.5,-,,LM,SN,DM,0,0,2.0,Urtica serra
+4,Boehmeria nipononivea,Ramie,Perennial,1.5,-,,LM,SN,M,1,1,2.0,Urtica serra
+5,Boehmeria nivea,"Ramie, Chinese Grass, Chinese Silk Plant",Perennial,1.8,6-9,,L,SN,DM,2,2,5.0,Urtica serra
+6,Boehmeria spicata,,Shrub,1.0,-,,LM,SN,M,1,0,2.0,Urtica serra
+7,Boehmeria tricuspis,,Perennial,0.8,-,,LM,SN,M,1,1,3.0,Urtica serra
+8,Cecropia peltata,"Trumpet Tree, Snakewood, Congo pump, Wild pawpaw, Pop-a-gun",Tree,20.0,9-12,F,LMH,N,M,3,3,5.0,Urtica serra
+9,Debregeasia edulis,,Shrub,0.0,0-0,,LMH,S,M,2,1,0.0,Urtica serra
+10,Debregeasia hypoleuca,,Shrub,5.0,7-10,,LMH,S,M,2,0,2.0,Urtica serra
+11,Debregeasia longifolia,Wild Rhea,Shrub,5.0,7-10,,LMH,S,M,1,1,2.0,Urtica serra
+12,Debregeasia wallichiana,,Tree,5.0,-,,LMH,S,M,0,0,1.0,Urtica serra
+13,Elatostema cuneatum,,Annual,0.3,-,,LMH,S,M,1,0,,Urtica serra
+14,Elatostema dissectum,,Perennial,0.7,-,,LMH,SN,M,1,0,,Urtica serra
+15,Elatostema laetevirens,,Perennial,0.3,-,,LMH,S,M,1,0,,Urtica serra
+16,Girardinia diversifolia,Himalayan Nettle,Annual/Perennial,3.0,-,,LMH,SN,M,2,2,2.0,Urtica serra
+17,Gonostegia hirta,,Perennial,1.0,-,,LMH,SN,M,0,2,,Urtica serra
+18,Laportea bulbifera,,Perennial,0.6,-,,LMH,SN,M,3,0,2.0,Urtica serra
+19,Laportea canadensis,Canadian Wood Nettle,Perennial,1.0,0-0,,LMH,SN,M,3,1,2.0,Urtica serra
+20,Laportea macrostachya,,Perennial,0.8,-,,LMH,SN,M,3,0,2.0,Urtica serra
+21,Musanga cecropioides,Corkwood,Tree,20.0,10-12,F,LMH,N,M,3,4,4.0,Urtica serra
+22,Myrianthus arboreus,"Giant yellow mulberry, Monkeyfruit",Tree,15.0,10-12,M,LMH,N,MWe,4,3,2.0,Urtica serra
+23,Oreocnide integrifolia,Wild Rhea,Tree,12.0,10-12,S,LMH,FS,MWe,0,0,4.0,Urtica serra
+24,Parietaria judaica,"Pellitory Of The Wall, Spreading pellitory",Perennial,0.6,0-0,,LMH,SN,DM,2,3,1.0,Urtica serra
+25,Parietaria officinalis,"Pellitory Of The Wall, Upright pellitory",Perennial,0.6,0-0,,LMH,SN,DM,2,3,1.0,Urtica serra
+26,Pourouma cecropiifolia,Amazon Grape,Tree,15.0,10-12,F,MH,SN,M,4,2,2.0,Urtica serra
+27,Touchardia latifolia,Olona,Shrub,2.0,10-12,S,LMH,FS,MWe,0,0,4.0,Urtica serra
+28,Urera baccifera,"Nettle Tree, Chichaste, Ortiga",Shrub,4.0,10-12,F,LMH,SN,MWe,0,2,4.0,Urtica serra
+29,Urtica angustifolia,,Perennial,1.5,-,,LMH,SN,M,3,0,3.0,Urtica serra

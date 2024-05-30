@@ -1,0 +1,11 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Claytonia acutifolia,Bering Sea Spring Beauty,Perennial,0.2,-,,LM,N,M,3,0,,Claytonia megarhiza
+1,Claytonia caroliniana,"Broad-Leaved Spring Beauty, Carolina springbeauty",Perennial,0.1,5-9,,LM,N,M,3,0,1.0,Claytonia megarhiza
+2,Claytonia exigua,"Pale Spring Beauty, Serpentine springbeauty",Annual,0.1,0-0,,LMH,FSN,DM,2,0,,Claytonia megarhiza
+3,Claytonia lanceolata,"Lanceleaf Spring Beauty, Idaho springbeauty, Pacific springbeauty, Peirson's springbeauty",Perennial,0.2,4-8,,LM,N,M,3,0,,Claytonia megarhiza
+4,Claytonia perfoliata,Miner's Lettuce,Annual,0.2,6-10,,LMH,FSN,DM,4,1,2.0,Claytonia megarhiza
+5,Claytonia scammaniana,"Scamman's Claytonia, Scamman's springbeauty",Perennial,0.2,0-0,,LM,N,M,2,0,,Claytonia megarhiza
+6,Claytonia sibirica,"Pink Purslane, Siberian springbeauty",Annual/Perennial,0.2,3-7,,LMH,FSN,DM,4,1,3.0,Claytonia megarhiza
+7,Claytonia tuberosa,Tuberous Spring Beauty,Perennial,0.2,4-8,,LM,N,M,3,0,,Claytonia megarhiza
+8,Claytonia umbellata,Great Basin Spring Beauty,Perennial,0.2,-,,LM,N,M,2,0,,Claytonia megarhiza
+9,Claytonia virginica,"Spring Beauty, Virginia springbeauty, Hammond's claytonia, Yellow Virginia springbeauty",Perennial,0.2,5-7,M,LM,S,M,3,1,,Claytonia megarhiza

@@ -1,0 +1,26 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Allium pendulinum,,Bulb,0.3,-,,LM,S,M,3,2,1.0,Linum hybrids
+1,Apium graveolens secalinum,Leaf Celery,Biennial,0.6,-,,LM,SN,M,4,2,2.0,Linum hybrids
+2,Conioselinum pacificum,Pacific Hemlock-Parsley,Perennial,0.0,-,,LM,N,M,2,1,,Linum hybrids
+3,Conioselinum vaginatum,,Perennial,0.8,-,,LMH,SN,M,0,1,,Linum hybrids
+4,Gymnanthemum amygdalinum,Bitterleaf,Shrub,8.0,10-12,M,LMH,N,DM,4,3,2.0,Linum hybrids
+5,Lilium pardalinum,"Panther Lily, Leopard lily, Pitkin Marsh lily, Vollmer's lilyShasta lily, Wiggins' lily",Bulb,2.0,5-9,M,LMH,SN,MWe,2,0,2.0,Linum hybrids
+6,Linum bienne,Pale Flax,Annual/Perennial,0.6,6-9,,LM,N,M,0,0,2.0,Linum hybrids
+7,Linum catharticum,"Purging Flax, Fairy flax",Annual,0.3,0-0,,LM,N,M,0,2,,Linum hybrids
+8,Linum crepitans,,Annual,0.6,-,,LM,N,M,0,0,1.0,Linum hybrids
+9,Linum humile,,Annual,0.6,-,,LM,N,M,1,0,1.0,Linum hybrids
+10,Linum marginale,Native Flax,Perennial,0.6,-,,LM,N,M,1,0,1.0,Linum hybrids
+11,Linum monogynum,,Perennial,0.6,7-10,,LM,N,M,0,0,1.0,Linum hybrids
+12,Linum perenne,"Perennial Flax, Blue flax, Alpine flax",Perennial,0.3,5-9,M,LM,N,DM,3,2,3.0,Linum hybrids
+13,Linum strictum,,Annual,0.4,5-9,,LM,N,DM,0,1,,Linum hybrids
+14,Linum usitatissimum,"Flax, Common flax",Annual,0.7,4-8,,LM,N,M,4,3,4.0,Linum hybrids
+15,Mesembryanthemum crystallinum,"Ice Plant, Common iceplant",Perennial,0.1,8-11,,LMH,N,DM,3,1,1.0,Linum hybrids
+16,Pedicularis sceptrum carolinum,Lousewort,Perennial,1.2,-,,LMH,SN,M,1,1,,Linum hybrids
+17,Petroselinum crispum,Parsley,Biennial,0.6,0-0,M,LMH,SN,M,4,4,3.0,Linum hybrids
+18,Petroselinum crispum tuberosum,Hamburg Parsley,Biennial,0.6,0-0,,LMH,SN,M,4,3,3.0,Linum hybrids
+19,Petroselinum segetum,Corn Caraway,Biennial,1.0,-,,LMH,SN,M,1,0,,Linum hybrids
+20,Peucedanum oreoselinum,,Perennial,1.0,4-8,,LMH,N,M,0,1,1.0,Linum hybrids
+21,Pteridium aquilinum,"Bracken, Western brackenfern, Decomposition brackenfern, Hairy brackenfern",Fern,1.2,4-7,F,LMH,SN,DM,2,2,3.0,Linum hybrids
+22,Pteridium aquilinum esculentum,Bracken,Fern,1.2,4-8,,LMH,SN,DM,2,2,3.0,Linum hybrids
+23,Talinum aurantiacum,Orange Flameflower,Perennial,0.4,-,,LMH,SN,M,1,0,,Linum hybrids
+24,Talinum fruticosum,"Tahitian Spinach, Waterleaf, Ceylon Spinach",Perennial,0.5,8-11,F,LMH,SN,DM,3,2,1.0,Linum hybrids

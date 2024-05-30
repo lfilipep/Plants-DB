@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Achnatherum hymenoides,"Indian Millet, Indian ricegrass",Perennial,0.6,7-10,,LMH,N,M,3,0,3.0,Poa pratensis
+1,Aegilops speltoides,Goatgrass,Annual,0.6,0-0,,LMH,SN,DM,1,0,,Poa pratensis
+2,Aegilops triuncialis,"Barbed goatgrass, Barb goatgrass",Annual,0.3,8-10,,LMH,N,DM,1,0,0.0,Poa pratensis
+3,Agropyron elongatum,Tall Wheatgrass,Perennial,1.8,5-9,,LMH,N,DM,0,0,3.0,Poa pratensis
+4,Agrostis capillaris,Browntop Bent Grass,Perennial,0.4,3-10,F,LM,SN,WeM,0,0,4.0,Poa pratensis
+5,Agrostis perennans,"Upland Bent, Upland bentgrass",Perennial,0.9,0-0,,LMH,SN,DM,1,0,2.0,Poa pratensis
+6,Alopecurus aequalis,"Shortawn Foxtail, Sonoma shortawn foxtail",Annual/Perennial,0.3,0-0,,LMH,SN,MWe,1,1,,Poa pratensis
+7,Ammophila arenaria,"Marram Grass, European beachgrass",Perennial,1.2,4-8,,LM,N,DM,1,0,4.0,Poa pratensis
+8,Ammophila breviligulata,"Beach Grass, American beachgrass",Perennial,1.3,4-8,,LM,N,DM,0,0,,Poa pratensis
+9,Ampelodesmos mauritanicus,Mauritanian grass,Perennial,3.0,7-10,,LM,N,DM,0,0,,Poa pratensis
+10,Andropogon gerardii,Big Bluestem,Perennial,2.0,4-8,,L,N,DM,0,1,2.0,Poa pratensis
+11,Andropogon virginicus,Broomsedge Bluestem,Perennial,1.2,5-9,,L,N,DM,0,1,1.0,Poa pratensis
+12,Anthoxanthum odoratum,Sweet Vernal Grass,Perennial,0.5,0-0,,LMH,N,DM,2,2,2.0,Poa pratensis
+13,Arundinaria gigantea,"Canebrake bamboo, Cane Reed, Giant cane",Bamboo,9.0,5-9,,LMH,SN,M,3,1,4.0,Poa pratensis
+14,Arundinaria spp,Running Bamboo,Bamboo,10.0,4-10,F,LMH,FSN,M,3,1,4.0,Poa pratensis
+15,Arundinella hookeri,,Perennial,6.0,6-9,,LMH,N,M,0,0,1.0,Poa pratensis
+16,Arundinella nepalensis,,Perennial,2.0,6-9,,LMH,N,M,0,0,3.0,Poa pratensis
+17,Arundo donax,"Giant Reed, Giant Reed Grass",Perennial,6.0,6-10,F,LMH,N,MWe,3,2,4.0,Poa pratensis
+18,Astrebla pectinata,Barley Mitchell Grass,Perennial,1.0,-,,LMH,SN,M,1,0,,Poa pratensis
+19,Astrebla squarrosa,Bull Mitchell grass,Perennial,1.5,4-12,F,LMH,N,DM,4,0,1.0,Poa pratensis
+20,Avena abyssinica,Abyssinian Oat,Annual,0.0,-,,LMH,N,DM,2,0,2.0,Poa pratensis
+21,Avena barbata,Slender Oat,Annual,0.0,4-8,F,LM,N,DM,2,0,2.0,Poa pratensis
+22,Avena brevis,,Annual,0.0,-,,LMH,N,DM,2,0,2.0,Poa pratensis
+23,Avena byzantina,Red Oat,Annual,0.0,-,,LMH,N,DM,2,0,2.0,Poa pratensis
+24,Avena fatua,Wild Oats,Annual,1.5,0-0,,LMH,N,DM,2,1,2.0,Poa pratensis
+25,Avena ludoviciana,Oats,Annual,0.0,-,,LMH,N,DM,2,0,2.0,Poa pratensis
+26,Avena nuda,Naked Oat,Annual,0.9,-,,LMH,N,DM,4,0,2.0,Poa pratensis
+27,Avena nudibrevis,,Annual,0.0,-,,LMH,N,DM,2,0,2.0,Poa pratensis
+28,Avena orientalis,Hungarian Oat,Annual,0.0,-,,LMH,N,DM,3,1,2.0,Poa pratensis
+29,Avena sativa,"Oats, Common oat",Annual,0.9,0-0,,LMH,N,DM,3,3,4.0,Poa pratensis

@@ -1,0 +1,9 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Pittosporum balansae,,Shrub,3.0,-,,LMH,SN,DM,1,0,,Pittosporum bicolor
+1,Pittosporum crassifolium,"Karo, Stiffleaf cheesewood",Shrub,5.0,8-11,,LM,SN,DM,0,0,3.0,Pittosporum bicolor
+2,Pittosporum eugenioides,Tarata,Tree,10.0,8-11,,LM,SN,DM,1,1,1.0,Pittosporum bicolor
+3,Pittosporum phillyreoides,"Weeping Pittosporum, Narrow-leaf Pittosporum",Shrub,4.5,9-11,S,LM,N,DM,2,1,2.0,Pittosporum bicolor
+4,Pittosporum ralphii,Ralph's desertwillow,Shrub,4.0,8-11,,LM,N,DM,0,0,3.0,Pittosporum bicolor
+5,Pittosporum resiniferum,Petroleum nut,Tree,25.0,10-12,M,LMH,N,M,0,3,4.0,Pittosporum bicolor
+6,Pittosporum tenuifolium,Tawhiwhi,Tree,7.0,7-10,M,LM,SN,DM,2,0,3.0,Pittosporum bicolor
+7,Pittosporum tobira,"Tobira, Japanese cheesewood, Australian Laurel, Mock Orange, Japanese Pittosporum",Shrub,6.0,8-11,F,LM,SN,DM,0,0,3.0,Pittosporum bicolor

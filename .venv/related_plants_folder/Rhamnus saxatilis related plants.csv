@@ -1,0 +1,19 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Rhamnus alaternus,Italian Buckthorn,Shrub,5.0,6-9,F,LMH,SN,DM,0,0,2.0,Rhamnus saxatilis
+1,Rhamnus carolinianus,"Indian Cherry, Oak, Carolina Buckthorn",Tree,12.0,5-9,S,LMH,SN,M,2,1,2.0,Rhamnus saxatilis
+2,Rhamnus cathartica,Common Buckthorn,Shrub,6.0,3-7,,LMH,SN,DM,0,3,3.0,Rhamnus saxatilis
+3,Rhamnus croceus,Red Berry,Shrub,4.0,7-10,,LMH,N,DM,2,0,,Rhamnus saxatilis
+4,Rhamnus dahurica,Dahurian Buckthorn,Shrub,7.0,4-8,,LMH,SN,M,1,1,3.0,Rhamnus saxatilis
+5,Rhamnus frangula,Alder Buckthorn,Shrub,5.0,3-7,S,LMH,SN,MWe,0,3,3.0,Rhamnus saxatilis
+6,Rhamnus globosa,lokao,Shrub,3.0,0-0,,LMH,SN,M,0,0,2.0,Rhamnus saxatilis
+7,Rhamnus grandiflora,,Shrub,4.0,-,,LMH,SN,M,2,0,,Rhamnus saxatilis
+8,Rhamnus japonica,Japanese buckthorn,Shrub,3.0,4-8,,LMH,SN,M,1,1,2.0,Rhamnus saxatilis
+9,Rhamnus leptophyllus,,Shrub,1.8,5-9,,LMH,SN,M,1,0,,Rhamnus saxatilis
+10,Rhamnus lycioides,,Shrub,0.0,-,,LMH,N,DM,0,0,1.0,Rhamnus saxatilis
+11,Rhamnus nepalensis,,Shrub,1.5,-,,LMH,SN,M,1,1,,Rhamnus saxatilis
+12,Rhamnus persicus,,Shrub,1.0,-,,LMH,SN,M,2,0,2.0,Rhamnus saxatilis
+13,Rhamnus purpureus,,Shrub,0.0,-,,LMH,SN,M,0,1,,Rhamnus saxatilis
+14,Rhamnus purshiana,Cascara Sagrada,Tree,10.0,-,,LMH,SN,M,2,3,2.0,Rhamnus saxatilis
+15,Rhamnus saxatilis tinctorius,Dyer's Buckthorn,Shrub,2.0,5-9,,LMH,SN,M,0,0,1.0,Rhamnus saxatilis
+16,Rhamnus triquetra,,Shrub,7.0,-,,LMH,SN,M,0,1,2.0,Rhamnus saxatilis
+17,Rhamnus utilis,Chinese Buckthorn,Shrub,3.0,-,,LMH,N,M,0,0,2.0,Rhamnus saxatilis

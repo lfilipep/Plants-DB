@@ -1,0 +1,12 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Centaurea acaulis,,Perennial,0.0,-,,LMH,N,DM,0,0,1.0,Centaurea scabiosa
+1,Centaurea calcitrapa,"Common Star Thistle, Red star-thistle",Biennial,0.6,0-0,,LMH,N,DM,1,1,,Centaurea scabiosa
+2,Centaurea chamaerhaponticum,,,0.0,-,,LMH,N,DM,2,0,,Centaurea scabiosa
+3,Centaurea cyanus,"Cornflower, Garden cornflower, Blue Bottle, Cornflower",Annual,1.0,0-0,F,LMH,N,DM,2,2,2.0,Centaurea scabiosa
+4,Centaurea depressa,Iranian knapweed,Annual/Perennial,0.3,6-9,,LMH,N,DM,2,0,,Centaurea scabiosa
+5,Centaurea iberica,"Iberian Star Thistle, Iberian knapweed",Biennial,0.9,5-9,,LMH,N,DM,1,2,0.0,Centaurea scabiosa
+6,Centaurea jacea,Brown Knapweed,Perennial,0.6,5-9,,LMH,N,DM,1,1,0.0,Centaurea scabiosa
+7,Centaurea melitensis,Maltese Star Thistle,Annual,0.5,6-9,,LMH,N,DM,0,1,0.0,Centaurea scabiosa
+8,Centaurea montana,"Mountain Cornflower, Perennial cornflower, Mountain Bluet",Perennial,0.5,3-9,F,LMH,N,DM,0,2,3.0,Centaurea scabiosa
+9,Centaurea nigra,"Black Knapweed, Lesser knapweed",Perennial,0.6,4-8,,LMH,N,DM,1,2,0.0,Centaurea scabiosa
+10,Centaurea raphanina,,Perennial,0.0,-,,LMH,N,DM,1,0,,Centaurea scabiosa

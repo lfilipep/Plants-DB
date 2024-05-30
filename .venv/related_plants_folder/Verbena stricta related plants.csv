@@ -1,0 +1,26 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Abronia fragrans,Snowball Sand Verbena,Perennial,0.6,7-10,,LM,N,DM,2,1,,Verbena stricta
+1,Abronia latifolia,"Sand Verbena, Coastal sand verbena",Perennial,0.1,7-10,,L,N,DM,2,0,,Verbena stricta
+2,Abronia turbinata,Transmontane Sand Verbena,Perennial,0.1,-,,L,N,DM,0,1,,Verbena stricta
+3,Abronia villosa,Desert Sand Verbena,Annual,0.1,7-10,,L,N,DM,0,1,,Verbena stricta
+4,Aloysia citriodora,"Lemon Verbena, Lemon beebrush",Shrub,3.0,7-10,M,LM,SN,DM,4,3,3.0,Verbena stricta
+5,Callicarpa americana,"American Beautyberry, Beautyberry, French Mulberry, American Beautyberry",Shrub,1.8,7-10,S,M,SN,M,2,2,,Verbena stricta
+6,Callicarpa japonica,"Beautyberry, Japanese callicarpa, Japanese Beautyberry",Shrub,2.0,5-8,M,LMH,SN,M,1,0,,Verbena stricta
+7,Callicarpa macrophylla,,Shrub,2.5,8-11,,LMH,SN,M,1,2,2.0,Verbena stricta
+8,Callicarpa mollis,,Shrub,2.4,7-10,,M,N,M,1,0,,Verbena stricta
+9,Callicarpa pedunculata,,Shrub,3.0,9-11,,LMH,N,M,0,2,,Verbena stricta
+10,Clerodendrum bungei,"Glory Flower, Rose glorybower, Cashmere Bouquet, Mexican Hydrangea, Glory Bower",Shrub,2.0,7-9,M,LMH,N,M,0,1,0.0,Verbena stricta
+11,Clerodendrum cyrtophyllum,,Shrub,3.0,-,,LMH,N,M,1,1,,Verbena stricta
+12,Clerodendrum japonicum,Japanese glorybower,Shrub,2.5,9-11,,LMH,N,M,1,1,,Verbena stricta
+13,Clerodendrum kwangtungense,,Shrub,3.0,-,,LMH,N,M,1,0,,Verbena stricta
+14,Clerodendrum trichotomum,"Chou Wu Tong, Harlequin glorybower, Ferruginous clerodendrum, Harlequin Glory Bower",Tree,6.0,6-11,M,LMH,N,M,1,3,,Verbena stricta
+15,Glandularia canadensis,Rose Verbena,Perennial,0.3,5-9,M,LMH,SN,DM,0,0,3.0,Verbena stricta
+16,Lantana camara,"Wild Sage, Lantana Verbena",Shrub,1.8,8-12,F,LMH,SN,DMWe,2,4,3.0,Verbena stricta
+17,Lippia graveolens,Mexican Oregano,Shrub,2.0,9-12,F,LMH,N,DM,4,0,1.0,Verbena stricta
+18,Phyla nodiflora,"Frogfruit, Turkey tangle fogfruit",Perennial,0.2,8-12,,LMH,N,DM,1,2,3.0,Verbena stricta
+19,Salvia verbenaca,Wild Clary,Perennial,0.6,5-9,,LM,N,DM,2,2,,Verbena stricta
+20,Verbena hastata,"American Blue Vervain, Swamp verbena",Perennial,1.5,3-7,,LMH,N,M,1,2,0.0,Verbena stricta
+21,Verbena officinalis,"Vervain, Herb of the cross, Prostrate verbena",Perennial,0.6,4-8,,LMH,N,M,1,3,,Verbena stricta
+22,Verbena urticifolia,White Vervain,Perennial,0.3,4-8,,LMH,N,M,0,1,0.0,Verbena stricta
+23,Vitex agnus-castus,"Agnus Castus, Lilac chastetree, Vitex, Chastetree",Shrub,3.0,7-9,M,LM,N,DM,2,5,3.0,Verbena stricta
+24,Vitex cannabifolia,,Shrub,3.0,-,,LM,N,DM,0,2,1.0,Verbena stricta

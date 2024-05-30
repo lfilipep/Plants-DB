@@ -1,0 +1,22 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Ilex aculeolata,,Shrub,3.0,-,,LMH,SN,M,1,0,,Ilex opaca
+1,Ilex aquifolium,"Holly, English holl, Christmas Holly, Common Holly, English Holly",Shrub,9.0,5-9,S,LMH,FSN,DM,2,2,4.0,Ilex opaca
+2,Ilex asprella,,Shrub,3.0,-,,LMH,SN,M,0,2,,Ilex opaca
+3,Ilex cassine,"Cassine, Dahoon, Cassine Holly",Tree,10.0,7-11,S,LMH,SN,M,1,1,2.0,Ilex opaca
+4,Ilex chapaensis,,Shrub,10.0,-,,LMH,SN,M,1,0,,Ilex opaca
+5,Ilex coriacea,Large Gallberry,Shrub,3.0,6-9,,LMH,SN,M,1,0,,Ilex opaca
+6,Ilex cornuta,"Horned Holly, Chinese holly",Shrub,4.0,7-9,M,LMH,SN,M,1,2,,Ilex opaca
+7,Ilex crenata,"Japanese Holly, Box Leaved Holly",Shrub,5.0,6-8,S,LMH,SN,M,1,0,3.0,Ilex opaca
+8,Ilex glabra,Inkberry,Shrub,3.0,3-7,S,LMH,SN,M,1,0,2.0,Ilex opaca
+9,Ilex integra,Mochi Tree,Tree,6.0,6-9,,LMH,SN,M,1,0,,Ilex opaca
+10,Ilex latifolia,Tarajo,Tree,10.0,6-9,,LMH,SN,M,1,0,,Ilex opaca
+11,Ilex macropoda,,Tree,13.0,6-9,,LMH,SN,M,1,0,,Ilex opaca
+12,Ilex pedunculosa,,Shrub,10.0,4-8,,LMH,SN,M,1,1,3.0,Ilex opaca
+13,Ilex pubescens,,Shrub,3.5,7-10,,LMH,SN,M,0,2,,Ilex opaca
+14,Ilex purpurea,,Tree,12.0,7-10,,LMH,SN,M,0,2,,Ilex opaca
+15,Ilex rotunda,Kurogane holly,Tree,20.0,6-9,,LMH,SN,M,0,1,,Ilex opaca
+16,Ilex verticillata,"Winterberry, Common winterberry",Shrub,2.0,3-7,S,LMH,SN,MWe,1,3,,Ilex opaca
+17,Ilex vomitoria,"Yaupon Holly,",Shrub,6.0,6-9,S,LMH,SN,M,1,1,3.0,Ilex opaca
+18,Ilex x altaclerensis,Holly,Shrub,4.0,5-9,S,LMH,SN,M,0,0,3.0,Ilex opaca
+19,Ilex yunnanensis,,Shrub,4.0,5-9,,LMH,SN,M,0,1,,Ilex opaca
+20,Quercus ilex,"Holly Oak, Evergreen Oak",Tree,25.0,7-10,S,LMH,SN,M,5,2,3.0,Ilex opaca

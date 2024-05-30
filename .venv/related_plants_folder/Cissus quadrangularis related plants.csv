@@ -1,0 +1,8 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Anemone narcissiflora,"Narcissus-Flowered Anemone, Narcissus anemone",Perennial,0.6,3-7,,LMH,SN,M,1,0,,Cissus quadrangularis
+1,Narcissus jonquilla,Jonquil,Bulb,0.3,4-8,,LMH,SN,M,1,0,2.0,Cissus quadrangularis
+2,Narcissus poeticus,Poet's Narcissus,Bulb,0.3,4-8,,LMH,N,M,0,1,2.0,Cissus quadrangularis
+3,Narcissus pseudonarcissus,"Wild Daffodil, Daffodil",Bulb,0.5,4-8,,LMH,SN,M,0,2,1.0,Cissus quadrangularis
+4,Narcissus tazetta,"Bunchflower Daffodil, Cream narcissus",Bulb,0.5,7-10,,LMH,N,M,0,2,2.0,Cissus quadrangularis
+5,Parthenocissus himalayana,,Climber,18.0,8-11,F,LMH,SN,M,2,0,2.0,Cissus quadrangularis
+6,Parthenocissus quinquefolia,"Virginia Creeper, Woodbine",Climber,30.0,3-10,F,LMH,SN,M,2,2,3.0,Cissus quadrangularis

@@ -1,0 +1,8 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Terminalia arjuna,"Arjuna, Terminalia",Tree,30.0,10-12,F,LMH,N,DM,2,4,3,Terminalia chebula
+1,Terminalia bellirica,Beleric Myrobalan,Tree,35.0,10-12,M,LMH,N,DM,2,3,3,Terminalia chebula
+2,Terminalia catappa,"Indian Almond, Tropical Almond Tree",Tree,30.0,10-12,F,LM,N,M,4,2,3,Terminalia chebula
+3,Terminalia ferdinandiana,Billy Goat Plum,Tree,10.0,9-12,M,LM,N,M,4,2,0,Terminalia chebula
+4,Terminalia ivorensis,Black Afara,Tree,30.0,10-12,F,LMH,N,M,0,2,4,Terminalia chebula
+5,Terminalia kaernbachii,Okari Nut,Tree,20.0,10-12,F,LMH,N,M,5,0,2,Terminalia chebula
+6,Terminalia sambesiaca,,Tree,32.0,10-12,F,LMH,N,DM,0,4,3,Terminalia chebula

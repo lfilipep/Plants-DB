@@ -1,0 +1,24 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Abies alba,"Silver Fir, Christmas Tree Fir, European Silver Fir, Silver",Tree,45.0,5-8,F,LMH,FSN,M,2,3,4,Abies nordmanniana
+1,Abies amabilis,"Red Fir,Pacific silver fir",Tree,30.0,4-8,S,LMH,FSN,M,1,2,3,Abies nordmanniana
+2,Abies balsamea,Balsam Fir,Tree,15.0,3-6,S,LMH,FSN,M,3,5,3,Abies nordmanniana
+3,Abies cephalonica,Grecian Fir,Tree,36.0,4-8,M,LMH,FSN,M,0,0,2,Abies nordmanniana
+4,Abies concolor,"Colorado Fir, White fir",Tree,45.0,3-7,F,LMH,FSN,DM,0,2,2,Abies nordmanniana
+5,Abies delavayi,,Tree,25.0,6-9,S,LMH,FSN,M,0,0,3,Abies nordmanniana
+6,Abies firma,"Momi Fir, Japanese Fir",Tree,30.0,6-9,M,LMH,FSN,M,1,0,2,Abies nordmanniana
+7,Abies fraseri,"She Balsam, Fraser fir, Southern Balsam Fir",Tree,15.0,4-7,F,LMH,FSN,M,1,3,3,Abies nordmanniana
+8,Abies grandis,"Grand Fir, Giant Fir, Lowland White Fir",Tree,75.0,5-6,F,LMH,FSN,M,2,2,3,Abies nordmanniana
+9,Abies homolepis,Nikko Fir,Tree,36.0,4-7,M,LMH,FSN,M,0,0,2,Abies nordmanniana
+10,Abies lasiocarpa,"Subalpine Fir, Alpine Fir",Tree,25.0,5-6,S,LMH,FSN,M,2,2,2,Abies nordmanniana
+11,Abies magnifica,"Californian Red Fir, Shasta red fir",Tree,60.0,4-8,M,LMH,FSN,M,0,0,2,Abies nordmanniana
+12,Abies mariesii,,Tree,20.0,5-9,S,LMH,FSN,M,0,0,2,Abies nordmanniana
+13,Abies pindrow,West Himalayan Fir,Tree,30.0,5-7,S,LMH,FSN,M,0,0,2,Abies nordmanniana
+14,Abies procera,Noble Fir,Tree,60.0,5-6,M,LMH,FSN,M,0,1,2,Abies nordmanniana
+15,Abies recurvata,,Tree,35.0,5-9,M,LMH,FSN,M,0,0,2,Abies nordmanniana
+16,Abies religiosa,Sacred Fir,Tree,40.0,7-10,F,LMH,FSN,M,0,1,3,Abies nordmanniana
+17,Abies sachalinensis,Sakhalin Fir,Tree,30.0,3-6,S,LMH,FSN,M,0,0,2,Abies nordmanniana
+18,Abies sibirica,Siberian Fir,Tree,30.0,-,,LMH,FSN,M,0,1,3,Abies nordmanniana
+19,Abies spectabilis,Himalayan Fir,Tree,30.0,6-9,S,LMH,FSN,M,0,2,3,Abies nordmanniana
+20,Abies squamata,Flaky Fir,Tree,30.0,5-9,S,LMH,FSN,DM,0,0,2,Abies nordmanniana
+21,Abies veitchii,"Veitch Fir, Christmastree",Tree,25.0,3-7,F,LMH,FSN,M,0,0,2,Abies nordmanniana
+22,Abies veitchii sikokiana,,Tree,30.0,3-7,,LMH,FSN,M,0,0,2,Abies nordmanniana

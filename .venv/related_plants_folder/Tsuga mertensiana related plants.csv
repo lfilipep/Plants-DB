@@ -1,0 +1,5 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Pseudotsuga menziesii,"Douglas Fir, Rocky Mountain Douglas-fir",Tree,75.0,3-6,F,LMH,N,MWe,2,2,3,Tsuga mertensiana
+1,Tsuga canadensis,"Canadian Hemlock, Eastern hemlock",Tree,20.0,4-7,M,LMH,FSN,M,1,3,2,Tsuga mertensiana
+2,Tsuga caroliniana,Carolina Hemlock,Tree,15.0,4-7,S,LMH,FSN,M,1,2,2,Tsuga mertensiana
+3,Tsuga chinensis,Chinese Hemlock,Tree,45.0,5-9,S,LMH,FSN,M,1,2,2,Tsuga mertensiana

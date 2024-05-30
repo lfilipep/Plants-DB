@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Vaccinium vitis-idaea,"Cowberry, Lingonberry, Northern mountain cranberry, Cranberry",Shrub,0.3,3-8,M,LM,SN,M,3,2,3,Vitis cinerea floridana
+1,Vitis acerifolia,"Bush Grape, Mapleleaf grape",Climber,10.0,5-9,,LMH,SN,DM,2,0,1,Vitis cinerea floridana
+2,Vitis aestivalis,"Summer Grape, Long grape",Climber,20.0,3-7,F,LMH,SN,DM,3,1,1,Vitis cinerea floridana
+3,Vitis aestivalis argentifolia,Summer Grape,Climber,25.0,3-7,F,LMH,SN,DM,3,0,1,Vitis cinerea floridana
+4,Vitis aestivalis var. linsecomii,Post-Oak Grape,Climber,5.0,-,,LMH,SN,DM,2,0,1,Vitis cinerea floridana
+5,Vitis amurensis,"Amur River Grape, Amur grape",Climber,15.0,4-8,M,LMH,SN,DM,2,1,1,Vitis cinerea floridana
+6,Vitis arizonica,Canyon Grape,Climber,5.0,5-9,,LMH,SN,DM,2,0,1,Vitis cinerea floridana
+7,Vitis baileyana,Graybark Grape,Climber,10.0,5-9,,LMH,SN,DM,2,0,1,Vitis cinerea floridana
+8,Vitis belaii,Grape,Climber,0.0,-,,LMH,SN,DM,4,0,1,Vitis cinerea floridana
+9,Vitis berlandieri,Spanish Grape,Climber,10.0,6-9,,LMH,SN,DM,3,0,1,Vitis cinerea floridana
+10,Vitis californica,"California Grape, California wild grape",Climber,9.0,6-9,M,LMH,SN,DM,2,0,2,Vitis cinerea floridana
+11,Vitis cinerea,"Sweet Winter Grape, Graybark grape, Florida grape, Heller's grape",Climber,0.0,4-8,,LMH,SN,DM,3,0,1,Vitis cinerea floridana
+12,Vitis coignetiae,Crimson Glory Vine,Climber,20.0,4-8,F,LMH,SN,DM,2,0,3,Vitis cinerea floridana
+13,Vitis cordifolia,Frost Grape,Climber,20.0,4-8,F,LMH,SN,DM,2,0,1,Vitis cinerea floridana
+14,Vitis davidii,Spiny Vitis,Climber,15.0,6-9,,LMH,SN,DM,2,0,3,Vitis cinerea floridana
+15,Vitis flexuosa,,Climber,8.0,5-9,,LMH,SN,DM,2,1,1,Vitis cinerea floridana
+16,Vitis girdiana,"Valley Grape, Desert wild grape",Climber,12.0,7-10,,LMH,SN,DM,2,0,2,Vitis cinerea floridana
+17,Vitis labrusca,"Northern Fox Grape, Fox grape",Climber,15.0,4-9,F,LMH,SN,DM,3,1,2,Vitis cinerea floridana
+18,Vitis labruscana,,Climber,15.0,4-8,,LMH,SN,DM,3,0,1,Vitis cinerea floridana
+19,Vitis lanata,Grape,Climber,0.0,8-11,,LMH,SN,DM,3,1,1,Vitis cinerea floridana
+20,Vitis monticola,Sweet Mountain Grape,Climber,10.0,5-9,,LMH,SN,DM,3,0,1,Vitis cinerea floridana
+21,Vitis munsoniana,"Bird Grape, Munson's grape",Climber,0.0,0-0,,LMH,SN,DM,3,0,1,Vitis cinerea floridana
+22,Vitis mustangensis,Mustang Grape,Climber,10.0,4-8,,LMH,SN,DM,3,0,1,Vitis cinerea floridana
+23,Vitis palmata,"Red Grape, Catbird grape",Climber,20.0,4-8,,LMH,SN,DM,2,0,1,Vitis cinerea floridana
+24,Vitis parvifolia,,Climber,0.0,6-9,,LMH,SN,DM,2,1,1,Vitis cinerea floridana
+25,Vitis riparia,Riverbank Grape,Climber,15.0,2-6,F,LMH,SN,DM,3,0,2,Vitis cinerea floridana
+26,Vitis romanetii,,Climber,10.0,5-9,,LMH,N,DM,2,0,1,Vitis cinerea floridana
+27,Vitis rotundifolia,"Muscadine Grape, Muscadine, Southern Fox Grape, Scuppernong, Muscadine Grape",Climber,25.0,5-9,F,LMH,SN,DM,4,0,1,Vitis cinerea floridana
+28,Vitis rupestris,Sand Grape,Climber,2.0,-,,LMH,SN,DM,3,0,2,Vitis cinerea floridana

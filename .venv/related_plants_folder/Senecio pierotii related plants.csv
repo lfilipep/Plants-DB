@@ -1,0 +1,12 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Senecio cannabifolius,Aleutian ragwort,Perennial,2.0,4-8,,LMH,N,M,1,2,,Senecio pierotii
+1,Senecio cineraria,"Cineraria, Dusty miller, Silver Groundsel",Shrub,0.6,8-10,M,LMH,N,DM,0,3,3.0,Senecio pierotii
+2,Senecio erucifolius,"Hoary Groundsel, Hoary ragwort",Perennial,0.6,5-9,,LMH,N,DM,0,2,,Senecio pierotii
+3,Senecio jacobaea,"Ragwort, Stinking willie",Perennial,1.0,4-8,,LMH,SN,M,0,2,2.0,Senecio pierotii
+4,Senecio nemorensis,,Perennial,2.0,5-9,,LMH,SN,M,1,1,,Senecio pierotii
+5,Senecio nemorensis fuchsii,,Perennial,2.0,5-9,,LMH,SN,M,1,0,,Senecio pierotii
+6,Senecio nikoensis,,Perennial,1.0,-,,LMH,SN,M,1,1,,Senecio pierotii
+7,Senecio pseudoarnica,Seaside Ragwort,Perennial,0.5,-,,LM,N,M,1,1,,Senecio pierotii
+8,Senecio scandens,,Climber,5.0,8-11,M,LMH,N,M,0,2,,Senecio pierotii
+9,Senecio sylvaticus,"Mountain Groundsel, Woodland ragwort",Annual,0.6,5-9,,LMH,N,DM,0,1,,Senecio pierotii
+10,Senecio viscosus,"Sticky Groundsel, Sticky ragwort",Annual,0.4,5-9,,LMH,N,DM,0,1,,Senecio pierotii

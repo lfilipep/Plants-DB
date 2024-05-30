@@ -1,0 +1,22 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Diervilla lonicera,"Bush Honeysuckle, Northern bush honeysuckle",Shrub,1.0,3-8,M,LMH,SN,M,0,2,2.0,Lonicera caprifolium
+1,Lonicera affinis,,Climber,7.0,5-9,,LMH,SN,M,1,1,,Lonicera caprifolium
+2,Lonicera angustifolia,Narrow-leafed honeysuckle,Shrub,2.7,4-8,M,LMH,N,M,4,0,2.0,Lonicera caprifolium
+3,Lonicera caerulea,"Sweetberry honeysuckle, Bluefly honeysuckle, Haskap berry",Shrub,2.0,3-9,F,LMH,N,M,4,0,0.0,Lonicera caprifolium
+4,Lonicera canadensis,"Fly Honeysuckle, American fly honeysuckle",Shrub,1.5,3-7,,LMH,N,M,1,1,,Lonicera caprifolium
+5,Lonicera chrysantha,Honeysuckle,Shrub,4.0,3-7,,LMH,N,M,1,0,,Lonicera caprifolium
+6,Lonicera ciliosa,Orange Honeysuckle,Climber,10.0,4-8,M,LMH,SN,M,2,2,2.0,Lonicera caprifolium
+7,Lonicera gracilipes,,Shrub,1.8,5-9,,LMH,N,M,1,1,,Lonicera caprifolium
+8,Lonicera gracilipes glabra,,Shrub,1.8,5-9,,LMH,N,M,1,1,,Lonicera caprifolium
+9,Lonicera henryi,,Climber,6.0,4-8,,LMH,SN,M,1,1,3.0,Lonicera caprifolium
+10,Lonicera involucrata,"Twinberry, Twinberry honeysuckle",Shrub,1.2,4-8,M,LMH,N,M,2,2,2.0,Lonicera caprifolium
+11,Lonicera japonica,Japanese Honeysuckle,Climber,5.0,4-10,F,LMH,SN,DM,2,3,3.0,Lonicera caprifolium
+12,Lonicera morrowii,Morrow's honeysuckle,Shrub,2.0,3-7,,LMH,N,M,1,1,0.0,Lonicera caprifolium
+13,Lonicera nitida,Boxleaf Honeysuckle,Shrub,3.0,6-9,F,LMH,FSN,M,0,0,3.0,Lonicera caprifolium
+14,Lonicera periclymenum,"Honeysuckle, European honeysuckle",Climber,4.5,4-8,M,LMH,FSN,M,1,2,3.0,Lonicera caprifolium
+15,Lonicera pileata,Privet honeysuckle,Shrub,0.2,4-8,,LMH,FSN,DM,0,0,3.0,Lonicera caprifolium
+16,Lonicera quinquelocularis,,Shrub,5.0,4-8,,LMH,N,DM,0,0,2.0,Lonicera caprifolium
+17,Lonicera sempervirens,"Trumpet Honeysuckle, Coral Honeysuckle",Shrub,5.0,4-9,F,LMH,N,DM,0,1,,Lonicera caprifolium
+18,Lonicera utahensis,Utah Honeysuckle,Shrub,1.5,4-8,,LMH,N,M,1,1,,Lonicera caprifolium
+19,Lonicera venulosa,,Shrub,1.5,5-9,,LMH,N,M,2,0,,Lonicera caprifolium
+20,Lonicera villosa,"Mountain fly honeysuckle, Fuller's honeysuckle",Shrub,1.5,3-9,S,LMH,N,M,3,0,0.0,Lonicera caprifolium

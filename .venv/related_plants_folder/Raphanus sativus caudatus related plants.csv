@@ -1,0 +1,6 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Raphanus landra,Radish,Annual,0.8,-,,LMH,SN,M,2,0,,Raphanus sativus caudatus
+1,Raphanus maritima,Sea Radish,Biennial,0.8,-,,LMH,SN,M,2,0,,Raphanus sativus caudatus
+2,Raphanus raphanistrum,Wild Radish,Annual,1.2,0-0,,LMH,SN,M,2,1,0.0,Raphanus sativus caudatus
+3,Raphanus sativus,"Radish, Cultivated radish",Annual,0.5,2-11,F,LMH,SN,M,4,3,3.0,Raphanus sativus caudatus
+4,Raphanus sativus niger,Oriental Radish,Annual,0.5,2-11,F,LMH,SN,M,4,3,3.0,Raphanus sativus caudatus

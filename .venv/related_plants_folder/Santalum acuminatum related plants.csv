@@ -1,0 +1,9 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Santalum austrocaledonicum,Pacific Sandalwood,Tree,10.0,10-12,S,LM,N,DM,0,1,4.0,Santalum acuminatum
+1,Santalum ellipticum,Coast Sandalwood,Tree,5.0,9-12,S,LM,SN,D,1,2,4.0,Santalum acuminatum
+2,Santalum freycinetianum,"Lanai Sandalwood, Hawaiian Sandalwood",Tree,10.0,9-12,S,LM,SN,D,1,2,4.0,Santalum acuminatum
+3,Santalum haleakalae,"Haleakala Sandalwood, Lliahi",Tree,3.0,9-12,S,LM,SN,D,1,2,4.0,Santalum acuminatum
+4,Santalum lanceolatum,,Shrub,0.0,-,,LMH,SN,M,1,1,2.0,Santalum acuminatum
+5,Santalum murrayanum,,Tree,0.0,-,,LMH,SN,M,1,0,,Santalum acuminatum
+6,Santalum paniculatum,"Mountain Sandalwood, Hawaiian Sandalwood, 'Iliahi",Tree,7.5,10-11,S,LM,SN,D,1,2,4.0,Santalum acuminatum
+7,Santalum spicatum,West Australian Sandalwood,Shrub,4.0,10-12,S,LMH,SN,D,2,2,4.0,Santalum acuminatum

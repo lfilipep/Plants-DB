@@ -1,0 +1,5 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Cupressus arizonica,Arizona Cypress,Tree,25.0,6-9,M,LMH,N,DM,0,0,3,Cupressus macrocarpa
+1,Cupressus funebris,"Chinese Weeping Cypress, Mourning-cypress",Tree,25.0,7-10,,LMH,N,DM,0,1,2,Cupressus macrocarpa
+2,Cupressus lusitanica,Mexican Cypress,Tree,35.0,9-12,F,MH,SN,M,0,2,4,Cupressus macrocarpa
+3,Cupressus sempervirens,Italian Cypress,Tree,30.0,7-11,M,LMH,N,DM,0,2,3,Cupressus macrocarpa

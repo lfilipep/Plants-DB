@@ -1,0 +1,6 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Ensete ventricosum,"Ethiopian Banana, Abyssinian banana",Perennial,6.0,9-11,,LMH,N,M,2,0,1,Musa basjoo
+1,Musa acuminata,"Dwarf Banana, Edible banana",Perennial,3.0,10-12,,LMH,SN,M,5,2,2,Musa basjoo
+2,Musa balbisiana,"Plantain, Plantain Banana",Perennial,5.0,9-12,F,LMH,SN,M,4,1,2,Musa basjoo
+3,Musa textilis,Abaca,Perennial,3.0,10-12,F,LMH,N,M,0,0,5,Musa basjoo
+4,Musa x paradisiaca,Banana,Perennial,8.0,10-12,F,LMH,N,M,5,2,2,Musa basjoo

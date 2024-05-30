@@ -1,0 +1,16 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Holodiscus dumosus,Rock Spiraea,Shrub,4.5,4-8,,LMH,SN,DM,1,1,,Spiraea betulifolia aemiliana
+1,Sorbaria sorbifolia,false spiraea,Shrub,1.8,2-7,F,LMH,SN,M,1,0,,Spiraea betulifolia aemiliana
+2,Spiraea alba,White Meadowsweet,Shrub,1.5,5-9,,LMH,SN,M,1,1,,Spiraea betulifolia aemiliana
+3,Spiraea blumei,,Shrub,1.5,5-9,,LMH,SN,M,1,0,,Spiraea betulifolia aemiliana
+4,Spiraea canescens,,Shrub,3.0,4-8,,LMH,SN,M,0,0,2.0,Spiraea betulifolia aemiliana
+5,Spiraea douglasii,"Steeplebush, Rose spirea, Menzies' spirea",Shrub,2.5,4-8,,LMH,SN,M,0,1,1.0,Spiraea betulifolia aemiliana
+6,Spiraea henryi,,Shrub,3.0,5-9,,LMH,N,M,1,0,,Spiraea betulifolia aemiliana
+7,Spiraea hirsuta,,Shrub,1.5,-,,LMH,N,M,1,0,,Spiraea betulifolia aemiliana
+8,Spiraea japonica,"Japanese Spiraea, Japanese meadowsweet",Shrub,1.5,4-8,,LMH,SN,M,0,0,3.0,Spiraea betulifolia aemiliana
+9,Spiraea nervosa angustifolia,,Shrub,1.5,5-9,,LMH,N,M,1,0,,Spiraea betulifolia aemiliana
+10,Spiraea prunifolia,Bridalwreath Spiraea,Shrub,2.5,4-8,M,LMH,SN,M,1,1,,Spiraea betulifolia aemiliana
+11,Spiraea pyramidata,Spirea,Shrub,1.0,5-9,,LMH,SN,M,1,1,,Spiraea betulifolia aemiliana
+12,Spiraea salicifolia,"Bridewort, Willowleaf meadowsweet",Shrub,1.8,4-8,,LMH,SN,M,1,1,1.0,Spiraea betulifolia aemiliana
+13,Spiraea thunbergii,"Thunberg's meadowsweet, Thunberg Spirea",Shrub,1.5,4-8,M,LMH,SN,M,0,0,3.0,Spiraea betulifolia aemiliana
+14,Spiraea tomentosa,"Hardhack, Steeplebush",Shrub,1.5,3-7,,LMH,SN,M,0,2,,Spiraea betulifolia aemiliana

@@ -1,0 +1,7 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Silene acaulis,Moss Campion,Perennial,0.1,-,,LM,N,M,1,1,3.0,Silene firma
+1,Silene conoidea,weed silene,Annual,0.3,0-0,,LM,N,M,0,1,0.0,Silene firma
+2,Silene dioica,"Red Campion, Red catchfly",Biennial/Perennial,0.5,5-9,,LMH,S,M,0,0,1.0,Silene firma
+3,Silene gallica,common catchfly,Annual,0.4,-,,LM,SN,DM,0,1,,Silene firma
+4,Silene latifolia,"White Campion, Bladder campion",Perennial,0.6,5-9,,LMH,N,M,0,0,1.0,Silene firma
+5,Silene nigrescens,,Perennial,0.1,-,,LM,SN,DM,0,2,,Silene firma

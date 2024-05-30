@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Rumex abyssinicus,Spinach Rhubarb,Perennial,3.0,-,,LMH,SN,M,1,0,1,Rumex graminifolius
+1,Rumex acetosa,"Sorrel, Garden sorrel",Perennial,0.6,3-7,,LMH,SN,M,5,3,4,Rumex graminifolius
+2,Rumex acetosella,"Sheeps Sorrel, Common sheep sorrel",Perennial,0.3,4-8,F,LMH,SN,M,4,3,1,Rumex graminifolius
+3,Rumex alpinus,"Alpine Dock, Munk's rhubarb",Perennial,1.2,4-8,M,LMH,SN,M,4,2,1,Rumex graminifolius
+4,Rumex angiocarpus,Common sheep sorrel,Perennial,0.3,0-0,,LMH,SN,M,1,0,1,Rumex graminifolius
+5,Rumex aquaticus,"Red Dock, Western dock",Perennial,1.8,0-0,,LMH,SN,WeWa,1,3,1,Rumex graminifolius
+6,Rumex arcticus,Arctic Dock,Perennial,0.0,-,,LMH,SN,We,2,1,1,Rumex graminifolius
+7,Rumex arifolius,Maiden Sorrel,Perennial,1.2,-,,LMH,SN,M,1,0,1,Rumex graminifolius
+8,Rumex berlandieri,amamastla,Perennial,0.6,-,,LMH,SN,M,1,0,1,Rumex graminifolius
+9,Rumex brownii,Swamp Dock,Perennial,0.6,-,,LMH,SN,M,2,0,1,Rumex graminifolius
+10,Rumex bucephalophorus,red dock,Annual/Perennial,0.0,-,,LMH,SN,DM,1,0,1,Rumex graminifolius
+11,Rumex conglomeratus,"Sharp Dock, Clustered dock",Perennial,1.0,0-0,,LMH,SN,M,1,2,1,Rumex graminifolius
+12,Rumex crispus,"Curled Dock, Curly dock",Perennial,0.6,4-8,,LMH,SN,M,2,3,2,Rumex graminifolius
+13,Rumex daiwoo,sour dock,Perennial,1.0,-,,LMH,SN,MWe,1,2,1,Rumex graminifolius
+14,Rumex dentatus,toothed dock,Annual/Biennial,0.6,-,,LMH,SN,M,1,1,1,Rumex graminifolius
+15,Rumex gmelinii,,Perennial,1.0,-,,LMH,SN,MWe,1,0,1,Rumex graminifolius
+16,Rumex hastatus,,Perennial,1.0,-,,LMH,SN,DM,2,2,1,Rumex graminifolius
+17,Rumex hydrolapathum,Great Water Dock,Perennial,1.8,5-9,,LMH,SN,MWeWa,1,1,1,Rumex graminifolius
+18,Rumex hymenosepalus,"Canaigre, Canaigre dock",Perennial,1.0,0-0,,LMH,SN,M,2,2,1,Rumex graminifolius
+19,Rumex japonicus,,Perennial,1.0,-,,LMH,SN,M,2,0,1,Rumex graminifolius
+20,Rumex longifolius,dooryard dock,Perennial,1.2,-,,LMH,SN,M,1,1,1,Rumex graminifolius
+21,Rumex maritimus,Golden Dock,Annual,0.5,-,,LMH,SN,MWe,1,2,1,Rumex graminifolius
+22,Rumex mexicanus,Mexican Dock,Perennial,1.0,-,,LMH,SN,M,1,2,1,Rumex graminifolius
+23,Rumex nepalensis,,Perennial,1.2,-,,LMH,SN,M,1,2,1,Rumex graminifolius
+24,Rumex obtusifolius,"Round-Leaved Dock, Bitter dock",Perennial,1.0,4-8,,LMH,SN,M,1,2,3,Rumex graminifolius
+25,Rumex occidentalis,Western Dock,Perennial,1.8,-,,LMH,SN,M,1,1,1,Rumex graminifolius
+26,Rumex patientia,Herb Patience,Perennial,1.5,5-10,,LMH,SN,M,3,1,1,Rumex graminifolius
+27,Rumex paucifolius,"Fewleaved Dock, Alpine sheep sorrel",Perennial,0.0,0-0,,LMH,SN,MWe,1,0,1,Rumex graminifolius
+28,Rumex pulcher,Fiddle Dock,Perennial,0.5,-,,LMH,SN,DM,1,0,1,Rumex graminifolius

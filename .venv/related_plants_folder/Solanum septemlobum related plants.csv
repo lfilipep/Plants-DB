@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Solanum aethiopicum,"Mock Tomato, Ethiopian nightshade",Shrub,2.5,10-12,,LMH,N,M,3,2,2.0,Solanum septemlobum
+1,Solanum ajanhuiri,Ajanhuiri,Perennial,0.0,9-11,,LMH,SN,M,2,0,,Solanum septemlobum
+2,Solanum americanum,"American Nightshade, American black nightshade",Annual,1.0,0-0,,LMH,N,M,1,0,0.0,Solanum septemlobum
+3,Solanum andigenum,Andigena,Perennial,0.0,-,,LMH,N,M,2,0,,Solanum septemlobum
+4,Solanum aviculare,"Kangaroo Apple, New Zealand nightshade",Shrub,1.8,8-11,,LMH,N,M,2,2,2.0,Solanum septemlobum
+5,Solanum boreale,,Perennial,0.0,-,,LMH,N,M,1,0,,Solanum septemlobum
+6,Solanum boyacense,,Perennial,0.0,-,,LMH,N,M,1,0,,Solanum septemlobum
+7,Solanum cari,,Perennial,0.0,-,,LMH,SN,M,1,0,,Solanum septemlobum
+8,Solanum carolinense,"Horse Nettle, Carolina horsenettle",Perennial,1.0,3-7,,LMH,SN,M,0,2,1.0,Solanum septemlobum
+9,Solanum chaucha,Chaucha,Perennial,0.0,-,,LMH,SN,M,1,0,,Solanum septemlobum
+10,Solanum curtilobum,Rucki,Perennial,0.0,-,,LMH,SN,M,2,0,,Solanum septemlobum
+11,Solanum dulcamara,"Bittersweet. Bittersweet Nightshade, Climbing nightshade, Bittersweet, Deadly Nightshade, Poisonous",Perennial Climber,2.5,4-8,M,LMH,SN,M,0,3,0.0,Solanum septemlobum
+12,Solanum fendleri,"Wild Potato, Fendler's horsenettle, Texan horsenettle",Perennial,0.0,0-0,,LMH,N,M,3,2,,Solanum septemlobum
+13,Solanum jamesii,"Colorado Wild Potato, Wild potato",Perennial,0.2,8-11,,LMH,N,M,2,0,,Solanum septemlobum
+14,Solanum juzepczukii,Rucki,Perennial,0.0,-,,LMH,SN,M,2,0,,Solanum septemlobum
+15,Solanum kurzii,,Perennial,0.0,-,,LMH,SN,M,1,0,,Solanum septemlobum
+16,Solanum laciniatum,Kangaroo Apple,Shrub,3.0,8-11,,LMH,N,M,2,2,2.0,Solanum septemlobum
+17,Solanum linearifolium,Mountain Kangaroo Apple,Shrub,0.0,-,,LMH,N,M,2,0,,Solanum septemlobum
+18,Solanum liximitante,,Perennial,0.0,-,,LMH,SN,M,1,0,,Solanum septemlobum
+19,Solanum luteum,,Annual,0.0,-,,LMH,SN,M,1,0,,Solanum septemlobum
+20,Solanum lycopersicum,"Tomato, Garden Tomato",Annual,2.0,10-12,F,LMH,N,M,5,3,3.0,Solanum septemlobum
+21,Solanum lyratum,,Perennial Climber,2.0,-,,LMH,N,M,1,2,,Solanum septemlobum
+22,Solanum maglia,,Perennial,0.0,-,,LMH,N,M,2,0,,Solanum septemlobum
+23,Solanum melongena,"Aubergine, Eggplant",Perennial,1.0,8-11,,LMH,N,M,3,2,,Solanum septemlobum
+24,Solanum muricatum,Pepino,Shrub,1.0,8-11,,LMH,N,M,4,0,0.0,Solanum septemlobum
+25,Solanum nigrum,"Black Nightshade, Common Nightshade, Poisonberry, Black Nightshade",Annual,0.6,0-0,,LMH,N,DM,2,2,2.0,Solanum septemlobum
+26,Solanum paniculatum,"Jurubeba, Nightshade",Shrub,2.0,10-12,F,LMH,SN,M,0,4,0.0,Solanum septemlobum
+27,Solanum phureja,"Phureja, Nightshade",Perennial,0.0,8-11,,LMH,SN,M,3,0,,Solanum septemlobum
+28,Solanum piliferum,,Perennial,0.0,-,,LMH,N,M,2,0,,Solanum septemlobum
+29,Solanum pimpinellifolium,Currant Tomato,Annual/Biennial,1.0,10-12,F,LMH,N,M,4,2,2.0,Solanum septemlobum

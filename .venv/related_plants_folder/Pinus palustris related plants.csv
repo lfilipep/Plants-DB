@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Acinos alpinus,Alpine Calamint,Perennial,0.5,4-8,,LMH,N,DM,1,1,,Pinus palustris
+1,Carpinus betulus,"Hornbeam, European hornbeam, Common Hornbeam, European Hornbeam",Tree,25.0,5-7,M,LMH,FSN,M,0,2,3.0,Pinus palustris
+2,Carpinus caroliniana,"American Hornbeam, Blue Beech, Ironwood, American Hornbeam",Tree,12.0,3-9,S,LMH,SN,M,1,1,2.0,Pinus palustris
+3,Carpinus cordata,,Tree,15.0,4-8,S,LMH,SN,M,0,0,2.0,Pinus palustris
+4,Carpinus laxiflora,,Tree,15.0,4-8,,LMH,SN,M,0,0,2.0,Pinus palustris
+5,Lupinus albus,White Lupin,Annual,1.2,0-0,,LM,N,M,4,1,4.0,Pinus palustris
+6,Lupinus albus graecus,,Annual,1.0,0-0,,LMH,N,DM,4,0,3.0,Pinus palustris
+7,Lupinus angustifolius,"Blue Lupin, Narrowleaf lupine",Annual,1.0,7-9,,LM,N,M,4,0,4.0,Pinus palustris
+8,Lupinus arboreus,"Tree Lupin, Yellow bush lupine",Shrub,1.5,7-10,F,LM,N,DM,0,0,5.0,Pinus palustris
+9,Lupinus hirsutus,,Annual,0.0,0-0,,LMH,N,M,2,0,3.0,Pinus palustris
+10,Lupinus littoralis,Seashore Lupine,Perennial,0.5,6-9,,LMH,N,M,2,0,3.0,Pinus palustris
+11,Lupinus luteus,"Yellow Lupin, European yellow lupine",Annual,0.6,5-9,,LM,N,M,3,0,3.0,Pinus palustris
+12,Lupinus mutabilis,"Pearl Lupin, Tarwi",Annual,1.5,8-11,,LMH,N,M,5,0,4.0,Pinus palustris
+13,Lupinus nootkatensis,"Blue Lupine, Nootka lupine",Perennial,0.7,4-8,,LMH,N,M,3,0,3.0,Pinus palustris
+14,Lupinus perennis,Sundial Lupine,Perennial,0.6,4-8,,LM,N,DM,3,1,3.0,Pinus palustris
+15,Lupinus polyphyllus,"Big-Leaf Lupin, Lupine",Perennial,1.5,5-9,M,LMH,N,M,1,1,4.0,Pinus palustris
+16,Lupinus tauris,,Shrub,0.0,0-0,,LM,N,DM,0,0,3.0,Pinus palustris
+17,Lupinus termis,White Lupin,Annual,1.0,0-0,,LMH,N,M,2,0,3.0,Pinus palustris
+18,Phyllocladus alpinus,Alpine Celery Pine,Shrub,9.0,7-10,S,LMH,SN,M,0,0,1.0,Pinus palustris
+19,Pinus albicaulis,White-Bark Pine,Tree,20.0,4-8,S,LM,N,DM,4,2,3.0,Pinus palustris
+20,Pinus aristata,Bristle-Cone Pine,Tree,12.0,3-10,S,LM,N,DM,2,2,2.0,Pinus palustris
+21,Pinus armandii,"Chinese White Pine, Armand pine",Tree,15.0,6-9,M,LM,N,DM,4,2,2.0,Pinus palustris
+22,Pinus ayacahuite,Mexican White Pine,Tree,55.0,6-9,,LM,N,DM,2,2,3.0,Pinus palustris
+23,Pinus banksiana,Jack Pine,Tree,12.0,2-7,F,LM,N,DM,2,2,3.0,Pinus palustris
+24,Pinus brutia,"Calabrian pine, Turkish pine",Tree,30.0,7-11,F,LMH,N,DM,2,3,3.0,Pinus palustris
+25,Pinus bungeana,"Lace-Bark Pine, Bunge's pine",Tree,10.0,4-7,S,LM,N,DM,3,2,3.0,Pinus palustris
+26,Pinus californiarum,,Tree,10.0,8-11,,LM,N,DM,1,2,3.0,Pinus palustris
+27,Pinus caribaea,Caribbean Pine. Caribbean pitch pine,Tree,30.0,10-12,F,LM,N,DM,2,2,3.0,Pinus palustris
+28,Pinus cembra,"Swiss Stone Pine, Swiss Pine, Arolla Pine",Tree,15.0,3-9,S,LMH,SN,DM,4,2,3.0,Pinus palustris
+29,Pinus cembra sibirica,Siberian Pine,Tree,30.0,1-6,S,LM,N,DM,4,2,3.0,Pinus palustris

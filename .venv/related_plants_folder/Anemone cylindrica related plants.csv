@@ -1,0 +1,14 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Anemone altaica,,Perennial,0.2,-,,LMH,S,M,0,1,,Anemone cylindrica
+1,Anemone canadensis,Canadian Anemone,Perennial,0.6,3-7,M,LMH,S,M,0,2,,Anemone cylindrica
+2,Anemone flaccida,,Perennial,0.1,5-9,,LMH,FS,M,1,0,,Anemone cylindrica
+3,Anemone narcissiflora,"Narcissus-Flowered Anemone, Narcissus anemone",Perennial,0.6,3-7,,LMH,SN,M,1,0,,Anemone cylindrica
+4,Anemone nemorosa,"Wood Anemone, European thimbleweed",Perennial,0.2,4-8,F,LMH,FSN,DM,0,1,,Anemone cylindrica
+5,Anemone nikoensis,,Perennial,0.3,5-9,,LMH,FSN,DM,1,0,,Anemone cylindrica
+6,Anemone obtusiloba,,Perennial,0.3,4-8,,LMH,N,M,0,1,,Anemone cylindrica
+7,Anemone quinquefolia,"Wind Flower, Wood anemone, Twoleaf anemone, Nightcaps",Perennial,0.3,6-9,,LMH,FS,M,0,1,,Anemone cylindrica
+8,Anemone rivularis,Cao Yu Mei,Perennial,0.6,6-9,,LM,FSN,M,1,2,,Anemone cylindrica
+9,Anemone stolonifera,,Perennial,0.2,-,,LMH,SN,M,1,0,,Anemone cylindrica
+10,Anemone virginiana,Tall Thimbleweed,Perennial,0.6,4-8,,LMH,FS,M,0,1,,Anemone cylindrica
+11,Anemone vitifolia,,Perennial,1.0,4-8,,LM,S,M,0,2,1.0,Anemone cylindrica
+12,Anemonella thalictroides,Rue-Anemone,Perennial,0.1,4-7,S,L,FS,M,2,1,,Anemone cylindrica

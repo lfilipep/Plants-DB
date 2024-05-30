@@ -1,0 +1,30 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Cyperus giganteus,"Piripiri, Mexican Papyrus",Perennial,1.5,9-11,F,LMH,N,WeWa,0,2,3.0,Pyrus faurei
+1,Cyperus papyrus,Papyrus. Papyrus sedge,Perennial,5.0,9-12,F,LMH,N,WeWa,2,2,2.0,Pyrus faurei
+2,Pyrus acidula,,Tree,0.0,-,,LMH,SN,M,1,0,,Pyrus faurei
+3,Pyrus amygdaliformis,,Tree,10.0,5-9,,LMH,SN,M,2,0,,Pyrus faurei
+4,Pyrus autumnalis,,Tree,0.0,-,,LMH,SN,M,1,0,,Pyrus faurei
+5,Pyrus balsanae,,Tree,15.0,5-9,,LMH,SN,M,3,0,,Pyrus faurei
+6,Pyrus betulaefolia,Birch-Leaved Pear,Tree,7.5,4-8,,LMH,SN,M,2,1,1.0,Pyrus faurei
+7,Pyrus bretschneideri,Chinese white pear,Tree,6.0,4-8,,LMH,SN,M,4,0,0.0,Pyrus faurei
+8,Pyrus calleryana,Callery Pear,Tree,15.0,5-9,F,LMH,SN,M,2,0,2.0,Pyrus faurei
+9,Pyrus calleryana dimorphophylla,,Tree,0.0,-,,LMH,SN,M,2,0,,Pyrus faurei
+10,Pyrus communis,"Wild Pear, Common pear",Tree,13.0,4-9,F,LMH,SN,M,2,1,3.0,Pyrus faurei
+11,Pyrus communis sativa,Pear,Tree,5.0,4-8,,LMH,SN,M,5,0,3.0,Pyrus faurei
+12,Pyrus cordata,"Plymouth Pear, Pear",Tree,0.0,8-10,M,LMH,SN,M,2,0,,Pyrus faurei
+13,Pyrus elaeagnifolia,,Tree,10.0,4-8,,LMH,SN,DM,2,0,,Pyrus faurei
+14,Pyrus elaeagnifolia kotschyana,,Tree,0.0,4-8,,LMH,SN,DM,2,0,,Pyrus faurei
+15,Pyrus glabra,,Tree,0.0,-,,LMH,SN,M,2,0,,Pyrus faurei
+16,Pyrus macrostipes,,Tree,0.0,-,,LMH,SN,M,1,0,,Pyrus faurei
+17,Pyrus maximowicziana,,Tree,0.0,-,,LMH,SN,M,1,0,,Pyrus faurei
+18,Pyrus nivalis,Snow Pear,Tree,10.0,5-9,,LMH,SN,DM,2,0,,Pyrus faurei
+19,Pyrus pashia,Indian Wild Pear,Tree,9.0,4-8,,LMH,SN,M,3,1,2.0,Pyrus faurei
+20,Pyrus persica,,Tree,6.0,6-9,,LMH,SN,M,2,0,,Pyrus faurei
+21,Pyrus phaeocarpa,,Tree,7.0,4-8,,LMH,SN,M,2,0,1.0,Pyrus faurei
+22,Pyrus prematura,,Tree,0.0,-,,LMH,SN,M,1,0,,Pyrus faurei
+23,Pyrus pyraster,,Tree,7.0,5-9,,LMH,SN,M,3,0,,Pyrus faurei
+24,Pyrus pyrifolia,"Sand Pear, Chinese pear",Tree,10.0,5-9,,LMH,SN,M,4,1,0.0,Pyrus faurei
+25,Pyrus pyrifolia culta,Asian Pear,Tree,10.0,5-9,,LMH,SN,M,4,1,,Pyrus faurei
+26,Pyrus regellii,,Tree,9.0,5-9,,LMH,SN,DM,2,0,1.0,Pyrus faurei
+27,Pyrus salicifolia,Willow-Leaved Pear,Tree,7.5,4-8,,LMH,SN,DM,2,0,2.0,Pyrus faurei
+28,Pyrus serrulata,,Tree,10.0,5-9,,LMH,SN,M,1,0,,Pyrus faurei

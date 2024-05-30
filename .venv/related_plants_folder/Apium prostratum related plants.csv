@@ -1,0 +1,11 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Aethusa cynapium,Fool's Parsley,Annual,1.2,-,,LMH,FSN,DM,1,1,,Apium prostratum
+1,Apium annuum,,Annual,0.1,-,,LMH,SN,M,0,0,,Apium prostratum
+2,Apium australe,,Perennial,0.6,-,,LMH,S,M,3,0,1.0,Apium prostratum
+3,Apium filiforme,,Perennial,0.3,-,,LMH,S,M,3,0,,Apium prostratum
+4,Apium graveolens,"Wild Celery. Ajmod, Ajwain-ka-patta (Indian)",Biennial,0.6,5-9,,LMH,S,M,3,3,2.0,Apium prostratum
+5,Apium graveolens dulce,Celery,Biennial,0.6,-,,LM,SN,M,4,2,2.0,Apium prostratum
+6,Apium graveolens rapaceum,Celeriac,Biennial,0.6,5-9,,LMH,S,M,4,2,2.0,Apium prostratum
+7,Apium graveolens secalinum,Leaf Celery,Biennial,0.6,-,,LM,SN,M,4,2,2.0,Apium prostratum
+8,Apium insulare,,,0.0,-,,LMH,SN,M,0,0,,Apium prostratum
+9,Sapium japonicum,,Shrub,5.0,8-11,,LMH,N,M,1,0,,Apium prostratum

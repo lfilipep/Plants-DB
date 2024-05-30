@@ -1,0 +1,31 @@
+,Latin Name,Common Name,Habit,Height,Hardiness,Growth,Soil,Shade,Moisture,Edible,Medicinal,Other,Related To
+0,Adiantum pedatum,"Northern Maidenhair,American Maidenhair Fern",Fern,0.5,4-9,S,LMH,S,M,0,2,2.0,Erica tetralix
+1,Agave americana,"Agave, American century plant",Perennial,7.5,8-11,S,LM,N,DM,3,3,3.0,Erica tetralix
+2,Alisma plantago-aquatica,"Great Water Plantain, ZE-XIE, European water plantain, American water plantain, Northern water plan",Perennial,0.9,5-9,,LMH,N,WeWa,1,3,,Erica tetralix
+3,Alnus viridis crispa,American Green Alder,Shrub,3.0,4-8,,MH,SN,MWe,1,2,3.0,Erica tetralix
+4,Ammophila breviligulata,"Beach Grass, American beachgrass",Perennial,1.3,4-8,,LM,N,DM,0,0,,Erica tetralix
+5,Amphicarpaea bracteata,"Hog Peanut, American hogpeanut",Perennial Climber,1.5,4-9,,LMH,FS,M,5,1,3.0,Erica tetralix
+6,Andromeda glaucophylla,Bog Rosemary,Shrub,0.6,-,,LM,S,MWe,2,0,,Erica tetralix
+7,Andromeda polifolia,"Marsh Andromeda, Bog rosemary",Shrub,0.3,2-6,S,LM,S,MWe,2,1,1.0,Erica tetralix
+8,Apios americana,Ground Nut,Perennial,1.2,3-9,,LM,SN,M,5,1,3.0,Erica tetralix
+9,Aralia racemosa,American Spikenard,Perennial,1.8,4-8,,LMH,FS,M,3,3,2.0,Erica tetralix
+10,Aralia spinosa,"Hercule's Club, Aralia spinosa, American Angelica Tree, Hercules' Club, Devil's Walking Stick",Tree,9.0,5-9,S,LMH,FS,M,2,2,2.0,Erica tetralix
+11,Arbutus andrachne,Grecian StrawberryTree,Tree,6.0,7-10,S,LM,N,DM,3,0,3.0,Erica tetralix
+12,Arbutus arizonica,Arizona Maderone,Tree,15.0,5-9,S,LM,SN,DM,2,1,2.0,Erica tetralix
+13,Arbutus canariensis,Canary Madrona,Tree,10.0,7-10,,LM,SN,M,2,0,,Erica tetralix
+14,Arbutus menziesii,"Madrona, Pacific madrone, Pacific Madrone",Tree,15.0,8-9,M,LM,SN,DM,3,2,2.0,Erica tetralix
+15,Arbutus texana,Texas Madrone,Tree,8.0,7-10,S,LM,SN,DM,2,1,2.0,Erica tetralix
+16,Arbutus unedo,Strawberry Tree,Tree,9.0,7-11,M,LM,SN,DM,4,2,2.0,Erica tetralix
+17,Arbutus x andrachnoides,,Tree,10.0,7-10,M,LMH,SN,M,4,0,,Erica tetralix
+18,Arbutus xalapensis,"Madrono, Texas madrone",Tree,12.0,7-10,S,LM,SN,DM,2,0,,Erica tetralix
+19,Arctostaphylos alpina,Alpine Bearberry,Shrub,0.1,-,,LM,SN,M,2,1,,Erica tetralix
+20,Arctostaphylos columbiana,Hairy Manzanita,Shrub,1.5,6-9,,LM,SN,M,2,1,2.0,Erica tetralix
+21,Arctostaphylos glauca,Bigberry Manzanita,Shrub,4.0,7-10,,LM,SN,DM,2,2,3.0,Erica tetralix
+22,Arctostaphylos manzanita,"Manzanita, Whiteleaf manzanita, Konocti manzanita, Contra Costa manzanita, Roof's manzanita, Wieslan",Shrub,2.0,7-10,,LM,SN,DM,3,1,3.0,Erica tetralix
+23,Arctostaphylos nevadensis,Pine-Mat Manzanita,Shrub,0.1,5-9,M,LM,SN,M,2,1,3.0,Erica tetralix
+24,Arctostaphylos parryana,Parry Manzanita,Shrub,1.8,-,,LM,SN,DM,1,0,1.0,Erica tetralix
+25,Arctostaphylos patula,Greenleaf Manzanita,Shrub,2.0,5-9,,LM,SN,M,3,1,1.0,Erica tetralix
+26,Arctostaphylos pungens,Pointleaf Manzanita,Shrub,0.0,-,,LM,SN,DM,1,1,2.0,Erica tetralix
+27,Arctostaphylos stanfordiana,"Stanford's manzanita, Rincon manzanita",Shrub,1.5,5-9,,LM,SN,DM,3,0,1.0,Erica tetralix
+28,Arctostaphylos tomentosa,"Downy Manzanita, Woollyleaf manzanita, Brittleleaf manzanita, Dacite manzanita, Rosy manzanita, San",Shrub,1.5,7-10,,LM,SN,M,3,3,3.0,Erica tetralix
+29,Arctostaphylos uva-ursi,Bearberry,Shrub,0.1,4-8,M,LM,FSN,M,3,4,4.0,Erica tetralix
