@@ -479,9 +479,10 @@ def plant_files(plants_links):
                 
                 # Extract other names text
                 if "Other Names" in h2_titles:
-                    paragraph_text = extract_text(soup, "#ContentPlaceHolder1_lblOtherNameText")
-                    other_names = paragraph_text.parent.find_previous('p').text
-                    plant_table.loc[len(plant_table)] = ["Other Names", other_names.strip()]  # adding a row  
+                    #paragraph_text = extract_text(soup, "#ContentPlaceHolder1_lblOtherNameText")
+                    #other_names = paragraph_text.parent.find_previous('p').text
+                    other_names = extract_text(soup, "#ContentPlaceHolder1_lblOtherNameText")
+                    plant_table.loc[len(plant_table)] = ["Other Names", format_text(other_names.text).strip()]  # adding a row  
                 
                 # Extract native plants search text
                 if "Native Plant Search" in h2_titles:
@@ -491,19 +492,21 @@ def plant_files(plants_links):
                 
                 # Extract "found in"  in text
                 if "Found In" in h2_titles:
-                    paragraph_text = soup.find(string=re.compile("Found In"))
-                    found_in = paragraph_text.find_next('p').text
-                    plant_table.loc[len(plant_table)] = ["Found In", found_in.strip()]  # adding a row 
+                    #paragraph_text = soup.find(string=re.compile("Found In"))
+                    #found_in = paragraph_text.find_next('p').text
+                    found_in = extract_text(soup, "#ContentPlaceHolder1_lblFoundInText")
+                    plant_table.loc[len(plant_table)] = ["Found In", format_text(found_in.text).strip()]  # adding a row 
                     
                     
                 # Extract weed potencial text
                 if "Weed Potential" in h2_titles:
-                    paragraph_text = extract_text(soup, "#ContentPlaceHolder1_lblWeedPotentialText")
-                    weed_potencial = paragraph_text.parent.find_previous('p')
+                    #paragraph_text = extract_text(soup, "#ContentPlaceHolder1_lblWeedPotentialText")
+                    #weed_potencial = paragraph_text.parent.find_previous('p')
+                    weed_potencial = extract_text(soup, "#ContentPlaceHolder1_lblWeedPotentialText")
                     plant_table.loc[len(plant_table)] = ["Weed Potencial", format_text(weed_potencial.text).strip()]  # adding a row 
    
                 # Save plant table to csv
-                plant_table.to_csv(f"./plant_details_folder/{plant_latin_name} details.csv")                             
+                plant_table.to_csv(f"./plant_profile/{plant_latin_name} details.csv")                             
                                   
             else:
                 print(f"Failed to retrieve content from {url}. Status code: {data.status_code}")        
@@ -520,30 +523,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-# def Convert(lst):
-#     res_dct = {lst[i]: lst[i + 1] for i in range(0, len(lst), 2)}
-#     return res_dct
-         
-# # Driver code
-# lst = ['a', 1, 'b', 2, 'c', 3]
-# print(Convert(lst))
-
-
-#Query from a database
-# query = "SELECT * FROM table"
-# result_df = pd.read_sql(query, engine)
-
-
-# def parse_item_page(html):
-# 	new_item = Item(
-# 		name=extract_text(html, "h1#product-page-title"),
-# 		item_num=extract_text(html, "span#product-item-number"),
-# 		price=extract_text(html, "span#buy-box-product-price"),
-# 		rating=extract_text(html, "span.cdr-rating__number_13-5-3")
-# 	)
-# 	return asdict(new_item)

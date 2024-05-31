@@ -1,5 +1,5 @@
 '''
-Code to insert related to plant on "related plants" files
+Code to insert "related to" plant on "related plants" files
 '''
 import os
 import csv

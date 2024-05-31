@@ -48,7 +48,8 @@ cursor.execute('''
 # Create the second table with a foreign key referencing the first table
 cursor.execute('''
                CREATE TABLE IF NOT EXISTS Related_plants(
-                    Latin_name TEXT PRIMARY KEY NOT NULL,
+                    id INTEGER PRIMARY KEY,
+                    Latin_name TEXT NOT NULL,
                     Common_name TEXT NOT NULL,
                     Habitat TEXT,
                     Height TEXT,
