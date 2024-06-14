@@ -1,15 +1,15 @@
 import sqlite3
 
 # Connect to the SQLite database (or create it if it doesn't exist)
-conn = sqlite3.connect('plants_db.db')
+conn = sqlite3.connect('plants_database.db')
 
 # Create a cursor object to execute SQL queries
 cursor = conn.cursor()
 
 # Create the first table
 cursor.execute('''
-               CREATE TABLE IF NOT EXISTS Plant_Details (
-                    Latin_name TEXT PRIMARY KEY NOT NULL,
+               CREATE TABLE IF NOT EXISTS Plant_Details(
+                    Latin_name TEXT PRIMARY KEY UNIQUE,
                     Common_name TEXT NOT NULL,
                     Family TEXT NOT NULL,
                     USDA_hardiness TEXT,
@@ -61,8 +61,8 @@ cursor.execute('''
                     Edible TEXT,
                     Medicinal TEXT,
                     Other TEXT,
-                    Related_to TEXT,
-                    FOREIGN KEY(Related_to) REFERENCES Plant_Details(Latim_name)
+                    Related_to TEXT NOT NULL,
+                    FOREIGN KEY(Related_to) REFERENCES Plant_Details(Latin_name)
                 )
             ''')
 

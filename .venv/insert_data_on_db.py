@@ -20,7 +20,7 @@ plant_details_folder = './plant_details_folder'
 related_plants_folder = './related_plants_folder'
 
 # Define the database connection and cursor
-conn = sqlite3.connect('plants_db.db')
+conn = sqlite3.connect('plants_database.db')
 cursor = conn.cursor()
 
 
